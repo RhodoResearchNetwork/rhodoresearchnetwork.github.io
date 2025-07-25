@@ -1,1 +1,7 @@
-
+title: "Rhododendron Taxonomy"
+description: "A curated checklist and literature archive"
+author: "R-RN"
+baseurl: "/taxonomy-pages"  # Only needed if hosted in a subfolder
+url: "https://username.github.io"  # Replace with your GitHub Pages domain
+theme: minima  # Or another supported Jekyll theme
+markdown: kramdown
