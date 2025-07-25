@@ -1,5 +1,5 @@
 ---
-title: "{{ scientific_name }} {{ scientificnameauthorship }}"
+title: "RHododendron sikkimense"
 layout: page
 exclude_from_nav: true
 genus: "Rhododendron"
