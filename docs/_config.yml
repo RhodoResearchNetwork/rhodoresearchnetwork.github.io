@@ -8,7 +8,7 @@ remote_theme: "jekyll/minima"
 
 minima:
   skin: classic
-  nav_pages:
+  header_pages:
     - projects.md
     - checklist.md
     - publications.md
