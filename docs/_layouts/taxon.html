@@ -1,0 +1,53 @@
+{% include header.html %}
+
+<main class="taxon-entry" role="main">
+  <article>
+    <h1>
+      <em>{{ page.scientific_name }}</em>
+      {% if page.scientificnameauthorship %}
+        {{ page.scientificnameauthorship }}
+      {% endif %}
+    </h1>
+
+    {% if page.namepublishedin %}
+      <p><strong>Published in:</strong> {{ page.namepublishedin }}</p>
+    {% endif %}
+
+    <section>
+      <h2>Taxonomic Overview</h2>
+      <ul>
+        {% if page.family %}<li><strong>Family:</strong> {{ page.family }}</li>{% endif %}
+        {% if page.genus %}<li><strong>Genus:</strong> {{ page.genus }}</li>{% endif %}
+        {% if page.order %}<li><strong>Order:</strong> {{ page.order }}</li>{% endif %}
+        {% if page.kingdom %}<li><strong>Kingdom:</strong> {{ page.kingdom }}</li>{% endif %}
+      </ul>
+    </section>
+
+    {% if page.source or page.identifier %}
+    <section>
+      <h2>Source & Identifiers</h2>
+      <ul>
+        {% if page.source %}<li><strong>Source:</strong> {{ page.source }}</li>{% endif %}
+        {% if page.identifier %}<li><strong>Identifier:</strong> {{ page.identifier }}</li>{% endif %}
+        {% if page.ipni_id %}<li><strong>IPNI:</strong> <a href="https://www.ipni.org/n/{{ page.ipni_id }}">{{ page.ipni_id }}</a></li>{% endif %}
+        {% if page.wfo_id %}<li><strong>WFO:</strong> <a href="http://list.worldfloraonline.org/{{ page.wfo_id }}">{{ page.wfo_id }}</a></li>{% endif %}
+      </ul>
+    </section>
+    {% endif %}
+
+    {{ content }}
+
+    {% if page.references %}
+    <section>
+      <h2>References</h2>
+      <ul>
+        {% for ref in page.references %}
+          <li>{{ ref }}</li>
+        {% endfor %}
+      </ul>
+    </section>
+    {% endif %}
+  </article>
+</main>
+
+{% include footer.html %}
