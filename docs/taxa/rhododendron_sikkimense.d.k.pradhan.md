@@ -1,4 +1,5 @@
 ---
+title: {{ page.scientific_name }} {{ page.scientificnameauthorship }}
 layout: page
 exclude_from_nav: true
 genus: "Rhododendron"
