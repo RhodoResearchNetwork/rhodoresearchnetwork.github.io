@@ -1,5 +1,6 @@
 ---
 layout: page
+title: checklist
 premalink: /checklist/
 ---
 Checklist is here.
