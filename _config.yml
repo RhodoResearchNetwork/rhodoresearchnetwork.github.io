@@ -1,7 +1,25 @@
-title: "Rhododendron Research Network Checklist"
-description: "A curated checklist for the World Flora Online and supporting Rhododendron research"
-author: "R-RN"
-baseurl: "/taxonomy-pages"  # Only needed if hosted in a subfolder
-url: "https://rrn.github.io"  # Replace with your GitHub Pages domain
-theme: minima  # Or another supported Jekyll theme
-markdown: kramdown
+plugins:
+  # add remote-theme plugin
+  - jekyll-remote-theme
+
+# Use remote-theme plugin to load `minima` repository. But first, ensure the `theme` key is disabled.
+# theme: minima
+remote_theme: "jekyll/minima"
+
+minima:
+  skin: classic
+  nav_pages:
+    - developers.md
+    - concepts.md
+    - contact.md
+title: "Rhododendron Research Network"
+description: "Documentation and projects for the R-RN"
+author:
+  name: Alan Elliott
+  email: aelliott@rbge.org.uk
+
+  #
+# header_pages:
+#  - developers.md
+#  - concepts.md
+#  - contact.md
