@@ -20,6 +20,7 @@ wfo parent id:
 wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: "urn:lsid:ipni.org:names:77365698-1"
 verified: A.Elliott
+exclude_from_nav: true
 ---
 
 
