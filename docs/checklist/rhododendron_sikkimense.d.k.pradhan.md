@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron sikkimense
+title: "Rhododendron sikkimense"
 layout: taxon
 exclude_from_nav: true
 genus: "Rhododendron"
