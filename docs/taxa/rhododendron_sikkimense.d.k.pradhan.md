@@ -1,6 +1,6 @@
 ---
 title: "Rhododendron sikkimense"
-layout: page
+layout: post
 exclude_from_nav: true
 genus: "Rhododendron"
 family: "Ericaceae"
