@@ -5,4 +5,4 @@ premalink: /checklist/
 ---
 Checklist is here.
 
-[rhododendron sikkimense](/rhododendron_sikkimense.d.k.pradhan.md)
+[rhododendron sikkimense](/docs/checklist/rhododendron_sikkimense.d.k.pradhan.md)
