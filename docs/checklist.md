@@ -1,7 +1,7 @@
 ---
 layout: page
 title: checklist
-premalink: /checklist/
+permalink: /checklist/
 ---
 Checklist is here.
 
