@@ -18,6 +18,8 @@ description: "Documentation and projects for the R-RN"
 author:
   name: Alan Elliott
   email: aelliott@rbge.org.uk
+exclude:
+  - _checklist
 
   #
 # header_pages:
