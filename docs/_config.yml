@@ -19,7 +19,7 @@ author:
   name: Alan Elliott
   email: aelliott@rbge.org.uk
 exclude:
-  - checklist
+  - _checklist
 
   #
 # header_pages:
