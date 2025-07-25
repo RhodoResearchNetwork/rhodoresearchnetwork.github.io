@@ -9,9 +9,9 @@ remote_theme: "jekyll/minima"
 minima:
   skin: classic
   nav_pages:
-    - developers.md
-    - concepts.md
-    - contact.md
+    - projects.md
+    - checklist.md
+    - publications.md
 title: "Rhododendron Research Network"
 description: "Documentation and projects for the R-RN"
 author:
@@ -20,6 +20,6 @@ author:
 
   #
 # header_pages:
-#  - developers.md
-#  - concepts.md
-#  - contact.md
+#  - projects.md
+#  - checklist.md
+#  - publication.md
