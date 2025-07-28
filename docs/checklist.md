@@ -1,7 +1,8 @@
 ---
 layout: page
-title: checklist
+title: working checklist
 permalink: /checklist/
+date: YYYY-MM-DD hh:mm:ss -0000
 ---
 Checklist is here.
 
