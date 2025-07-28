@@ -1,6 +1,5 @@
 ---
-layout: base
-visible: false # exlcuded from nav
+
 ---
 
 
