@@ -19,9 +19,9 @@ wfo_id : "wfo-0001047937"
 wfo_parent_id: "wfo-1000002599"
 wfo_accepted_id: "" #if synonym probably needs to be archived.                      
 ipni_id: "urn:lsid:ipni.org:names:331863-1"
-verified: A. Elliott, + others?
+verified: A. Elliott, Testy McTestface?
 ---
-### _{{ page.scientificname }}_ {{ page.scientificnauthorship }}
+### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
  {{ page.namepublishedin }}
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
@@ -55,3 +55,4 @@ Mountain summits
 ## References
 
 Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):293
+
