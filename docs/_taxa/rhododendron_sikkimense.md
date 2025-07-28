@@ -29,7 +29,7 @@ verified: A.Elliott
  
 **WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
 
-**IPNI ID:** {{ page.IPNI_id }}(https://www.ipni.org/){{ page.IPNI_id }}
+**IPNI ID:** {{ page.IPNI_id }}(https://www.ipni.org/n/){{ page.IPNI_id }}
 
 ## Taxonomic Overview  
 
