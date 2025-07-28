@@ -1,8 +1,8 @@
 ---
 layout: "page"
 title: "Rhododendron aberconwayi Cowan"
-scientific name: "Rhododendron aberconwayi"
-scientific authorship: "Cowan"                       
+scientificname: "Rhododendron aberconwayi"
+scientificauthorship: "Cowan"                       
 genus: "Rhododendron"
 subfamily: "subg. Hymenanthes"
 section: "sect. Pontica"
@@ -13,7 +13,7 @@ author: "Chamberlain, D.F."
 created: "1982"
 license: ""
 tags: ["taxonomy", "Rhododendron"]
-name published in: "Rhododendron Yearbook 3: 42, f. 17 (1949)."
+namepublishedin: "Rhododendron Yearbook 3: 42, f. 17 (1949)."
 doi: ""
 wfo_id : "wfo-0001047937"
 wfo_parent_id: "wfo-1000002599"
@@ -21,7 +21,7 @@ wfo_accepted_id: "" #if synonym probably needs to be archived.
 ipni_id: "urn:lsid:ipni.org:names:331863-1"
 verified:
 ---
-# _{{ page.scientific name }}_ {{ page.scientific authorship }}
+# _{{ page.scientificname }}_ {{ page.scientificauthorship }}
  {{ page.namepublishedin }}
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
