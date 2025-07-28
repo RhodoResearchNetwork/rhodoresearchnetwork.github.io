@@ -3,7 +3,6 @@ title: Code of Conduct
 permalink: /coc/
 layout: page
 ---
-**CODE OF CONDUCT**
 
 **DRAFT**
 The Rhododendron Research Network (R-RN) GitHub is intended to foster the exchange of scientific ideas, providing participants with an opportunity to participate in research, establish/renew collaborations, to learn, teach, and network with a diverse community of professional and citizen scientists.
