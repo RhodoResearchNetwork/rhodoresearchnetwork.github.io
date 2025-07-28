@@ -1,5 +1,5 @@
 ---
-title: Code of Conduct
+title: "Code of Conduct"
 permalink: /coc/
 layout: page
 ---
