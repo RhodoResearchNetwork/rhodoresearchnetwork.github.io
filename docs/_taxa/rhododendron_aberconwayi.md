@@ -19,9 +19,9 @@ wfo_id : "wfo-0001047937"
 wfo_parent_id: "wfo-1000002599"
 wfo_accepted_id: "" #if synonym probably needs to be archived.                      
 ipni_id: "urn:lsid:ipni.org:names:331863-1"
-verified:
+verified: A. Elliott, + others?
 ---
-# _{{ page.scientificname }}_ {{ page.scientificauthorship }}
+###_{{ page.scientificname }}_ {{ page.scientificnauthorship }}
  {{ page.namepublishedin }}
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
@@ -30,8 +30,8 @@ verified:
 
 **IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
 
+Verified by: {{verified}}
 
-                       
 
 
 ## Description
