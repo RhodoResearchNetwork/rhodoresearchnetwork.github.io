@@ -1,5 +1,6 @@
 plugins:
   # add remote-theme plugin
+  - jekyll-feed
   - jekyll-remote-theme
 
 # Use remote-theme plugin to load `minima` repository. But first, ensure the `theme` key is disabled.
@@ -23,6 +24,10 @@ collections:
   taxa:
     output: true
     permalink: /taxa/:slug/
+feed:
+  path: feed.xml
+  collections:
+    - taxa
 
   
   #
