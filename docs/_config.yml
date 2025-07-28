@@ -8,10 +8,10 @@ remote_theme: "jekyll/minima"
 
 minima:
   skin: classic
-  header_pages:
-    - projects.md
-    - checklist.md
-    - publications.md
+#  header_pages:
+   # - projects.md
+   # - checklist.md
+   # - publications.md
     
 title: "Rhododendron Research Network"
 description: "Documentation and projects for the R-RN"
