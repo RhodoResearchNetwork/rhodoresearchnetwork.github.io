@@ -20,11 +20,13 @@ description: "Documentation and projects for the R-RN"
 author:
   name: Alan Elliott
   email: aelliott@rbge.org.uk
+
 source: docs
 collections:
   taxa:
     output: true
     permalink: /taxa/:slug/
+
 feed:
   path: feed.xml
   collections:
