@@ -1,6 +1,14 @@
 <nav>
   <ul>
     {% for item in site.data.navigation %}
+      {% if item.visible != false %}
+        <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</nav><nav>
+  <ul>
+    {% for item in site.data.navigation %}
       <li><a href="{{ item.url }}">{{ item.title }}</a></li>
     {% endfor %}
   </ul>
