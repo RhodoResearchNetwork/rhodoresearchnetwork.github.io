@@ -15,6 +15,7 @@ header_pages:
     - checklist.md
     - publications.md
     - coc.md
+    - sibbaldia.md
       
 title: "Rhododendron Research Network"
 description: "Documentation and projects for the R-RN"
