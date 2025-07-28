@@ -17,10 +17,10 @@ license: ""
 tags: ["taxonomy", "Rhododendron"]
 namepublishedin: "J. Mountain Res. 18(1): 2023 (2023)"
 doi: ""
-wfo id : "wfo-0000405461"
-wfo parent id: 
-wfo accepted id: "" #if synonym probably needs to be archived.                      
-ipni id: "urn:lsid:ipni.org:names:77365698-1"
+wfo_id : "wfo-0000405461"
+wfo_parent id: 
+wfo_accepted_id: "" #if synonym probably needs to be archived.                      
+ipni_id: "urn:lsid:ipni.org:names:77365698-1"
 verified: A.Elliott
 ---
 
