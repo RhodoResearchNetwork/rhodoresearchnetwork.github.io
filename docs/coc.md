@@ -1,3 +1,7 @@
+---
+title: Code of Conduct
+
+---
 **CODE OF CONDUCT**
 
 **DRAFT**
