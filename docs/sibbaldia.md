@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sibbaldia special issue
+title: "Sibbaldia special issue"
 permalink: /sibbaldia/
 ---
 
