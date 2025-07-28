@@ -11,10 +11,10 @@ minima:
   skin: classic
   
 header_pages:
-    - checklist.md
+ #   - checklist.md
     - coc.md
     - projects.md
-    - publications.md
+ #   - publications.md
     - sibbaldia.md
       
 title: "Rhododendron Research Network"
