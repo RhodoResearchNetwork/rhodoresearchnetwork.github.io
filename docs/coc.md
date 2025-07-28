@@ -1,6 +1,7 @@
 ---
 title: Code of Conduct
-
+permalink: /coc/
+layout: page
 ---
 **CODE OF CONDUCT**
 
