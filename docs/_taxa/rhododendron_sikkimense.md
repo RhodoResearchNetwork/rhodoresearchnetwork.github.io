@@ -1,7 +1,7 @@
 ---
 layout: taxon
 title: Rhododendron sikkimense
-exclude_from_nav: true
+nav: false
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
