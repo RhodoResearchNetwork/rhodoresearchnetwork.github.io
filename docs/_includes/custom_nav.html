@@ -1,15 +1,15 @@
-<nav>
-  <ul>
-    {% for item in site.data.navigation %}
-      {% if item.visible != false %}
-        <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-      {% endif %}
-    {% endfor %}
-  </ul>
-</nav><nav>
-  <ul>
-    {% for item in site.data.navigation %}
-      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-    {% endfor %}
-  </ul>
-</nav>
+<header class="site-header" role="banner">
+  <div class="wrapper">
+    <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title }}</a>
+    <nav class="site-nav">
+      <span class="menu-trigger">&#9776;</span>
+      <ul class="trigger">
+        {% for item in site.data.navigation %}
+          {% if item.visible != false %}
+            <li><a class="page-link" href="{{ item.url }}">{{ item.title }}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </nav>
+  </div>
+</header>
