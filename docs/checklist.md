@@ -1,6 +1,6 @@
 ---
 layout: page
-title: checklist
+title: "Checklist"
 permalink: /checklist/
 ---
 This is the working R-RN checklist.
