@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron aberconwayi Cowan
+scientificname: Rhododendron beanianum Cowan
 scientificnameauthorship: Cowan
 genus: Rhododendron
 subfamily: ''
@@ -14,12 +14,12 @@ license: ''
 tags:
 - taxonomy
 - Rhododendron
-namepublishedin: 'Rhododendron Yearbook 3: 42, f. 17 (1949).'
+namepublishedin: 'New Flora & Silva 10: 245, f. 80 (1938).'
 doi: ''
-wfo_id: wfo-0001047937
+wfo_id: wfo-0001047938
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: urn:lsid:ipni.org:names:331863-1
+ipni_id: urn:lsid:ipni.org:names:332011-1
 verified: null
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
@@ -36,16 +36,16 @@ Verified by: {{ page.verified }}
 
 
 ## Description
-Shrub, 1.5-2.5m. Leaves elliptic, thick and coriaceous, 3-6 x 1.1-2.2cm, c.3 x as long as broad, apex acute, base cuneate, margin strongly recurved, not undulate, glabrous when mature, with red punctate hair bases overlying the veins beneath; petioles 0.5-lcm, papillate. Inflorescence 6—12-flowered, dense; rhachis c.5mm; pedicels 20—30mm, sparsely hairy and stipitate-glandular. Calyx c.lmm, sparsely hairy, glandular-ciliate. Corolla open-campanulate, lacking nectar pouches, glabrous within, white to pale rose, with purple flecks, 28-35mm. Ovary and style glandular throughout. Capsule 18-20 x c.8mm.
+Straggling shrub, up to 3m; young shoots stellate-setose and stipitate-glandular. Leaves obovate to elliptic, 6-9 x 3.2-4.4cm, 2-2.4 x as long as broad, apex rounded, apiculate, base + rounded, upper surface rugulose, glabrous, lower surface with a dense unistrate fulvous dendroid-tomentose indumentum; petioles 1.5-2cm, setulose to tomentose. Inflorescence 6—10-flowered; rhachis c.5mm; pedicels 10- 15mm, setulose-tomentose. Calyx c.5mm, cupular, sparsely tomentose. Corolla fleshy, tubular-campanulate, carmine to blood-red, c.35mm. Ovary stellate-tomentose. Capsule at least 12 X 6mm, persistently tomentose.
 
 ## Distribution
-China (NE Yunnan)
+NE Upper Burma, ne India (Arunachal Pradesh)
 
 ## Altitude
 
 
 ## Habitat
-Mountain summits
+Bamboo forests, rocky gullies
 
 ## Nomenclatural History
 
@@ -55,4 +55,4 @@ Mountain summits
 
 ## References
 
-Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):293
+Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):386
