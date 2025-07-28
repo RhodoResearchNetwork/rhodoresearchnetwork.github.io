@@ -1,4 +1,8 @@
-{% include custom_nav.html %}
+---
+layout: default
+title: Projects
+---
+
 
 Rhododendron Research Network pages.
 
