@@ -3,33 +3,33 @@
     {% include head.html %}
   </head>
   <body>
-    <header class="site-header-left" role="banner">
-      <div class="wrapper">
-        <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
-          {{ site.title | escape }}
-        </a>
+<header class="site-header" role="banner">
+  <div class="wrapper header-flex">
+    <div class="site-title-left">
+      <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
+        {{ site.title | escape }}
+      </a>
+    </div>
 
-        <nav class="site-nav-right">
-          <input type="checkbox" id="nav-trigger" class="nav-trigger" />
-          <label for="nav-trigger">
-            <span class="menu-icon">
-              <!-- Optional hamburger SVG -->
-            </span>
-          </label>
+    <nav class="site-nav-right">
+      <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+      <label for="nav-trigger">
+        <span class="menu-icon"></span>
+      </label>
 
-          <div class="trigger">
-            {% for path in site.header_pages %}
-              {% assign nav_item = site.pages | where: "path", path | first %}
-              {% if nav_item.title %}
-                <a class="page-link" href="{{ nav_item.url | relative_url }}">
-                  {{ nav_item.title | escape }}
-                </a>
-              {% endif %}
-            {% endfor %}
-          </div>
-        </nav>
+      <div class="trigger">
+        {% for path in site.header_pages %}
+          {% assign nav_item = site.pages | where: "path", path | first %}
+          {% if nav_item.title %}
+            <a class="page-link" href="{{ nav_item.url | relative_url }}">
+              {{ nav_item.title | escape }}
+            </a>
+          {% endif %}
+        {% endfor %}
       </div>
-    </header>
+    </nav>
+  </div>
+</header>
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
