@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -9,9 +13,9 @@
   </head>
   <body>
 
-    <header>
-      <nav>
-        <ul>
+    <header class="site-header">
+      <nav class="site-nav">
+        <ul class="trigger">
           {% for path in site.minima.header_pages %}
             {% assign page_obj = site.pages | where: "path", path | first %}
             {% if page_obj %}
@@ -24,15 +28,15 @@
           {% endfor %}
         </ul>
       </nav>
-      <h1>{{ site.title }}</h1>
-      <p>{{ site.description }}</p>
+      <h1 class="site-title">{{ site.title }}</h1>
+      <p class="site-description">{{ site.description }}</p>
     </header>
 
-    <main>
+    <main class="page-content">
       {{ content }}
     </main>
 
-    <footer>
+    <footer class="site-footer">
       <p>© {{ site.author.name }} &nbsp;|&nbsp;
          <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></p>
     </footer>
