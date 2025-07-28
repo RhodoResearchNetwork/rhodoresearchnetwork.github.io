@@ -6,19 +6,20 @@ permalink: /projects/
 
 Current Projects
 
-# RRN Classificaton
+### RRN Classificaton
 
 Workspace for developing the RRN global checklist. [Github repository](https://github.com/RhodoResearchNetwork/RRN-Classification)
-Current working and annotated checklist can be found [here](/checlist.md)
-# Data Portal
+Current working and annotated checklist can be found [here](/checklist.md)
+
+### Data Portal
 
 Published and unpublished datasets on Rhododendron. [Github repository](https://github.com/RhodoResearchNetwork/Data-Portal)
 
-# Community-Phenology-Pollinators
+### Community-Phenology-Pollinators
 
 This group is for documents and discussions related to development of a Rhododendron phenology and pollinator monitoring program for community scientists. [Github repository](https://github.com/RhodoResearchNetwork/Community-Phenology-Pollinators)
 
-# Protocol Notes
+### Protocol Notes
 
 Protocols created or modified for use in Rhododendron [Github repository](https://github.com/RhodoResearchNetwork/Protocol-Notes)
 
