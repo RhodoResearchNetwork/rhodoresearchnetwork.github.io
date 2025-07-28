@@ -29,8 +29,10 @@ verified: A.Elliott
  {{ page.namepublishedin }}
 
 ## Taxonomic Overview  
-WFO ID: [{{page.wfo:id}}](https://listworldfloraonline.org/{{page.wfo_id}})
-IPNI ID: {{page.IPNI_id}}
+WFO ID: [{{ page.wfo_id }}](https://listworldfloraonline.org/{{ page.wfo_id }})
+
+IPNI ID: {{ page.IPNI_id }}
+
 Rhododendron sikkimense is an invalid & unplaced named in the WFO June 2025 data http://list.worldfloraonline.org/wfo-0000405461. 
 
 ## Description  
