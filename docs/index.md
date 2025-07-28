@@ -1,6 +1,3 @@
----
-
----
 
 
 **Rhododendron Research Network pages.**
