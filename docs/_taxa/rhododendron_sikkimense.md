@@ -1,5 +1,5 @@
 ---
-layout: taxon
+layout: page
 title: Rhododendron sikkimense
 nav: false
 genus: "Rhododendron"
