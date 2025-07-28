@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: taxon
 title: Rhododendron sikkimense
 nav: false
 genus: "Rhododendron"
@@ -31,7 +31,7 @@ verified: A.Elliott
 ## Taxonomic Overview  
 Rhododendron sikkimense is an invalid & unplaced named in the WFO June 2025 data http://list.worldfloraonline.org/wfo-0000405461. 
 
-## Morphological Traits  
+## Description  
 
 
 ## Distribution & Habitat  
