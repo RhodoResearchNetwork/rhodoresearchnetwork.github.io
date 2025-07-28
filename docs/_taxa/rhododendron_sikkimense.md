@@ -27,6 +27,8 @@ verified: A.Elliott
 # _{{ page.scientific_name }}_ {{ page.scientificnameauthorship }}
  {{ page.namepublishedin }}
  
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }} 
+
 **WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
 
 **IPNI ID:** {{ page.ipni_id }}(https://www.ipni.org/n/{{ page.ipni_id }})
