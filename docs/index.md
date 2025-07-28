@@ -1,7 +1,5 @@
 ---
 layout: base
-projects: index
-title: Rhododendron Research Network
 ---
 
 
