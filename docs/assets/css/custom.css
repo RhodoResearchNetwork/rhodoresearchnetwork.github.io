@@ -1,0 +1,23 @@
+.site-header {
+  background-color: #fdfdfd;
+  border-bottom: 1px solid #eaeaea;
+  padding: 1rem 0;
+}
+
+.site-nav ul {
+  display: flex;
+  list-style: none;
+  gap: 1rem;
+  margin: 0;
+  padding: 0;
+}
+
+.page-link {
+  color: #555;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.page-link:hover {
+  color: #007acc;
+}
