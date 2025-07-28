@@ -9,7 +9,7 @@ Current Projects
 ### RRN Classificaton
 
 Workspace for developing the RRN global checklist. [Github repository](https://github.com/RhodoResearchNetwork/RRN-Classification)
-Current working and annotated checklist can be found [here](/checklist.md)
+Current working and annotated checklist can be found [here](/checklist)
 
 ### Data Portal
 
