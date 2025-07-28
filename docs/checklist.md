@@ -1,9 +1,9 @@
 ---
 layout: page
-title: working checklist
+title: checklist
 permalink: /checklist/
 ---
-Checklist is here.
+This is the working R-RN checklist.
+You will find taxon pages and notes relating to those species here.
 
 [_Rhododendron sikkimense_](/taxa/rhododendron-sikkimense)
-docs/taxa/rhododendron_sikkimense.d.k.pradhan.md
