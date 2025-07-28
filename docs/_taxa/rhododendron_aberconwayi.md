@@ -21,7 +21,7 @@ wfo_accepted_id: "" #if synonym probably needs to be archived.
 ipni_id: "urn:lsid:ipni.org:names:331863-1"
 verified:
 ---
-# _{{ page.scientific_name }}_ {{ page.scientificnameauthorship }}
+# _{{ page.scientific name }}_ {{ page.scientific authorship }}
  {{ page.namepublishedin }}
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
