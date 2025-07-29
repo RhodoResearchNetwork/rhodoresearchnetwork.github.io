@@ -14,7 +14,7 @@ List will be added to as we progress.
 
 | Title | WFO ID | IPNI ID | Status |
 |---|---|---|---|
-| [rhododendron-aberconwayi](./taxa/rhododendron-aberconwayi) | wfo-0001047937 | urn:lsid:ipni.org:names:331863-1 | ✔️ |
+| [rhododendron-aberconwayi](/taxa/rhododendron-aberconwayi) | wfo-0001047937 | urn:lsid:ipni.org:names:331863-1 | ✔️ |
 | [rhododendron-abietifolium](./taxa/rhododendron-abietifolium) | wfo-0000400488 | urn:lsid:ipni.org:names:331865-1 | ✔️ |
 | [rhododendron-acrophilum](./taxa/rhododendron-acrophilum) | wfo-0000400489 | urn:lsid:ipni.org:names:331869-1 | ✔️ |
 | [rhododendron-acuminatum](./taxa/rhododendron-acuminatum) | wfo-0000400490 | urn:lsid:ipni.org:names:331870-1 | ✔️ |
