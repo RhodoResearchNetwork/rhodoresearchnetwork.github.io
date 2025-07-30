@@ -10,12 +10,9 @@ remote_theme: "jekyll/minima"
 minima:
   skin: classic
   nav_pages:
- #   - checklist.md
     - coc.md
     - projects.md
- #   - publications.md
     - sibbaldia.md
-      
 title: "Rhododendron Research Network"
 description: "Documentation and projects for the R-RN"
 author:
