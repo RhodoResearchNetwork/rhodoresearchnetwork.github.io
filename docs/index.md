@@ -2,7 +2,9 @@
 
 **Rhododendron Research Network pages.**
 
-You'll find pages here relating to R-RN github managed projects. THese including the working taxonomic checklist and species notes pages, phenology app, and data repository.
+You'll find pages here relating to R-RN github managed projects. 
+
+Details of these project's and their github repostitories can be found on the [projects page](/projects.md)
 
 
 **Links**
