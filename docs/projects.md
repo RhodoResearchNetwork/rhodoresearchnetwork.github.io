@@ -1,8 +1,9 @@
 ---
 title: "Projects"
+permalink:/projects/
 ---
 
-Current Projects
+### Current Projects
 
 ### RRN Classificaton
 
