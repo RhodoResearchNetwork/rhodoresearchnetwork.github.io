@@ -15,7 +15,7 @@ minima:
     - sibbaldia.md
     - projects.md
     - debug.md
-    -publications.md
+    - publications.md
 title: "Rhododendron Research Network"
 description: "Documentation and projects for the R-RN"
 author:
