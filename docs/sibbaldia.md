@@ -1,5 +1,6 @@
 ---
 title: "Sibbaldia special issue"
+permalink: /sibbaldia/
 ---
 
 ## Living collections as a community hub to support the survival and continued enjoyment of Rhododendron in a changing world
