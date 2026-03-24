@@ -14,7 +14,7 @@ license: ''
 tags:
 - taxonomy
 - Rhododendron
-namepublishedin: Lingnan Sci. J. 13: 42 (1934)
+namepublishedin: 'Lingnan Sci. J. 13: 42 (1934)'
 doi: ''
 wfo_id: wfo-0001047946
 wfo_parent_id: ''
