@@ -4,9 +4,9 @@ title: Rhododendron aberconwayi Cowan
 scientificname: Rhododendron aberconwayi
 scientificnameauthorship: Cowan
 genus: Rhododendron
-subfamily: ''
-section: ''
-subsection: ''
+subfamily: subg. Hymenanthes (Blume) K.Koch
+section: sect. Pontica G.Don
+subsection: subsect. Irrorata Sleumer
 source: Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
@@ -22,7 +22,7 @@ wfo_id: wfo-0001047937
 wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:331863-1
-verified:
+verified: A.Elliott
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  {{ page.namepublishedin }}
@@ -57,4 +57,7 @@ Mountain summits
 
 ## References
 
-Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):293
+[Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):293][def]
+
+
+[def]: https://doi.org/10.24823/nrbge.1982.3252
