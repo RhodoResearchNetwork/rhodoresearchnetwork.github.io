@@ -2,7 +2,7 @@
 layout: default
 title: Rhododendron abietifolium Sleumer
 scientificname: Rhododendron abietifolium
-scientificnauthorship: Sleumer
+scientificnameauthorship: Sleumer
 genus: Rhododendron
 subfamily: ''
 section: ''

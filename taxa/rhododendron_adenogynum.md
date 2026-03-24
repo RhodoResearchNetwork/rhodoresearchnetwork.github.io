@@ -15,7 +15,7 @@ tags:
 - taxonomy
 - Rhododendron
 namepublishedin: Notes R.B.G. Edinb. 5:216 (1912).
-doi: ''
+doi: https://doi.org/10.24823/nrbge.1912.2214
 wfo_id: wfo-0001048897
 wfo_parent_id: ''
 wfo_accepted_id: ''
@@ -23,7 +23,7 @@ ipni_id: urn:lsid:ipni.org:names:331873-1
 verified: null
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
- {{ page.namepublishedin }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -57,4 +57,4 @@ R. adenophorum Balfour f. & W. W. Smith, Notes R.B.G. Edinb. 9: 211 (1916).
 
 ## References
 
-Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):340
+[Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):340][https://doi.org/10.24823/nrbge.1982.3252]
