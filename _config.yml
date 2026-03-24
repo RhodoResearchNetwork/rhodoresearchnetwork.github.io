@@ -19,8 +19,6 @@ author:
   name: Alan Elliott
   email: aelliott@rbge.org.uk
 
-source: docs
-
 collections:
   taxa:
     output: true
