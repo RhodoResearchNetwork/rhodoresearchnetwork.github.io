@@ -3,9 +3,12 @@ layout: default
 title: Rhododendron Classification
 ---
 
-<p>Collections loaded: {{ site.collections | map: "label" }}</p>
-<p>rrn_taxa count: {{ site.rrn_taxa | size }}</p>
-<p>Root contains rrn_taxa folder: {{ site.static_files | where_exp: "f", "f.path contains 'rrn_taxa/'" | size }}</p>
+Collections loaded: {{ site.collections | map: "label" }}
+
+rrn_taxa count: {{ site.rrn_taxa | size }}
+
+Root contains rrn_taxa folder:
+{{ site.static_files | where_exp: "f", "f.path contains 'rrn_taxa/'" | size }}
 
 # Rhododendron Classification
 
