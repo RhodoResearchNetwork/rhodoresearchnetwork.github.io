@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332564-1
 verified: null
 layout: default
-title: Rhodoendron henryi
+title: Rhododendron henryi
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
