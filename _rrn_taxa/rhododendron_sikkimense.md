@@ -25,7 +25,7 @@ verified: A.Elliott
 ---
 
 # _{{ page.scientific_name }}_ {{ page.scientificnameauthorship }}
- {{ page.namepublishedin }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
  
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }} 
 

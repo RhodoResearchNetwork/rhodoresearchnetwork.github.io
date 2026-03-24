@@ -20,3 +20,4 @@ This section provides an overview and data related to the Rhododendron classific
 {% else %}
   <p>No taxa found.</p>
 {% endif %}
+{% endif %}

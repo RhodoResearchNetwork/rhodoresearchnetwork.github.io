@@ -25,7 +25,7 @@ ipni_id: urn:lsid:ipni.org:names:2902937-1
 verified: null
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
- {{ page.namepublishedin }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
