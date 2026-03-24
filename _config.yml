@@ -12,13 +12,13 @@ author:
   email: aelliott@rbge.org.uk
 
 collections:
-  rrn-taxa:
+  rrn_taxa:
     output: true
     permalink: /taxa/:slug/
 
 feed:
   path: feed.xml
   collections:
-    - rrn-taxa
+    - rrn_taxa
 
 force_rebuild: true
