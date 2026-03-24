@@ -3,12 +3,7 @@ layout: default
 title: Rhododendron Classification
 ---
 
-Collections loaded: {{ site.collections | map: "label" }}
 
-rrn_taxa count: {{ site.rrn_taxa | size }}
-
-Root contains rrn_taxa folder:
-{{ site.static_files | where_exp: "f", "f.path contains 'rrn_taxa/'" | size }}
 
 # Rhododendron Classification
 
@@ -28,3 +23,15 @@ This section provides an overview and data related to the Rhododendron classific
   <p>No taxa found.</p>
 {% endif %}
 
+<h3>Collections loaded:</h3>
+{{ site.collections | map: "label" | join: ", " }}
+
+<h3>rrn_taxa count:</h3>
+{{ site.rrn_taxa | size }}
+
+<h3>rrn_taxa items:</h3>
+<ul>
+{% for item in site.rrn_taxa %}
+  <li>{{ item.path }}</li>
+{% endfor %}
+</ul>

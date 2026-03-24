@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: debug
 title: "Debug"
 permalink: /debug/
 ---
@@ -9,3 +9,6 @@ permalink: /debug/
   <li>{{ p.path }} | {{ p.title }} | {{ p.permalink }} | {{ p.url }}</li>
 {% endfor %}
 </ul>
+
+{{ site.rrn_taxa | size }}
+
