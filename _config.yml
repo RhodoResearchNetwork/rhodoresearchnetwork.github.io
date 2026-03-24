@@ -1,5 +1,4 @@
 plugins:
-  # add remote-theme plugin
   - jekyll-feed
   - jekyll-remote-theme
 
@@ -7,6 +6,7 @@ remote_theme: "pages-themes/cayman@v0.2.0"
 
 title: "Rhododendron Research Network"
 description: "Documentation and projects for the R-RN"
+
 author:
   name: Alan Elliott
   email: aelliott@rbge.org.uk
@@ -21,10 +21,4 @@ feed:
   collections:
     - taxa
 
-  
-  #
-# header_pages:
-#  - projects.md
-#  - checklist.md
-#  - publication.md
-dummy: force-rebuild
+force_rebuild: true

@@ -13,6 +13,8 @@ This section provides an overview and data related to the Rhododendron classific
 
 ## Species List
 
+- [Rhododendron aberconway](taxa/rhododendron_aberconwayi.md)
+
 {% assign sorted = site.taxa | sort: "title" %}
 <ul>
 {% for taxon in sorted %}
