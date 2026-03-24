@@ -12,7 +12,7 @@ author:
   email: aelliott@rbge.org.uk
 
 collections:
-  taxa:
+  rrn_taxa:
     output: true
     permalink: /taxa/:slug/
 
