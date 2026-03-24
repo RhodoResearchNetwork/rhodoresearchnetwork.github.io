@@ -3,9 +3,9 @@ layout: default
 title: Rhododendron Classification
 ---
 
-<p>Collections loaded: {{ site.collections | map: "label" }}</p>
-<p>Site source: {{ site.source }}</p>
-<p>Files in /taxa/: {{ site.static_files | where: "path", "/taxa" | size }}</p>
+Collections loaded: {{ site.collections | map: "label" }}
+Files in /taxa/: {{ site.static_files | where_exp: "f", "f.path contains '/taxa/'" | size }}
+<p>Taxa count: {{ site.taxa | size }}</p>
 
 # Rhododendron Classification
 
@@ -20,4 +20,3 @@ This section provides an overview and data related to the Rhododendron classific
 {% endfor %}
 </ul>
 
-<p>Taxa count: {{ site.taxa | size }}</p>
