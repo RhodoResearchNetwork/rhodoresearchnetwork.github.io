@@ -1,5 +1,5 @@
 ---
-layout: pages
+layout: default
 scientificname: Rhododendron aberconwayi Cowan
 scientificnameauthorship: Cowan
 genus: Rhododendron
