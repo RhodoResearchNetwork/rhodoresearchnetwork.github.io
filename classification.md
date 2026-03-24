@@ -13,9 +13,9 @@ This section provides an overview and data related to the Rhododendron classific
 
 - [Rhododendron aberconwayi](rrn-taxa/rhododendron_aberconwayi.md)
 
-{% assign rrn-taxa = site.rrn-taxa | default: empty %}
-{% if rrn-taxa != empty %}
-  {% assign sorted = rrn-taxa | sort: "title" %}
+{% assign rrn_taxa = site.rrn_taxa | default: empty %}
+{% if rrn_taxa != empty %}
+  {% assign sorted = rrn_taxa | sort: "title" %}
   {% for t in sorted %}
     {{ t.title }}
   {% endfor %}
