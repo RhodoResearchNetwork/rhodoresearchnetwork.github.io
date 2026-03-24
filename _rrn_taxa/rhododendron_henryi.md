@@ -1,8 +1,8 @@
 ---
-scientificname: Rhodoendron henryi
-scientificnameauthorship: ''
+scientificname: Rhododendron henryi
+scientificnameauthorship: Hance
 genus: Rhododendron
-subfamily: ''
+subgenus: subg. Choniastrum (Franch.) Drude
 section: ''
 subsection: ''
 source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
@@ -15,11 +15,11 @@ tags:
 - taxonomy
 - Rhododendron
 namepublishedin: J. Bot. (Lond.) 19:243 (1881).
-doi: ''
-wfo_id: ''
+doi: https://www.biodiversitylibrary.org/page/34839684
+wfo_id: wfo-0001048941
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:332564-1
 verified: null
 layout: default
 title: Rhodoendron henryi

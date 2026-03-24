@@ -4,7 +4,7 @@ title: Rhododendron aberconwayi Cowan
 scientificname: Rhododendron aberconwayi
 scientificnameauthorship: Cowan
 genus: Rhododendron
-subfamily: subg. Hymenanthes (Blume) K.Koch
+subgenus: subg. Hymenanthes (Blume) K.Koch
 section: sect. Pontica G.Don
 subsection: subsect. Irrorata Sleumer
 source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
@@ -28,7 +28,7 @@ verified: A.Elliott
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
 
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+{{ page.subgenus }} {{ page.section }} {{ page.subsection }}
 
 **WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
 
