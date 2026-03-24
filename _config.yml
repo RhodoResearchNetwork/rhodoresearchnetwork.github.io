@@ -11,10 +11,17 @@ author:
   name: Alan Elliott
   email: aelliott@rbge.org.uk
 
+# REQUIRED: tell Jekyll where collections live
+collections_dir: .
+
 collections:
   rrn_taxa:
     output: true
     permalink: /taxa/:slug/
+
+# REQUIRED: include non-underscore folder
+include:
+  - rrn_taxa
 
 feed:
   path: feed.xml
