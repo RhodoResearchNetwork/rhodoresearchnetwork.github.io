@@ -5,14 +5,14 @@ plugins:
 
 # Use remote-theme plugin to load `minima` repository. But first, ensure the `theme` key is disabled.
 # theme: minima
-remote_theme: "jekyll/minima"
+remote_theme: "pages-themes/cayman@v0.2.0"
 
-minima:
-  skin: classic
-  nav_pages:
-    - coc.md
-    - projects.md
-    - sibbaldia.md
+#minima:
+#  skin: classic
+#  nav_pages:
+#    - coc.md
+#    - projects.md
+#    - sibbaldia.md
 title: "Rhododendron Research Network"
 description: "Documentation and projects for the R-RN"
 author:
