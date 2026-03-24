@@ -15,3 +15,5 @@ This section provides an overview and data related to the Rhododendron classific
   <li><a href="{{ taxon.url }}">{{ taxon.title }}</a></li>
 {% endfor %}
 </ul>
+
+<p>Taxa count: {{ site.taxa | size }}</p>
