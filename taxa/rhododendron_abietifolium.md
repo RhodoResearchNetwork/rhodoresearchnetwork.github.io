@@ -1,5 +1,7 @@
 ---
-scientificname: Rhododendron abietifolium Sleumer
+layout: default
+title: Rhododendron abietifolium Sleumer
+scientificname: Rhododendron abietifolium
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subfamily: ''

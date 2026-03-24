@@ -1,5 +1,7 @@
 ---
-scientificname: Rhododendron acrophilum Merr. & Quisumb.
+layout: default
+title: Rhododendron acrophilum Merr. & Quisumb.
+scientificname: Rhododendron acrophilum
 scientificnameauthorship: Merr. & Quisumb.
 genus: Rhododendron
 subfamily: ''
