@@ -15,10 +15,13 @@ This section provides an overview and data related to the Rhododendron classific
 
 - [Rhododendron aberconway](taxa/rhododendron_aberconwayi.md)
 
-{% assign sorted = site.taxa | sort: "title" %}
-<ul>
-{% for taxon in sorted %}
-  <li><a href="{{ taxon.url }}">{{ taxon.title }}</a></li>
-{% endfor %}
-</ul>
+{% assign taxa = site.taxa | default: empty %}
+{% if taxa != empty %}
+  {% assign sorted = taxa | sort: "title" %}
+  {% for t in sorted %}
+    {{ t.title }}
+  {% endfor %}
+{% else %}
+  <p>No taxa found.</p>
+{% endif %}
 
