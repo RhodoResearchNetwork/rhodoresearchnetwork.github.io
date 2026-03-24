@@ -14,7 +14,7 @@ author:
 collections:
   taxa:
     output: true
-    permalink: /taxa/:slug/
+    permalink: \taxa\:slug\
 
 feed:
   path: feed.xml
