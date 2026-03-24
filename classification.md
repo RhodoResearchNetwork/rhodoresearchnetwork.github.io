@@ -3,6 +3,8 @@ layout: default
 title: Rhododendron Classification
 ---
 
+<p>Collections loaded: {{ site.collections | map: "label" }}</p>
+
 # Rhododendron Classification
 
 This section provides an overview and data related to the Rhododendron classification used by the R‑RN project.
