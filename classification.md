@@ -16,11 +16,11 @@ This section provides an overview and data related to the Rhododendron classific
 
 ## Species List
 
-- [Rhododendron aberconway](taxa/rhododendron_aberconwayi.md)
+- [Rhododendron aberconwayi](rrn-taxa/rhododendron_aberconwayi.md)
 
-{% assign taxa = site.taxa | default: empty %}
-{% if taxa != empty %}
-  {% assign sorted = taxa | sort: "title" %}
+{% assign rrn-taxa = site.rrn-taxa | default: empty %}
+{% if rrn-taxa != empty %}
+  {% assign sorted = rrn-taxa | sort: "title" %}
   {% for t in sorted %}
     {{ t.title }}
   {% endfor %}
