@@ -6,7 +6,7 @@ This section provides an overview of the Rhododendron classification used by the
 
 Below is a list of all species currently included:
 
-- [R. smithii](/species/R_smithii)
-- [R. campanulatum](/species/R_campanulatum)
-- [R. ferrugineum](/species/R_ferrugineum)
+- [R. aberconwayi](/taxa/Rhododendron_aberconwayi)
+- [R. abietifolium](/taxa/Rhododendron_abietifolium)
+- [R. acrophilum](/taxa/Rhododendron_acrophilum)
 
