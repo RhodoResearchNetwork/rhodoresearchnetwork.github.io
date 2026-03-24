@@ -5,7 +5,7 @@ genus: Rhododendron
 subfamily: ''
 section: ''
 subsection: ''
-source: Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Argent, G.
 created: '2006'
@@ -14,13 +14,15 @@ license: ''
 tags:
 - taxonomy
 - Rhododendron
-namepublishedin: 'Phil. J. Sc. 1929. 40: 172, t.15, f.3, t.16, f.5–6.'
+namepublishedin: "Phil. J. Sc. 1929. 40: 172, t.15, f.3, t.16, f.5\u20136."
 doi: ''
 wfo_id: wfo-0000399913
 wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332783-1
 verified: null
+layout: default
+title: Rhododendron loboense H.F.Copel. H.F.Copel.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

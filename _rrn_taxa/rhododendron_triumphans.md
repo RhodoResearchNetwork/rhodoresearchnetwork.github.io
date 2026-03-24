@@ -5,7 +5,7 @@ genus: Rhododendron
 subfamily: ''
 section: ''
 subsection: ''
-source: Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Argent, G.
 created: '2006'
@@ -14,13 +14,15 @@ license: ''
 tags:
 - taxonomy
 - Rhododendron
-namepublishedin: 'Rév. de Bot. Appl. et d’Agric. Trop. 1929. 9(92): 256, t.11.'
+namepublishedin: "R\xE9v. de Bot. Appl. et d\u2019Agric. Trop. 1929. 9(92): 256, t.11."
 doi: ''
 wfo_id: wfo-0000405645
 wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333509-1
 verified: null
+layout: default
+title: Rhododendron triumphans Yersin & A.Chev. Yersin & A.Chev.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -5,7 +5,7 @@ genus: Rhododendron
 subfamily: ''
 section: ''
 subsection: ''
-source: Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Argent, G.
 created: '2006'
@@ -14,13 +14,15 @@ license: ''
 tags:
 - taxonomy
 - Rhododendron
-namepublishedin: 'Phil. J. Sc. 1929. 40: 151, t.4, f.1–2.'
+namepublishedin: "Phil. J. Sc. 1929. 40: 151, t.4, f.1\u20132."
 doi: ''
 wfo_id: wfo-0000400373
 wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:331995-1
 verified: null
+layout: default
+title: Rhododendron bagobonum H.F.Copel. H.F.Copel.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

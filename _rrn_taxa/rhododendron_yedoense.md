@@ -1,24 +1,28 @@
 ---
-scientificname: "Rhododendron yedoense Maxim. ex Regel"
-scientificnameauthorship: "Regel ex Maxim."
-genus: "Rhododendron"
-subfamily: ""
-section: ""
-subsection: ""
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
-identifier: "https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml"
-author: "Chamberlain, D.F."
-created: "1990"
-rights holder: "Royal Botanic Garden Edinburgh"
-license: ""
-tags: ["taxonomy", "Rhododendron"]
-namepublishedin: "Gartenflora 35: 565,1.1233 (1886)"
-doi: ""
-wfo_id : "wfo-0000405538"
-wfo_parent_id: ""
-wfo_accepted_id: "" #if synonym probably needs to be archived.                      
-ipni_id: "urn:lsid:ipni.org:names:333627-1"
-verified:
+scientificname: Rhododendron yedoense Maxim. ex Regel
+scientificnameauthorship: Regel ex Maxim.
+genus: Rhododendron
+subfamily: ''
+section: ''
+subsection: ''
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
+identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
+author: Chamberlain, D.F.
+created: '1990'
+rights holder: Royal Botanic Garden Edinburgh
+license: ''
+tags:
+- taxonomy
+- Rhododendron
+namepublishedin: 'Gartenflora 35: 565,1.1233 (1886)'
+doi: ''
+wfo_id: wfo-0000405538
+wfo_parent_id: ''
+wfo_accepted_id: ''
+ipni_id: urn:lsid:ipni.org:names:333627-1
+verified: null
+layout: default
+title: Rhododendron yedoense Maxim. ex Regel Regel ex Maxim.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

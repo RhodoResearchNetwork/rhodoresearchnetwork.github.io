@@ -1,6 +1,5 @@
 ---
-scientificname: Rhododendron agastum Balfour f. & W.W.Sm.
-scientificnameauthorship: ''
+scientificname: Rhododendron agastum
 genus: Rhododendron
 subfamily: ''
 section: ''
@@ -21,6 +20,8 @@ wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: ''
 verified: null
+layout: default
+title: Rhododendron agastum Balf.f. & W.W.Sm.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

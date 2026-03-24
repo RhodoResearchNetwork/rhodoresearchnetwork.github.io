@@ -5,7 +5,7 @@ genus: Rhododendron
 subfamily: ''
 section: ''
 subsection: ''
-source: Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1982'
@@ -15,14 +15,16 @@ tags:
 - taxonomy
 - Rhododendron
 namepublishedin: "J. Bot. (Morot) 5: 93, t.l (1891). Type: China, Xizang, entre Lhasa\n\
-  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n et Batang [Lame, nr\nLamda, 31 ° 15 'N 97 °E], 3000m,\n\
-  \n v\n 1890,\n\n\n Henry\n\n\n &\n Bonvalot\n\n\n\n\n\n (iso. E)."
+  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n et Batang [Lame, nr\nLamda, 31 \xB0 15 'N 97 \xB0\
+  E], 3000m,\n\n v\n 1890,\n\n\n Henry\n\n\n &\n Bonvalot\n\n\n\n\n\n (iso. E)."
 doi: ''
 wfo_id: wfo-0001048915
 wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333136-1
 verified: null
+layout: default
+title: Rhododendron principis Bureau & Franch. Bureau & Franch.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
