@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: debug
 title: "Debug"
 permalink: /debug/
 ---
