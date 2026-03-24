@@ -11,13 +11,15 @@ author:
   name: Alan Elliott
   email: aelliott@rbge.org.uk
 
-# IMPORTANT: ensure Jekyll processes the rrn_taxa folder
+# REQUIRED: tell Jekyll where collections live
+collections_dir: .
+
 collections:
   rrn_taxa:
     output: true
     permalink: /taxa/:slug/
 
-# REQUIRED: tell Jekyll to include the folder in the build
+# REQUIRED: include non-underscore folder
 include:
   - rrn_taxa
 
