@@ -20,3 +20,5 @@ feed:
   path: feed.xml
   collections:
     - taxa
+
+force_rebuild: true
