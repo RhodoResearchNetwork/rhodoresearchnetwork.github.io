@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron seniavinii Maxim.
+scientificname: Rhododendron seniavinii
 scientificnameauthorship: Maxim.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333328-1
 verified: null
 layout: default
-title: Rhododendron seniavinii Maxim. Maxim.
+title: Rhododendron seniavinii Maxim.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

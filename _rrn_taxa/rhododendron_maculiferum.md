@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron maculiferum Franch.
+scientificname: Rhododendron maculiferum
 scientificnameauthorship: Franch.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332835-1
 verified: null
 layout: default
-title: Rhododendron maculiferum Franch. Franch.
+title: Rhododendron maculiferum Franch.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron brachyanthum Franch.
+scientificname: Rhododendron brachyanthum
 scientificnameauthorship: Franch.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332037-1
 verified: null
 layout: default
-title: Rhododendron brachyanthum Franch. Franch.
+title: Rhododendron brachyanthum Franch.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

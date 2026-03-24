@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron cinerascens Sleumer
+scientificname: Rhododendron cinerascens
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332196-1
 verified: null
 layout: default
-title: Rhododendron cinerascens Sleumer Sleumer
+title: Rhododendron cinerascens Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

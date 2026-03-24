@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron nhatrangense Dop in Lecomte (ed.)
+scientificname: Rhododendron nhatrangense
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron nhatrangense Dop in Lecomte (ed.)
+title: Rhododendron nhatrangense
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron roxieoides D.F.Chamb.
+scientificname: Rhododendron roxieoides
 scientificnameauthorship: D.F.Chamb.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:900790-1
 verified: null
 layout: default
-title: Rhododendron roxieoides D.F.Chamb. D.F.Chamb.
+title: Rhododendron roxieoides D.F.Chamb.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron caesium Hutch.
+scientificname: Rhododendron caesium
 scientificnameauthorship: Hutch.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332075-1
 verified: null
 layout: default
-title: Rhododendron caesium Hutch. Hutch.
+title: Rhododendron caesium Hutch.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

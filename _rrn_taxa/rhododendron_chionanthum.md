@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron chionanthum Tagg & Forrest
+scientificname: Rhododendron chionanthum
 scientificnameauthorship: Tagg & Forrest
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332170-1
 verified: null
 layout: default
-title: Rhododendron chionanthum Tagg & Forrest Tagg & Forrest
+title: Rhododendron chionanthum Tagg & Forrest
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

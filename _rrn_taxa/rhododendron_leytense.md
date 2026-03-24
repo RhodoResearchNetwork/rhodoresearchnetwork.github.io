@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron leytense Merr.
+scientificname: Rhododendron leytense
 scientificnameauthorship: Merr.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332767-1
 verified: null
 layout: default
-title: Rhododendron leytense Merr. Merr.
+title: Rhododendron leytense Merr.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

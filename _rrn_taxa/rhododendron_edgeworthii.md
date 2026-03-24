@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron edgeworthii Hooker
+scientificname: Rhododendron edgeworthii
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron edgeworthii Hooker
+title: Rhododendron edgeworthii
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

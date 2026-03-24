@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron ruttenii J.J.Sm.
+scientificname: Rhododendron ruttenii
 scientificnameauthorship: J.J.Sm.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333276-1
 verified: null
 layout: default
-title: Rhododendron ruttenii J.J.Sm. J.J.Sm.
+title: Rhododendron ruttenii J.J.Sm.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

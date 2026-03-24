@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron xanthostephanum Merr.
+scientificname: Rhododendron xanthostephanum
 scientificnameauthorship: Merr.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333621-1
 verified: null
 layout: default
-title: Rhododendron xanthostephanum Merr. Merr.
+title: Rhododendron xanthostephanum Merr.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

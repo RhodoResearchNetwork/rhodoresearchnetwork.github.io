@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron leishanicum Fang & S.S. Chang
+scientificname: Rhododendron leishanicum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron leishanicum Fang & S.S. Chang
+title: Rhododendron leishanicum
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

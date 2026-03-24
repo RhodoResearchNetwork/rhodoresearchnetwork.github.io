@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron keysii Nuttall
+scientificname: Rhododendron keysii
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron keysii Nuttall
+title: Rhododendron keysii
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

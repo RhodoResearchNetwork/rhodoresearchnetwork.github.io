@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron lepidotum [Wall. ex] G.Don
+scientificname: Rhododendron lepidotum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron lepidotum [Wall. ex] G.Don
+title: Rhododendron lepidotum
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

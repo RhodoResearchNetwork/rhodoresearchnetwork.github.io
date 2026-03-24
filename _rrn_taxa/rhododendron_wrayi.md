@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron wrayi King & Gamble
+scientificname: Rhododendron wrayi
 scientificnameauthorship: King & Gamble
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333613-1
 verified: null
 layout: default
-title: Rhododendron wrayi King & Gamble King & Gamble
+title: Rhododendron wrayi King & Gamble
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron retrorsipilum Sleumer
+scientificname: Rhododendron retrorsipilum
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333217-1
 verified: null
 layout: default
-title: Rhododendron retrorsipilum Sleumer Sleumer
+title: Rhododendron retrorsipilum Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

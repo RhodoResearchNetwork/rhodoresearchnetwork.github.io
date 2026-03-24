@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron veitchianum Hooker
+scientificname: Rhododendron veitchianum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron veitchianum Hooker
+title: Rhododendron veitchianum
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron delicatulum Sleumer
+scientificname: Rhododendron delicatulum
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332315-1
 verified: null
 layout: default
-title: Rhododendron delicatulum Sleumer Sleumer
+title: Rhododendron delicatulum Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

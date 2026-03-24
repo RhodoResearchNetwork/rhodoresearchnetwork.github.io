@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron longipes Rehder & E.H.Wilson
+scientificname: Rhododendron longipes
 scientificnameauthorship: Rehder & E.H.Wilson
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332793-1
 verified: null
 layout: default
-title: Rhododendron longipes Rehder & E.H.Wilson Rehder & E.H.Wilson
+title: Rhododendron longipes Rehder & E.H.Wilson
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

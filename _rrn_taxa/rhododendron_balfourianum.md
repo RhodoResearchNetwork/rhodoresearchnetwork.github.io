@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron balfourianum Diels
+scientificname: Rhododendron balfourianum
 scientificnameauthorship: Diels
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332000-1
 verified: null
 layout: default
-title: Rhododendron balfourianum Diels Diels
+title: Rhododendron balfourianum Diels
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron porphyranthes Sleumer
+scientificname: Rhododendron porphyranthes
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333117-1
 verified: null
 layout: default
-title: Rhododendron porphyranthes Sleumer Sleumer
+title: Rhododendron porphyranthes Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

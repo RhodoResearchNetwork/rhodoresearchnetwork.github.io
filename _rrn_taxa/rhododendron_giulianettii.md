@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron giulianettii Lauterb.
+scientificname: Rhododendron giulianettii
 scientificnameauthorship: Lauterb.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332488-1
 verified: null
 layout: default
-title: Rhododendron giulianettii Lauterb. Lauterb.
+title: Rhododendron giulianettii Lauterb.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

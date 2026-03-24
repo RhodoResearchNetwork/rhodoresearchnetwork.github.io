@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron augustinii Hemsl.
+scientificname: Rhododendron augustinii
 scientificnameauthorship: Hemsl.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:331981-1
 verified: null
 layout: default
-title: Rhododendron augustinii Hemsl. Hemsl.
+title: Rhododendron augustinii Hemsl.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

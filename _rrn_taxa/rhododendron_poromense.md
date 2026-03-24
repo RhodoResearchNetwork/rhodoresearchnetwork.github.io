@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron poromense J.J.Sm.
+scientificname: Rhododendron poromense
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron poromense J.J.Sm.
+title: Rhododendron poromense
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

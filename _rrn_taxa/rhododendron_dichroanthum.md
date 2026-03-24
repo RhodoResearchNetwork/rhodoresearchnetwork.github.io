@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron dichroanthum Diels
+scientificname: Rhododendron dichroanthum
 scientificnameauthorship: Diels
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332331-1
 verified: null
 layout: default
-title: Rhododendron dichroanthum Diels Diels
+title: Rhododendron dichroanthum Diels
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

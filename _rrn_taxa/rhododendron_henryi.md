@@ -1,5 +1,5 @@
 ---
-scientificname: Rhodoendron henryi Hance
+scientificname: Rhodoendron henryi
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhodoendron henryi Hance
+title: Rhodoendron henryi
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron rufulum P.C.Tam
+scientificname: Rhododendron rufulum
 scientificnameauthorship: P.C.Tam
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:902932-1
 verified: null
 layout: default
-title: Rhododendron rufulum P.C.Tam P.C.Tam
+title: Rhododendron rufulum P.C.Tam
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

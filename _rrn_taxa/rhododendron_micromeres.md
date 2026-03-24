@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron micromeres Tagg
+scientificname: Rhododendron micromeres
 scientificnameauthorship: Tagg
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332883-1
 verified: null
 layout: default
-title: Rhododendron micromeres Tagg Tagg
+title: Rhododendron micromeres Tagg
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

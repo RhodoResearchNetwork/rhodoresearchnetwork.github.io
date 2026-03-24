@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron kiangsiense Fang
+scientificname: Rhododendron kiangsiense
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron kiangsiense Fang
+title: Rhododendron kiangsiense
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

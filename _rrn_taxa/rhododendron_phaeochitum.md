@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron phaeochitum F.Muell.
+scientificname: Rhododendron phaeochitum
 scientificnameauthorship: F.Muell.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron phaeochitum F.Muell. F.Muell.
+title: Rhododendron phaeochitum F.Muell.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

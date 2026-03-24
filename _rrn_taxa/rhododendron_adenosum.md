@@ -3,24 +3,26 @@ layout: default
 title: Rhododendron adenosum Davidian
 scientificname: Rhododendron adenosum
 scientificnameauthorship: Davidian
-genus: "Rhododendron"
-subfamily: ""
-section: ""
-subsection: ""
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
-identifier: "https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml"
-author: "Chamberlain, D.F."
-created: "1982"
-rights holder: "Royal Botanic Garden Edinburgh"
-license: ""
-tags: ["taxonomy", "Rhododendron"]
-namepublishedin: "Quart. Bull. Amer. Rhododendron Soc. 21:81 (1978)"
-doi: ""
-wfo_id : wfo-0001229415
-wfo_parent_id: ""
-wfo_accepted_id: "" #if synonym probably needs to be archived.                      
+genus: Rhododendron
+subfamily: ''
+section: ''
+subsection: ''
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
+identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
+author: Chamberlain, D.F.
+created: '1982'
+rights holder: Royal Botanic Garden Edinburgh
+license: ''
+tags:
+- taxonomy
+- Rhododendron
+namepublishedin: Quart. Bull. Amer. Rhododendron Soc. 21:81 (1978)
+doi: ''
+wfo_id: wfo-0001229415
+wfo_parent_id: ''
+wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:331877-1
-verified:
+verified: null
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

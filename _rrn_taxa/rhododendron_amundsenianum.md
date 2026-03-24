@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron amundsenianum Hand.-Mazz.
+scientificname: Rhododendron amundsenianum
 scientificnameauthorship: Hand.-Mazz.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:331924-1
 verified: null
 layout: default
-title: Rhododendron amundsenianum Hand.-Mazz. Hand.-Mazz.
+title: Rhododendron amundsenianum Hand.-Mazz.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

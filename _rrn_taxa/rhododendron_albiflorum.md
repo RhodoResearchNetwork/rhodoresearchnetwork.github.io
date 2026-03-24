@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron albiflorum Hook.
+scientificname: Rhododendron albiflorum
 scientificnameauthorship: Hook.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:331901-1
 verified: null
 layout: default
-title: Rhododendron albiflorum Hook. Hook.
+title: Rhododendron albiflorum Hook.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

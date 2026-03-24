@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron aureum Georgi
+scientificname: Rhododendron aureum
 scientificnameauthorship: Georgi
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:331982-1
 verified: null
 layout: default
-title: Rhododendron aureum Georgi Georgi
+title: Rhododendron aureum Georgi
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

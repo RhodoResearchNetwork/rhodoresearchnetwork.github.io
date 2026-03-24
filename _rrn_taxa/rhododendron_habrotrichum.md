@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron habrotrichum Balfour f. & W.W.Sm.
+scientificname: Rhododendron habrotrichum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron habrotrichum Balfour f. & W.W.Sm.
+title: Rhododendron habrotrichum
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

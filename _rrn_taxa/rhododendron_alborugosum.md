@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron alborugosum Argent & J.Dransf.
+scientificname: Rhododendron alborugosum
 scientificnameauthorship: Argent & J.Dransf.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:938267-1
 verified: null
 layout: default
-title: Rhododendron alborugosum Argent & J.Dransf. Argent & J.Dransf.
+title: Rhododendron alborugosum Argent & J.Dransf.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

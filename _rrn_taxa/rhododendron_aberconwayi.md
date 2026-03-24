@@ -7,15 +7,15 @@ genus: Rhododendron
 subfamily: subg. Hymenanthes (Blume) K.Koch
 section: sect. Pontica G.Don
 subsection: subsect. Irrorata Sleumer
-source: Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1982'
-rights_holder: "Royal Botanic Garden Edinburgh"
+rights_holder: Royal Botanic Garden Edinburgh
 license: ''
 tags:
-  - taxonomy
-  - Rhododendron
+- taxonomy
+- Rhododendron
 namepublishedin: 'Rhododendron Yearbook 3: 42, f. 17 (1949).'
 doi: ''
 wfo_id: wfo-0001047937

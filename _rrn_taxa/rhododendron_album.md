@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron album Blume
+scientificname: Rhododendron album
 scientificnameauthorship: Blume
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:331903-1
 verified: null
 layout: default
-title: Rhododendron album Blume Blume
+title: Rhododendron album Blume
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

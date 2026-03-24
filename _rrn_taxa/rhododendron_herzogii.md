@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron herzogii Warb.
+scientificname: Rhododendron herzogii
 scientificnameauthorship: Warb.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332567-1
 verified: null
 layout: default
-title: Rhododendron herzogii Warb. Warb.
+title: Rhododendron herzogii Warb.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

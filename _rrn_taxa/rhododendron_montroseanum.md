@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron montroseanum Davidian
+scientificname: Rhododendron montroseanum
 scientificnameauthorship: Davidian
 genus: Rhododendron
 subfamily: ''
@@ -262166,7 +262166,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332909-1
 verified: null
 layout: default
-title: Rhododendron montroseanum Davidian Davidian
+title: Rhododendron montroseanum Davidian
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

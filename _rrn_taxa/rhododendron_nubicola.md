@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron nubicola Wernham
+scientificname: Rhododendron nubicola
 scientificnameauthorship: Wernham
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332976-1
 verified: null
 layout: default
-title: Rhododendron nubicola Wernham Wernham
+title: Rhododendron nubicola Wernham
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

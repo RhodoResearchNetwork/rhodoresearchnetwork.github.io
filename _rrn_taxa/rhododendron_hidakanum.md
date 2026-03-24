@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron hidakanum Hara
+scientificname: Rhododendron hidakanum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron hidakanum Hara
+title: Rhododendron hidakanum
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

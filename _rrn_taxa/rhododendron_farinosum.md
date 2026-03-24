@@ -1,5 +1,5 @@
 ---
-scientificname: "Rhododendron farinosum H.L\xE9v."
+scientificname: Rhododendron farinosum
 scientificnameauthorship: "H.L\xE9v."
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332414-1
 verified: null
 layout: default
-title: "Rhododendron farinosum H.L\xE9v. H.L\xE9v."
+title: "Rhododendron farinosum H.L\xE9v."
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

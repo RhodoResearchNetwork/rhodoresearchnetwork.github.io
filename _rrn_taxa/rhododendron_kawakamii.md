@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron kawakamii Hayata
+scientificname: Rhododendron kawakamii
 scientificnameauthorship: Hayata
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332667-1
 verified: null
 layout: default
-title: Rhododendron kawakamii Hayata Hayata
+title: Rhododendron kawakamii Hayata
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron minus Michx.
+scientificname: Rhododendron minus
 scientificnameauthorship: Michx.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332891-1
 verified: null
 layout: default
-title: Rhododendron minus Michx. Michx.
+title: Rhododendron minus Michx.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

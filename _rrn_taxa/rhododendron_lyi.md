@@ -1,5 +1,5 @@
 ---
-scientificname: "Rhododendron lyi H.L\xE9v."
+scientificname: Rhododendron lyi
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: "Rhododendron lyi H.L\xE9v."
+title: Rhododendron lyi
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron cuneatum W.W.Sm.
+scientificname: Rhododendron cuneatum
 scientificnameauthorship: W.W.Sm.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332274-1
 verified: null
 layout: default
-title: Rhododendron cuneatum W.W.Sm. W.W.Sm.
+title: Rhododendron cuneatum W.W.Sm.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

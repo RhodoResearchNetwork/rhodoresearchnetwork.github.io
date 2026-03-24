@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron commonae Foerster
+scientificname: Rhododendron commonae
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron commonae Foerster
+title: Rhododendron commonae
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron wrightianum Koord.
+scientificname: Rhododendron wrightianum
 scientificnameauthorship: Koord.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333614-1
 verified: null
 layout: default
-title: Rhododendron wrightianum Koord. Koord.
+title: Rhododendron wrightianum Koord.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

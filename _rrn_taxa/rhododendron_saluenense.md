@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron saluenense Franch.
+scientificname: Rhododendron saluenense
 scientificnameauthorship: Franch.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333285-1
 verified: null
 layout: default
-title: Rhododendron saluenense Franch. Franch.
+title: Rhododendron saluenense Franch.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

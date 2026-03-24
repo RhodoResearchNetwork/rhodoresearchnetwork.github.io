@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron walongense Kingdon-Ward
+scientificname: Rhododendron walongense
 scientificnameauthorship: Kingdon-Ward
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333586-1
 verified: null
 layout: default
-title: Rhododendron walongense Kingdon-Ward Kingdon-Ward
+title: Rhododendron walongense Kingdon-Ward
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

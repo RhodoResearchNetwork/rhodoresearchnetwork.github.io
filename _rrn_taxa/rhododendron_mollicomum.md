@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron mollicomum Balfour f. & W.W.Sm.
+scientificname: Rhododendron mollicomum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron mollicomum Balfour f. & W.W.Sm.
+title: Rhododendron mollicomum
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

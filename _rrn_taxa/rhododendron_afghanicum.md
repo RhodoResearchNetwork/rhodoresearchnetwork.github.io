@@ -2,7 +2,7 @@
 layout: default
 title: Rhododendron afghanicum Aitch. & Hemsl.
 scientificname: Rhododendron afghanicum
-scientificnameauthorship: ''
+scientificnameauthorship: Aitch. & Hemsl.
 genus: Rhododendron
 subfamily: ''
 section: ''

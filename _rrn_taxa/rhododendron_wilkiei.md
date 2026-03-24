@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron wilkiei Argent
+scientificname: Rhododendron wilkiei
 scientificnameauthorship: Argent
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:60437812-2
 verified: null
 layout: default
-title: Rhododendron wilkiei Argent Argent
+title: Rhododendron wilkiei Argent
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron fletcheranum Davidian
+scientificname: Rhododendron fletcheranum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron fletcheranum Davidian
+title: Rhododendron fletcheranum
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

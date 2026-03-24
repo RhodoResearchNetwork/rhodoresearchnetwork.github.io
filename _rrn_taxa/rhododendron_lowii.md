@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron lowii Hook.f.
+scientificname: Rhododendron lowii
 scientificnameauthorship: Hook.f.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332801-1
 verified: null
 layout: default
-title: Rhododendron lowii Hook.f. Hook.f.
+title: Rhododendron lowii Hook.f.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

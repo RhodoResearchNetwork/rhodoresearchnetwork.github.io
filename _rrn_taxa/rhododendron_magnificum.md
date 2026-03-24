@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron magnificum Kingdon-Ward
+scientificname: Rhododendron magnificum
 scientificnameauthorship: Kingdon-Ward
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332837-1
 verified: null
 layout: default
-title: Rhododendron magnificum Kingdon-Ward Kingdon-Ward
+title: Rhododendron magnificum Kingdon-Ward
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

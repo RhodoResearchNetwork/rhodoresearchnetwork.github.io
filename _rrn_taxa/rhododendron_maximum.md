@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron maximum L.
+scientificname: Rhododendron maximum
 scientificnameauthorship: L.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:219492-2
 verified: null
 layout: default
-title: Rhododendron maximum L. L.
+title: Rhododendron maximum L.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron viscosum (L.) Torr.
+scientificname: Rhododendron viscosum
 scientificnameauthorship: (L.) Torr.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:30006889-2
 verified: null
 layout: default
-title: Rhododendron viscosum (L.) Torr. (L.) Torr.
+title: Rhododendron viscosum (L.) Torr.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

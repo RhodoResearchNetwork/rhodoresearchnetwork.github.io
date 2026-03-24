@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron campylogynum Franch.
+scientificname: Rhododendron campylogynum
 scientificnameauthorship: Franch.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332099-1
 verified: null
 layout: default
-title: Rhododendron campylogynum Franch. Franch.
+title: Rhododendron campylogynum Franch.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

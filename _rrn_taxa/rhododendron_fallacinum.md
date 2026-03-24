@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron fallacinum Sleumer
+scientificname: Rhododendron fallacinum
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332412-1
 verified: null
 layout: default
-title: Rhododendron fallacinum Sleumer Sleumer
+title: Rhododendron fallacinum Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron galactimim [Balfour f. ex] Tagg
+scientificname: Rhododendron galactimim
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron galactimim [Balfour f. ex] Tagg
+title: Rhododendron galactimim
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

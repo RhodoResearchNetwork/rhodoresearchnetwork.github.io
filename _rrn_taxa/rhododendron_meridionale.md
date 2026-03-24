@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron meridionale P.C.Tam
+scientificname: Rhododendron meridionale
 scientificnameauthorship: P.C.Tam
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:900780-1
 verified: null
 layout: default
-title: Rhododendron meridionale P.C.Tam P.C.Tam
+title: Rhododendron meridionale P.C.Tam
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

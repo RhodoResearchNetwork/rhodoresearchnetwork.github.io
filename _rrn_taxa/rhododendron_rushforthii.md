@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron rushforthii Argent & D.F.Chamb.
+scientificname: Rhododendron rushforthii
 scientificnameauthorship: Argent & D.F.Chamb.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:992091-1
 verified: null
 layout: default
-title: Rhododendron rushforthii Argent & D.F.Chamb. Argent & D.F.Chamb.
+title: Rhododendron rushforthii Argent & D.F.Chamb.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

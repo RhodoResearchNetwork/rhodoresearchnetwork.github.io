@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron stewartianum Diels
+scientificname: Rhododendron stewartianum
 scientificnameauthorship: Diels
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333409-1
 verified: null
 layout: default
-title: Rhododendron stewartianum Diels Diels
+title: Rhododendron stewartianum Diels
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

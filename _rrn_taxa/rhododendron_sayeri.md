@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron sayeri Sleumer
+scientificname: Rhododendron sayeri
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333297-1
 verified: null
 layout: default
-title: Rhododendron sayeri Sleumer Sleumer
+title: Rhododendron sayeri Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

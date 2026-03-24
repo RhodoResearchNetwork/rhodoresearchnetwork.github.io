@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron potaninii Batalin
+scientificname: Rhododendron potaninii
 scientificnameauthorship: Batalin
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333121-1
 verified: null
 layout: default
-title: Rhododendron potaninii Batalin Batalin
+title: Rhododendron potaninii Batalin
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

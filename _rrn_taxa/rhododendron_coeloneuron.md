@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron coeloneuron Diels
+scientificname: Rhododendron coeloneuron
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -23,7 +23,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron coeloneuron Diels
+title: Rhododendron coeloneuron
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

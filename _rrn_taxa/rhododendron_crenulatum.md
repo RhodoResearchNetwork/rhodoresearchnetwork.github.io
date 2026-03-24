@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron crenulatum [Hutch. ex] Sleumer
+scientificname: Rhododendron crenulatum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron crenulatum [Hutch. ex] Sleumer
+title: Rhododendron crenulatum
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron monanthum Balfour f. & W.W.Sm.
+scientificname: Rhododendron monanthum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron monanthum Balfour f. & W.W.Sm.
+title: Rhododendron monanthum
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

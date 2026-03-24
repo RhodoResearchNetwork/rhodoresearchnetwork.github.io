@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron meddianum Forrest
+scientificname: Rhododendron meddianum
 scientificnameauthorship: Forrest
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332865-1
 verified: null
 layout: default
-title: Rhododendron meddianum Forrest Forrest
+title: Rhododendron meddianum Forrest
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

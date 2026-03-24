@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron tashiroi Maxim.
+scientificname: Rhododendron tashiroi
 scientificnameauthorship: Maxim.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333456-1
 verified: null
 layout: default
-title: Rhododendron tashiroi Maxim. Maxim.
+title: Rhododendron tashiroi Maxim.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

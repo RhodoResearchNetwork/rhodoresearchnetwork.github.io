@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron carstensense Wernham
+scientificname: Rhododendron carstensense
 scientificnameauthorship: Wernham
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332117-1
 verified: null
 layout: default
-title: Rhododendron carstensense Wernham Wernham
+title: Rhododendron carstensense Wernham
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

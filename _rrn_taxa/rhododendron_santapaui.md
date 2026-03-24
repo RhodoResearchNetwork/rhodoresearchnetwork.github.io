@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron santapaui Sastry, Kataki, P.A.Cox, E.P.Cox & Hutchison
+scientificname: Rhododendron santapaui
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron santapaui Sastry, Kataki, P.A.Cox, E.P.Cox & Hutchison
+title: Rhododendron santapaui
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

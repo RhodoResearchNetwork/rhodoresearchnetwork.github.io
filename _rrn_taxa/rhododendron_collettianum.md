@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron collettianum Aitchison & Hemsl.
+scientificname: Rhododendron collettianum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron collettianum Aitchison & Hemsl.
+title: Rhododendron collettianum
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

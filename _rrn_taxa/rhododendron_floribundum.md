@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron floribundum Franch.
+scientificname: Rhododendron floribundum
 scientificnameauthorship: Franch.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332439-1
 verified: null
 layout: default
-title: Rhododendron floribundum Franch. Franch.
+title: Rhododendron floribundum Franch.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron stapfianum Hemsl. ex Prain
+scientificname: Rhododendron stapfianum
 scientificnameauthorship: Hemsl. ex Prain
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333401-1
 verified: null
 layout: default
-title: Rhododendron stapfianum Hemsl. ex Prain Hemsl. ex Prain
+title: Rhododendron stapfianum Hemsl. ex Prain
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

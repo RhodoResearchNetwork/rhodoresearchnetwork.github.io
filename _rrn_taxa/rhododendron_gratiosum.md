@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron gratiosum P.C.Tam
+scientificname: Rhododendron gratiosum
 scientificnameauthorship: P.C.Tam
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:902910-1
 verified: null
 layout: default
-title: Rhododendron gratiosum P.C.Tam P.C.Tam
+title: Rhododendron gratiosum P.C.Tam
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron nervulosum Sleumer
+scientificname: Rhododendron nervulosum
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:50906490-1
 verified: null
 layout: default
-title: Rhododendron nervulosum Sleumer Sleumer
+title: Rhododendron nervulosum Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

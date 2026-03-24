@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron setosum D.Don
+scientificname: Rhododendron setosum
 scientificnameauthorship: D.Don
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333339-1
 verified: null
 layout: default
-title: Rhododendron setosum D.Don D.Don
+title: Rhododendron setosum D.Don
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

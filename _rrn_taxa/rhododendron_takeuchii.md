@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron takeuchii Argent
+scientificname: Rhododendron takeuchii
 scientificnameauthorship: Argent
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:70029629-1
 verified: null
 layout: default
-title: Rhododendron takeuchii Argent Argent
+title: Rhododendron takeuchii Argent
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

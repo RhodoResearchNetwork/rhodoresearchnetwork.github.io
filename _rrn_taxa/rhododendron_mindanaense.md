@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron mindanaense Merr.
+scientificname: Rhododendron mindanaense
 scientificnameauthorship: Merr.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332887-1
 verified: null
 layout: default
-title: Rhododendron mindanaense Merr. Merr.
+title: Rhododendron mindanaense Merr.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

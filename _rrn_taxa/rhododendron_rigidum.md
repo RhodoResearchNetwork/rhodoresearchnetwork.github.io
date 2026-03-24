@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron rigidum Franch.
+scientificname: Rhododendron rigidum
 scientificnameauthorship: Franch.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333232-1
 verified: null
 layout: default
-title: Rhododendron rigidum Franch. Franch.
+title: Rhododendron rigidum Franch.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

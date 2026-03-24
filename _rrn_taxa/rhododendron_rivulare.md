@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron rivulare Hand.-Mazz.
+scientificname: Rhododendron rivulare
 scientificnameauthorship: Hand.-Mazz.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333237-1
 verified: null
 layout: default
-title: Rhododendron rivulare Hand.-Mazz. Hand.-Mazz.
+title: Rhododendron rivulare Hand.-Mazz.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

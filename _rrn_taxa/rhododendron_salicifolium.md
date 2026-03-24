@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron salicifolium Becc.
+scientificname: Rhododendron salicifolium
 scientificnameauthorship: Becc.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333281-1
 verified: null
 layout: default
-title: Rhododendron salicifolium Becc. Becc.
+title: Rhododendron salicifolium Becc.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

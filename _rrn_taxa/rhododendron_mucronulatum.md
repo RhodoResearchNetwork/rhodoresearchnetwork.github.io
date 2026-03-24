@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron mucronulatum Turczaninow
+scientificname: Rhododendron mucronulatum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron mucronulatum Turczaninow
+title: Rhododendron mucronulatum
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron armitii F.M.Bailey
+scientificname: Rhododendron armitii
 scientificnameauthorship: F.M.Bailey
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:331956-1
 verified: null
 layout: default
-title: Rhododendron armitii F.M.Bailey F.M.Bailey
+title: Rhododendron armitii F.M.Bailey
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

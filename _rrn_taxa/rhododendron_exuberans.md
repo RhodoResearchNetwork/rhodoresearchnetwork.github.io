@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron exuberans (Sleumer) Argent
+scientificname: Rhododendron exuberans
 scientificnameauthorship: (Sleumer) Argent
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:911237-1
 verified: null
 layout: default
-title: Rhododendron exuberans (Sleumer) Argent (Sleumer) Argent
+title: Rhododendron exuberans (Sleumer) Argent
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

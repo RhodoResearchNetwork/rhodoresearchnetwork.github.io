@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron championae Hooker f.
+scientificname: Rhododendron championae
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron championae Hooker f.
+title: Rhododendron championae
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

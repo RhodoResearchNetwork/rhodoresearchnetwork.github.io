@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron banghamiorum (J.J.Sm.) Sleumer
+scientificname: Rhododendron banghamiorum
 scientificnameauthorship: (J.J.Sm.) Sleumer
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332002-1
 verified: null
 layout: default
-title: Rhododendron banghamiorum (J.J.Sm.) Sleumer (J.J.Sm.) Sleumer
+title: Rhododendron banghamiorum (J.J.Sm.) Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

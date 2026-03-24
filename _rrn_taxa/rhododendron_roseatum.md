@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron roseatum Hutch.
+scientificname: Rhododendron roseatum
 scientificnameauthorship: Hutch.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333242-1
 verified: null
 layout: default
-title: Rhododendron roseatum Hutch. Hutch.
+title: Rhododendron roseatum Hutch.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

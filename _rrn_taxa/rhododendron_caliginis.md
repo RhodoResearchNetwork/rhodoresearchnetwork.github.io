@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron caliginis Kores
+scientificname: Rhododendron caliginis
 scientificnameauthorship: Kores
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:905103-1
 verified: null
 layout: default
-title: Rhododendron caliginis Kores Kores
+title: Rhododendron caliginis Kores
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

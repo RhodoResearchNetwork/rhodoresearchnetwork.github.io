@@ -1,6 +1,5 @@
 ---
-scientificname: 'Rhododendron comisteum Balf.f. & Forrest in Notes R.B.G. Edinb. 11:
-  42 (1919). Type: China'
+scientificname: Rhododendron comisteum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -24,8 +23,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: 'Rhododendron comisteum Balf.f. & Forrest in Notes R.B.G. Edinb. 11: 42 (1919).
-  Type: China'
+title: Rhododendron comisteum
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

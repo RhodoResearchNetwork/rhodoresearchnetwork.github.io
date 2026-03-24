@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron scortechinii King & Gamble
+scientificname: Rhododendron scortechinii
 scientificnameauthorship: King & Gamble
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333315-1
 verified: null
 layout: default
-title: Rhododendron scortechinii King & Gamble King & Gamble
+title: Rhododendron scortechinii King & Gamble
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

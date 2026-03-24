@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron cowanianum Davidian
+scientificname: Rhododendron cowanianum
 scientificnameauthorship: Davidian
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332251-1
 verified: null
 layout: default
-title: Rhododendron cowanianum Davidian Davidian
+title: Rhododendron cowanianum Davidian
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

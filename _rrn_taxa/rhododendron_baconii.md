@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron baconii Argent, A.Lamb & Phillipps
+scientificname: Rhododendron baconii
 scientificnameauthorship: Argent, A.Lamb & Phillipps
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:905100-1
 verified: null
 layout: default
-title: Rhododendron baconii Argent, A.Lamb & Phillipps Argent, A.Lamb & Phillipps
+title: Rhododendron baconii Argent, A.Lamb & Phillipps
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

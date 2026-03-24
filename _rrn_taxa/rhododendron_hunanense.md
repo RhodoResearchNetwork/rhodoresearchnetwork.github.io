@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron hunanense [Chun ex] P.C.Tam
+scientificname: Rhododendron hunanense
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron hunanense [Chun ex] P.C.Tam
+title: Rhododendron hunanense
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

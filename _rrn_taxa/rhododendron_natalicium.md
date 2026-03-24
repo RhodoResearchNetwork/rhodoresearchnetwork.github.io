@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron natalicium Sleumer
+scientificname: Rhododendron natalicium
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332942-1
 verified: null
 layout: default
-title: Rhododendron natalicium Sleumer Sleumer
+title: Rhododendron natalicium Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

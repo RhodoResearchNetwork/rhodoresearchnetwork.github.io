@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron cornu-bovis Sleumer
+scientificname: Rhododendron cornu-bovis
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332243-1
 verified: null
 layout: default
-title: Rhododendron cornu-bovis Sleumer Sleumer
+title: Rhododendron cornu-bovis Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

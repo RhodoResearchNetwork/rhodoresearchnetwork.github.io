@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron bulu Hutch.
+scientificname: Rhododendron bulu
 scientificnameauthorship: Hutch.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332060-1
 verified: null
 layout: default
-title: Rhododendron bulu Hutch. Hutch.
+title: Rhododendron bulu Hutch.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

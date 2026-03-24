@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron chevalieri Dop
+scientificname: Rhododendron chevalieri
 scientificnameauthorship: Dop
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332167-1
 verified: null
 layout: default
-title: Rhododendron chevalieri Dop Dop
+title: Rhododendron chevalieri Dop
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

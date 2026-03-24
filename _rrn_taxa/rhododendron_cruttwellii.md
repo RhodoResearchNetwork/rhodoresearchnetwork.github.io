@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron cruttwellii Sleumer
+scientificname: Rhododendron cruttwellii
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332268-1
 verified: null
 layout: default
-title: Rhododendron cruttwellii Sleumer Sleumer
+title: Rhododendron cruttwellii Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

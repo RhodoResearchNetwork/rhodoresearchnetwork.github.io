@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron impressopunctatum J.J.Sm.
+scientificname: Rhododendron impressopunctatum
 scientificnameauthorship: J.J.Sm.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332622-1
 verified: null
 layout: default
-title: Rhododendron impressopunctatum J.J.Sm. J.J.Sm.
+title: Rhododendron impressopunctatum J.J.Sm.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

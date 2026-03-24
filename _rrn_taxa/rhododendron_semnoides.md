@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron semnoides Tagg & Forrest
+scientificname: Rhododendron semnoides
 scientificnameauthorship: Tagg & Forrest
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333327-1
 verified: null
 layout: default
-title: Rhododendron semnoides Tagg & Forrest Tagg & Forrest
+title: Rhododendron semnoides Tagg & Forrest
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

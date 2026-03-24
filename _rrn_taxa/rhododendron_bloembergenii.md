@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron bloembergenii Sleumer
+scientificname: Rhododendron bloembergenii
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332029-1
 verified: null
 layout: default
-title: Rhododendron bloembergenii Sleumer Sleumer
+title: Rhododendron bloembergenii Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

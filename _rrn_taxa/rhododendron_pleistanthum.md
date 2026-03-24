@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron pleistanthum [Balfour f. ex] Wilding
+scientificname: Rhododendron pleistanthum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron pleistanthum [Balfour f. ex] Wilding
+title: Rhododendron pleistanthum
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

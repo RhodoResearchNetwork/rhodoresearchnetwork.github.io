@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron kasoense Hutch. & Kingdon-Ward
+scientificname: Rhododendron kasoense
 scientificnameauthorship: Hutch. & Kingdon-Ward
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332666-1
 verified: null
 layout: default
-title: Rhododendron kasoense Hutch. & Kingdon-Ward Hutch. & Kingdon-Ward
+title: Rhododendron kasoense Hutch. & Kingdon-Ward
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

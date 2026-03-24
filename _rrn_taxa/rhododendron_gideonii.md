@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron gideonii Argent
+scientificname: Rhododendron gideonii
 scientificnameauthorship: Argent
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:70029622-1
 verified: null
 layout: default
-title: Rhododendron gideonii Argent Argent
+title: Rhododendron gideonii Argent
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron williamsii Merr. ex H.F.Copel.
+scientificname: Rhododendron williamsii
 scientificnameauthorship: Merr. ex H.F.Copel.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333603-1
 verified: null
 layout: default
-title: Rhododendron williamsii Merr. ex H.F.Copel. Merr. ex H.F.Copel.
+title: Rhododendron williamsii Merr. ex H.F.Copel.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

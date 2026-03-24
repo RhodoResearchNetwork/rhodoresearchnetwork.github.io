@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron praeteritium Hutch.
+scientificname: Rhododendron praeteritium
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron praeteritium Hutch.
+title: Rhododendron praeteritium
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

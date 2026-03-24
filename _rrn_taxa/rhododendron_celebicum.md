@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron celebicum (Blume) DC.
+scientificname: Rhododendron celebicum
 scientificnameauthorship: (Blume) DC.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332131-1
 verified: null
 layout: default
-title: Rhododendron celebicum (Blume) DC. (Blume) DC.
+title: Rhododendron celebicum (Blume) DC.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

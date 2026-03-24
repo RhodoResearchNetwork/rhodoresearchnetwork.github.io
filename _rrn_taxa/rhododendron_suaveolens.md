@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron suaveolens Sleumer
+scientificname: Rhododendron suaveolens
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333415-1
 verified: null
 layout: default
-title: Rhododendron suaveolens Sleumer Sleumer
+title: Rhododendron suaveolens Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

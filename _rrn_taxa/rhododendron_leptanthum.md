@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron leptanthum F.Muell.
+scientificname: Rhododendron leptanthum
 scientificnameauthorship: F.Muell.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332748-1
 verified: null
 layout: default
-title: Rhododendron leptanthum F.Muell. F.Muell.
+title: Rhododendron leptanthum F.Muell.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

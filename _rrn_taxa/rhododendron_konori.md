@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron konori Becc.
+scientificname: Rhododendron konori
 scientificnameauthorship: Becc.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332694-1
 verified: null
 layout: default
-title: Rhododendron konori Becc. Becc.
+title: Rhododendron konori Becc.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

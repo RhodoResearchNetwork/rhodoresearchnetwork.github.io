@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron orbiculare Decaisne
+scientificname: Rhododendron orbiculare
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron orbiculare Decaisne
+title: Rhododendron orbiculare
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

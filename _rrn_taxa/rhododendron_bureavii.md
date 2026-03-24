@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron bureavii Franch.
+scientificname: Rhododendron bureavii
 scientificnameauthorship: Franch.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332062-1
 verified: null
 layout: default
-title: Rhododendron bureavii Franch. Franch.
+title: Rhododendron bureavii Franch.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron minutiflorum Hu
+scientificname: Rhododendron minutiflorum
 scientificnameauthorship: Hu
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332892-1
 verified: null
 layout: default
-title: Rhododendron minutiflorum Hu Hu
+title: Rhododendron minutiflorum Hu
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

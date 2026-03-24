@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron rufum Batalin
+scientificname: Rhododendron rufum
 scientificnameauthorship: Batalin
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333270-1
 verified: null
 layout: default
-title: Rhododendron rufum Batalin Batalin
+title: Rhododendron rufum Batalin
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron eymae Sleumer
+scientificname: Rhododendron eymae
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332405-1
 verified: null
 layout: default
-title: Rhododendron eymae Sleumer Sleumer
+title: Rhododendron eymae Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

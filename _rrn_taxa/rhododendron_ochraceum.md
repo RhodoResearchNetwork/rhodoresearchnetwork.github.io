@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron ochraceum Rehder & E.H.Wilson in Sargent (ed.)
+scientificname: Rhododendron ochraceum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron ochraceum Rehder & E.H.Wilson in Sargent (ed.)
+title: Rhododendron ochraceum
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

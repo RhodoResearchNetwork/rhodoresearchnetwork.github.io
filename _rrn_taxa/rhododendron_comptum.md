@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron comptum C.H.Wright
+scientificname: Rhododendron comptum
 scientificnameauthorship: C.H.Wright
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332226-1
 verified: null
 layout: default
-title: Rhododendron comptum C.H.Wright C.H.Wright
+title: Rhododendron comptum C.H.Wright
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

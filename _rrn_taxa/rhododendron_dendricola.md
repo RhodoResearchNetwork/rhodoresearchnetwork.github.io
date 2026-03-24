@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron dendricola Hutch.
+scientificname: Rhododendron dendricola
 scientificnameauthorship: Hutch.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332316-1
 verified: null
 layout: default
-title: Rhododendron dendricola Hutch. Hutch.
+title: Rhododendron dendricola Hutch.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

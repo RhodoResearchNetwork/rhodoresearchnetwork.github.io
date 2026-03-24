@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron moulmainense Hooker f.
+scientificname: Rhododendron moulmainense
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron moulmainense Hooker f.
+title: Rhododendron moulmainense
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

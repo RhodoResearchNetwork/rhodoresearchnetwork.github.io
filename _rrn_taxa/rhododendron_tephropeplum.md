@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron tephropeplum Balfour f. & Farrer
+scientificname: Rhododendron tephropeplum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron tephropeplum Balfour f. & Farrer
+title: Rhododendron tephropeplum
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,6 +1,5 @@
 ---
-scientificname: 'Rhododendron hookeri Nuttall in Hooker''s J. Bot. Kew Gard. Misc.
-  5: 359 (1853). Type: NE India'
+scientificname: Rhododendron hookeri
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -24,8 +23,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: 'Rhododendron hookeri Nuttall in Hooker''s J. Bot. Kew Gard. Misc. 5: 359 (1853).
-  Type: NE India'
+title: Rhododendron hookeri
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

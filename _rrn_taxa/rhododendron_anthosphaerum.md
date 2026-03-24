@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron anthosphaerum Diels
+scientificname: Rhododendron anthosphaerum
 scientificnameauthorship: Diels
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:331936-1
 verified: null
 layout: default
-title: Rhododendron anthosphaerum Diels Diels
+title: Rhododendron anthosphaerum Diels
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

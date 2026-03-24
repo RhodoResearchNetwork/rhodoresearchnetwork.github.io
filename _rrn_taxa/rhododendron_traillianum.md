@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron traillianum Forrest & W.W.Sm.
+scientificname: Rhododendron traillianum
 scientificnameauthorship: Forrest & W.W.Sm.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333490-1
 verified: null
 layout: default
-title: Rhododendron traillianum Forrest & W.W.Sm. Forrest & W.W.Sm.
+title: Rhododendron traillianum Forrest & W.W.Sm.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

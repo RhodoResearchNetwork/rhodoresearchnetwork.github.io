@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron tschonoskii Maxim.
+scientificname: Rhododendron tschonoskii
 scientificnameauthorship: Maxim.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333517-1
 verified: null
 layout: default
-title: Rhododendron tschonoskii Maxim. Maxim.
+title: Rhododendron tschonoskii Maxim.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

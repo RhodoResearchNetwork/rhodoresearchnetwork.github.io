@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron lamii J.J.Sm.
+scientificname: Rhododendron lamii
 scientificnameauthorship: J.J.Sm.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332711-1
 verified: null
 layout: default
-title: Rhododendron lamii J.J.Sm. J.J.Sm.
+title: Rhododendron lamii J.J.Sm.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

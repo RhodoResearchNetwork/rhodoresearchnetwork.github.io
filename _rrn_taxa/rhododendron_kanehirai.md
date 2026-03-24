@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron kanehirai E.H.Wilson
+scientificname: Rhododendron kanehirai
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron kanehirai E.H.Wilson
+title: Rhododendron kanehirai
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

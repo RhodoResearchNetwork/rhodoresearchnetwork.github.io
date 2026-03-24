@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron robinsonii Ridl.
+scientificname: Rhododendron robinsonii
 scientificnameauthorship: Ridl.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333239-1
 verified: null
 layout: default
-title: Rhododendron robinsonii Ridl. Ridl.
+title: Rhododendron robinsonii Ridl.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

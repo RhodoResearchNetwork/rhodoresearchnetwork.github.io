@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron erosum Cowan
+scientificname: Rhododendron erosum
 scientificnameauthorship: Cowan
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332384-1
 verified: null
 layout: default
-title: Rhododendron erosum Cowan Cowan
+title: Rhododendron erosum Cowan
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

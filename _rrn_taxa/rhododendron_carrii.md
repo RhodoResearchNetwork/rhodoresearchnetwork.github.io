@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron carrii Sleumer
+scientificname: Rhododendron carrii
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332115-1
 verified: null
 layout: default
-title: Rhododendron carrii Sleumer Sleumer
+title: Rhododendron carrii Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron surasianum Balfour f. & Craib
+scientificname: Rhododendron surasianum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron surasianum Balfour f. & Craib
+title: Rhododendron surasianum
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

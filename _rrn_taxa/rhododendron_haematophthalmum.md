@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron haematophthalmum Sleumer
+scientificname: Rhododendron haematophthalmum
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332534-1
 verified: null
 layout: default
-title: Rhododendron haematophthalmum Sleumer Sleumer
+title: Rhododendron haematophthalmum Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

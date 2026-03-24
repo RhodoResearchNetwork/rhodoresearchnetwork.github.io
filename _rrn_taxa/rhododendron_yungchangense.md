@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron yungchangense Cullen
+scientificname: Rhododendron yungchangense
 scientificnameauthorship: Cullen
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333630-1
 verified: null
 layout: default
-title: Rhododendron yungchangense Cullen Cullen
+title: Rhododendron yungchangense Cullen
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

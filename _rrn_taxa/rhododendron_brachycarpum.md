@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron brachycarpum [D.Don ex] G.Don
+scientificname: Rhododendron brachycarpum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron brachycarpum [D.Don ex] G.Don
+title: Rhododendron brachycarpum
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

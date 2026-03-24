@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron smirnowii Trautvetter
+scientificname: Rhododendron smirnowii
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron smirnowii Trautvetter
+title: Rhododendron smirnowii
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

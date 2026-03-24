@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron bathyphyllum Balf.f. & Forrest
+scientificname: Rhododendron bathyphyllum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron bathyphyllum Balf.f. & Forrest
+title: Rhododendron bathyphyllum
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

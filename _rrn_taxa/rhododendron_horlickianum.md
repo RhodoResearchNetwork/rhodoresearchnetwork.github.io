@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron horlickianum Davidian
+scientificname: Rhododendron horlickianum
 scientificnameauthorship: Davidian
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332591-1
 verified: null
 layout: default
-title: Rhododendron horlickianum Davidian Davidian
+title: Rhododendron horlickianum Davidian
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

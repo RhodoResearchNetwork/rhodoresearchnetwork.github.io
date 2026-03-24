@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron anagalliflorum Wernham
+scientificname: Rhododendron anagalliflorum
 scientificnameauthorship: Wernham
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:331925-1
 verified: null
 layout: default
-title: Rhododendron anagalliflorum Wernham Wernham
+title: Rhododendron anagalliflorum Wernham
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

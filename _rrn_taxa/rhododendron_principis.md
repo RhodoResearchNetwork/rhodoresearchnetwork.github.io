@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron principis Bureau & Franch.
+scientificname: Rhododendron principis
 scientificnameauthorship: Bureau & Franch.
 genus: Rhododendron
 subfamily: ''
@@ -24,7 +24,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333136-1
 verified: null
 layout: default
-title: Rhododendron principis Bureau & Franch. Bureau & Franch.
+title: Rhododendron principis Bureau & Franch.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron pulleanum Koord.
+scientificname: Rhododendron pulleanum
 scientificnameauthorship: Koord.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333176-1
 verified: null
 layout: default
-title: Rhododendron pulleanum Koord. Koord.
+title: Rhododendron pulleanum Koord.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

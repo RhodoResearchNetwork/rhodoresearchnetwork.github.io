@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron myrtifolium Schott & Kotschy
+scientificname: Rhododendron myrtifolium
 scientificnameauthorship: Schott & Kotschy
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332929-1
 verified: null
 layout: default
-title: Rhododendron myrtifolium Schott & Kotschy Schott & Kotschy
+title: Rhododendron myrtifolium Schott & Kotschy
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

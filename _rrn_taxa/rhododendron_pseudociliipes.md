@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron pseudociliipes Cullen
+scientificname: Rhododendron pseudociliipes
 scientificnameauthorship: Cullen
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333160-1
 verified: null
 layout: default
-title: Rhododendron pseudociliipes Cullen Cullen
+title: Rhododendron pseudociliipes Cullen
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

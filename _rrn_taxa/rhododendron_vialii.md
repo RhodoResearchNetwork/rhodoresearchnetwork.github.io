@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron vialii Delavay & Franch.
+scientificname: Rhododendron vialii
 scientificnameauthorship: Delavay & Franch.
 genus: Rhododendron
 subfamily: ''
@@ -65558,7 +65558,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333561-1
 verified: null
 layout: default
-title: Rhododendron vialii Delavay & Franch. Delavay & Franch.
+title: Rhododendron vialii Delavay & Franch.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

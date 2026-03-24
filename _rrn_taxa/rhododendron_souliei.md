@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron souliei Franch.
+scientificname: Rhododendron souliei
 scientificnameauthorship: Franch.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333377-1
 verified: null
 layout: default
-title: Rhododendron souliei Franch. Franch.
+title: Rhododendron souliei Franch.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron cyrtophyllum Wernham
+scientificname: Rhododendron cyrtophyllum
 scientificnameauthorship: Wernham
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332289-1
 verified: null
 layout: default
-title: Rhododendron cyrtophyllum Wernham Wernham
+title: Rhododendron cyrtophyllum Wernham
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

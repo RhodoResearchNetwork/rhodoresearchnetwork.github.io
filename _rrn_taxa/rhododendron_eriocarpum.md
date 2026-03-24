@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron eriocarpum (Hayata) Nakai
+scientificname: Rhododendron eriocarpum
 scientificnameauthorship: (Hayata) Nakai
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332380-1
 verified: null
 layout: default
-title: Rhododendron eriocarpum (Hayata) Nakai (Hayata) Nakai
+title: Rhododendron eriocarpum (Hayata) Nakai
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

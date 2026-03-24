@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron aperantum Balf.f. & Kingdon-Ward
+scientificname: Rhododendron aperantum
 scientificnameauthorship: Balf.f. & Kingdon-Ward
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:331938-1
 verified: null
 layout: default
-title: Rhododendron aperantum Balf.f. & Kingdon-Ward Balf.f. & Kingdon-Ward
+title: Rhododendron aperantum Balf.f. & Kingdon-Ward
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

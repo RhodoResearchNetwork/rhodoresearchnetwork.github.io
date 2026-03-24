@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron bainbridgeanum Tagg & Forrest in Stevenson (ed.)
+scientificname: Rhododendron bainbridgeanum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron bainbridgeanum Tagg & Forrest in Stevenson (ed.)
+title: Rhododendron bainbridgeanum
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron griffithianum Wight
+scientificname: Rhododendron griffithianum
 scientificnameauthorship: Wight
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332522-1
 verified: null
 layout: default
-title: Rhododendron griffithianum Wight Wight
+title: Rhododendron griffithianum Wight
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

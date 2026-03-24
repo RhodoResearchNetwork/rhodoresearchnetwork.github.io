@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron calendulaceum (Michx.) Torr.
+scientificname: Rhododendron calendulaceum
 scientificnameauthorship: (Michx.) Torr.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:30159718-2
 verified: null
 layout: default
-title: Rhododendron calendulaceum (Michx.) Torr. (Michx.) Torr.
+title: Rhododendron calendulaceum (Michx.) Torr.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron cyanocarpum (Franch.) W.W.Sm.
+scientificname: Rhododendron cyanocarpum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron cyanocarpum (Franch.) W.W.Sm.
+title: Rhododendron cyanocarpum
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

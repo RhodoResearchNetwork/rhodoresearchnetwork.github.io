@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron barkamense D.F.Chamb.
+scientificname: Rhododendron barkamense
 scientificnameauthorship: D.F.Chamb.
 genus: Rhododendron
 subfamily: ''
@@ -30,7 +30,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:900758-1
 verified: null
 layout: default
-title: Rhododendron barkamense D.F.Chamb. D.F.Chamb.
+title: Rhododendron barkamense D.F.Chamb.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

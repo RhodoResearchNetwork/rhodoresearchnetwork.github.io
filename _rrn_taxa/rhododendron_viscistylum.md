@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron viscistylum Nakai
+scientificname: Rhododendron viscistylum
 scientificnameauthorship: Nakai
 genus: Rhododendron
 subfamily: ''
@@ -262166,7 +262166,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333576-1
 verified: null
 layout: default
-title: Rhododendron viscistylum Nakai Nakai
+title: Rhododendron viscistylum Nakai
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

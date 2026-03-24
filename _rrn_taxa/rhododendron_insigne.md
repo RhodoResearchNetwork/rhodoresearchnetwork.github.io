@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron insigne Hemsl. & E.H.Wilson
+scientificname: Rhododendron insigne
 scientificnameauthorship: Hemsl. & E.H.Wilson
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332631-1
 verified: null
 layout: default
-title: Rhododendron insigne Hemsl. & E.H.Wilson Hemsl. & E.H.Wilson
+title: Rhododendron insigne Hemsl. & E.H.Wilson
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron neobritannicum Sleumer
+scientificname: Rhododendron neobritannicum
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332946-1
 verified: null
 layout: default
-title: Rhododendron neobritannicum Sleumer Sleumer
+title: Rhododendron neobritannicum Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

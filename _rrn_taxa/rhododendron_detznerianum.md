@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron detznerianum Sleumer
+scientificname: Rhododendron detznerianum
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332324-1
 verified: null
 layout: default
-title: Rhododendron detznerianum Sleumer Sleumer
+title: Rhododendron detznerianum Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

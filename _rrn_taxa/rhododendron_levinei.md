@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron levinei Merr.
+scientificname: Rhododendron levinei
 scientificnameauthorship: Merr.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332764-1
 verified: null
 layout: default
-title: Rhododendron levinei Merr. Merr.
+title: Rhododendron levinei Merr.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

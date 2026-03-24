@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron micranthum Turczaninow
+scientificname: Rhododendron micranthum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron micranthum Turczaninow
+title: Rhododendron micranthum
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

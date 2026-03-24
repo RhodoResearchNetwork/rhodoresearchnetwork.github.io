@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron mayebarae Nakai & Hara
+scientificname: Rhododendron mayebarae
 scientificnameauthorship: Nakai & Hara
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332863-1
 verified: null
 layout: default
-title: Rhododendron mayebarae Nakai & Hara Nakai & Hara
+title: Rhododendron mayebarae Nakai & Hara
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

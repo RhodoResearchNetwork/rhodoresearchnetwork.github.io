@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron luteiflorum (Davidian) Culien
+scientificname: Rhododendron luteiflorum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron luteiflorum (Davidian) Culien
+title: Rhododendron luteiflorum
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

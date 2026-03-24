@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron haematodes Franch.
+scientificname: Rhododendron haematodes
 scientificnameauthorship: Franch.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332533-1
 verified: null
 layout: default
-title: Rhododendron haematodes Franch. Franch.
+title: Rhododendron haematodes Franch.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

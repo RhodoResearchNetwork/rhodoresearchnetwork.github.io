@@ -1,6 +1,5 @@
 ---
-scientificname: 'Rhododendron nigroglandulosum Nitzelius in Rhododendrons with Magnolias
-  and Camellias 1975: 26'
+scientificname: Rhododendron nigroglandulosum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -23,8 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: 'Rhododendron nigroglandulosum Nitzelius in Rhododendrons with Magnolias and
-  Camellias 1975: 26'
+title: Rhododendron nigroglandulosum
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron oldhamii Maxim.
+scientificname: Rhododendron oldhamii
 scientificnameauthorship: Maxim.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332998-1
 verified: null
 layout: default
-title: Rhododendron oldhamii Maxim. Maxim.
+title: Rhododendron oldhamii Maxim.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

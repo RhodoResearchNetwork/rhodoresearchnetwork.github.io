@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron lutescens Franch.
+scientificname: Rhododendron lutescens
 scientificnameauthorship: Franch.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332816-1
 verified: null
 layout: default
-title: Rhododendron lutescens Franch. Franch.
+title: Rhododendron lutescens Franch.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

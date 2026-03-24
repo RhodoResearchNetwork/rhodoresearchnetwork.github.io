@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron wentianum Koord.
+scientificname: Rhododendron wentianum
 scientificnameauthorship: Koord.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333596-1
 verified: null
 layout: default
-title: Rhododendron wentianum Koord. Koord.
+title: Rhododendron wentianum Koord.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

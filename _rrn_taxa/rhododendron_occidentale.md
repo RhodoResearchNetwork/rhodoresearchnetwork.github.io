@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron occidentale (Ton. & A. Gray) A. Gray
+scientificname: Rhododendron occidentale
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron occidentale (Ton. & A. Gray) A. Gray
+title: Rhododendron occidentale
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

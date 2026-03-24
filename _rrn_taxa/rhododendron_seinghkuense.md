@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron seinghkuense Kingdon-Ward
+scientificname: Rhododendron seinghkuense
 scientificnameauthorship: Kingdon-Ward
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333322-1
 verified: null
 layout: default
-title: Rhododendron seinghkuense Kingdon-Ward Kingdon-Ward
+title: Rhododendron seinghkuense Kingdon-Ward
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

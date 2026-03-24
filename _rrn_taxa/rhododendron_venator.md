@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron venator Tagg
+scientificname: Rhododendron venator
 scientificnameauthorship: Tagg
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333548-1
 verified: null
 layout: default
-title: Rhododendron venator Tagg Tagg
+title: Rhododendron venator Tagg
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

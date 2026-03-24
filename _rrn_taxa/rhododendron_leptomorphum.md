@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron leptomorphum Sleumer
+scientificname: Rhododendron leptomorphum
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332753-1
 verified: null
 layout: default
-title: Rhododendron leptomorphum Sleumer Sleumer
+title: Rhododendron leptomorphum Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

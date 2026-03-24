@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron pomense Cowan & Davidian
+scientificname: Rhododendron pomense
 scientificnameauthorship: Cowan & Davidian
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333113-1
 verified: null
 layout: default
-title: Rhododendron pomense Cowan & Davidian Cowan & Davidian
+title: Rhododendron pomense Cowan & Davidian
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

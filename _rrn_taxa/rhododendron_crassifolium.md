@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron crassifolium Stapf
+scientificname: Rhododendron crassifolium
 scientificnameauthorship: Stapf
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332253-1
 verified: null
 layout: default
-title: Rhododendron crassifolium Stapf Stapf
+title: Rhododendron crassifolium Stapf
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

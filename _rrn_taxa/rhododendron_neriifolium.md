@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron neriifolium Schltr.
+scientificname: Rhododendron neriifolium
 scientificnameauthorship: Schltr.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332949-1
 verified: null
 layout: default
-title: Rhododendron neriifolium Schltr. Schltr.
+title: Rhododendron neriifolium Schltr.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

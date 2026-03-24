@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron campanulatum D.Don
+scientificname: Rhododendron campanulatum
 scientificnameauthorship: D.Don
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332096-1
 verified: null
 layout: default
-title: Rhododendron campanulatum D.Don D.Don
+title: Rhododendron campanulatum D.Don
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

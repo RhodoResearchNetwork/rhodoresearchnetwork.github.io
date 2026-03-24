@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron oreotrephes W.W.Sm.
+scientificname: Rhododendron oreotrephes
 scientificnameauthorship: W.W.Sm.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333012-1
 verified: null
 layout: default
-title: Rhododendron oreotrephes W.W.Sm. W.W.Sm.
+title: Rhododendron oreotrephes W.W.Sm.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

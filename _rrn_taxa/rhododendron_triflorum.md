@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron triflorum Hooker
+scientificname: Rhododendron triflorum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron triflorum Hooker
+title: Rhododendron triflorum
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: "Rhododendron fuchsiifoiium H.L\xE9v.."
+scientificname: Rhododendron fuchsiifoiium
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: "Rhododendron fuchsiifoiium H.L\xE9v.."
+title: Rhododendron fuchsiifoiium
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

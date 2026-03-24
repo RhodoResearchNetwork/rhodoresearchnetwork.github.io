@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron rufosquamosum Hutch.
+scientificname: Rhododendron rufosquamosum
 scientificnameauthorship: Hutch.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333269-1
 verified: null
 layout: default
-title: Rhododendron rufosquamosum Hutch. Hutch.
+title: Rhododendron rufosquamosum Hutch.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

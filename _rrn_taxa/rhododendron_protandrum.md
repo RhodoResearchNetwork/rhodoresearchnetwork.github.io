@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron protandrum Sleumer
+scientificname: Rhododendron protandrum
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333147-1
 verified: null
 layout: default
-title: Rhododendron protandrum Sleumer Sleumer
+title: Rhododendron protandrum Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

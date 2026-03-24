@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron milleri Argent
+scientificname: Rhododendron milleri
 scientificnameauthorship: Argent
 genus: Rhododendron
 subfamily: ''
@@ -262166,7 +262166,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:77073617-1
 verified: null
 layout: default
-title: Rhododendron milleri Argent Argent
+title: Rhododendron milleri Argent
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

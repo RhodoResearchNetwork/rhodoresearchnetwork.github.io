@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron prunifolium (Small) Millais
+scientificname: Rhododendron prunifolium
 scientificnameauthorship: (Small) Millais
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:219520-2
 verified: null
 layout: default
-title: Rhododendron prunifolium (Small) Millais (Small) Millais
+title: Rhododendron prunifolium (Small) Millais
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

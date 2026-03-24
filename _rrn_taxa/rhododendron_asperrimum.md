@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron asperrimum Sleumer
+scientificname: Rhododendron asperrimum
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:331963-1
 verified: null
 layout: default
-title: Rhododendron asperrimum Sleumer Sleumer
+title: Rhododendron asperrimum Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

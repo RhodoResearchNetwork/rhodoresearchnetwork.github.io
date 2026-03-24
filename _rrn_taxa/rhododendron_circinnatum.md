@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron circinnatum Cowan & Kingdon-Ward
+scientificname: Rhododendron circinnatum
 scientificnameauthorship: Cowan & Kingdon-Ward
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332200-1
 verified: null
 layout: default
-title: Rhododendron circinnatum Cowan & Kingdon-Ward Cowan & Kingdon-Ward
+title: Rhododendron circinnatum Cowan & Kingdon-Ward
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

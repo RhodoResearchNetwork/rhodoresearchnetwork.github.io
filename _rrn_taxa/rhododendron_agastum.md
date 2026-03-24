@@ -1,5 +1,6 @@
 ---
-scientificname: Rhododendron agastum
+scientificname: "Rhododendron \xD7 agastum"
+scientificnameauthorship: Balf.f. & W.W.Sm.
 genus: Rhododendron
 subfamily: ''
 section: ''
@@ -14,14 +15,14 @@ tags:
 - taxonomy
 - Rhododendron
 namepublishedin: Trans. Bot. Soc. Edinb. 27:178 (1917).
-doi: ''
-wfo_id: ''
+doi: https://doi.org/10.1080/03746601709468478
+wfo_id: wfo-0001229443
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:331889-1
 verified: null
 layout: default
-title: Rhododendron agastum Balf.f. & W.W.Sm.
+title: "Rhododendron \xD7 agastum Balf.f. & W.W.Sm."
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

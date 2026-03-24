@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron dauricum L.
+scientificname: Rhododendron dauricum
 scientificnameauthorship: L.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:326359-2
 verified: null
 layout: default
-title: Rhododendron dauricum L. L.
+title: Rhododendron dauricum L.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

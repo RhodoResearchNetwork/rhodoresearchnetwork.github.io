@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron viriosum Craven
+scientificname: Rhododendron viriosum
 scientificnameauthorship: Craven
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:20009289-1
 verified: null
 layout: default
-title: Rhododendron viriosum Craven Craven
+title: Rhododendron viriosum Craven
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

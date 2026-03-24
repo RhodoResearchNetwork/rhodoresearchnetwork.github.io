@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron petrocharis Diels
+scientificname: Rhododendron petrocharis
 scientificnameauthorship: Diels
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333073-1
 verified: null
 layout: default
-title: Rhododendron petrocharis Diels Diels
+title: Rhododendron petrocharis Diels
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

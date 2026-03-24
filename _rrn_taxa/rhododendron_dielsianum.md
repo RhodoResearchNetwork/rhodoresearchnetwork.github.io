@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron dielsianum Schltr.
+scientificname: Rhododendron dielsianum
 scientificnameauthorship: Schltr.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332335-1
 verified: null
 layout: default
-title: Rhododendron dielsianum Schltr. Schltr.
+title: Rhododendron dielsianum Schltr.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

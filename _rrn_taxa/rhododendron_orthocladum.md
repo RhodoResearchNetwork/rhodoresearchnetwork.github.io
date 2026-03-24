@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron orthocladum Balf.f. & Forrest
+scientificname: Rhododendron orthocladum
 scientificnameauthorship: Balf.f. & Forrest
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333019-1
 verified: null
 layout: default
-title: Rhododendron orthocladum Balf.f. & Forrest Balf.f. & Forrest
+title: Rhododendron orthocladum Balf.f. & Forrest
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

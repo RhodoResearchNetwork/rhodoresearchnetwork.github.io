@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron loboense H.F.Copel.
+scientificname: Rhododendron loboense
 scientificnameauthorship: H.F.Copel.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332783-1
 verified: null
 layout: default
-title: Rhododendron loboense H.F.Copel. H.F.Copel.
+title: Rhododendron loboense H.F.Copel.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

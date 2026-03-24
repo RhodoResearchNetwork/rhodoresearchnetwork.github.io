@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron forrestii [Balfour f. ex] Diels
+scientificname: Rhododendron forrestii
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron forrestii [Balfour f. ex] Diels
+title: Rhododendron forrestii
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

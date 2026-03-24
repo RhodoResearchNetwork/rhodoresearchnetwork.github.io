@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron amabile Sleumer
+scientificname: Rhododendron amabile
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:331913-1
 verified: null
 layout: default
-title: Rhododendron amabile Sleumer Sleumer
+title: Rhododendron amabile Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

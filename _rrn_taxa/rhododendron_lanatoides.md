@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron lanatoides D.F.Chamb.
+scientificname: Rhododendron lanatoides
 scientificnameauthorship: D.F.Chamb.
 genus: Rhododendron
 subfamily: ''
@@ -30,7 +30,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:900776-1
 verified: null
 layout: default
-title: Rhododendron lanatoides D.F.Chamb. D.F.Chamb.
+title: Rhododendron lanatoides D.F.Chamb.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

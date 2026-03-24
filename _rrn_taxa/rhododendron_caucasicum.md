@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron caucasicum Pallas
+scientificname: Rhododendron caucasicum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron caucasicum Pallas
+title: Rhododendron caucasicum
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

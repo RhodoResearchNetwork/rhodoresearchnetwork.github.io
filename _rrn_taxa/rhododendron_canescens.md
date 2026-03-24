@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron canescens (Michx.) Sweet
+scientificname: Rhododendron canescens
 scientificnameauthorship: (Michx.) Sweet
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:30117552-2
 verified: null
 layout: default
-title: Rhododendron canescens (Michx.) Sweet (Michx.) Sweet
+title: Rhododendron canescens (Michx.) Sweet
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

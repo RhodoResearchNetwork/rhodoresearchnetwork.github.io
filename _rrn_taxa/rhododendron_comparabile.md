@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron comparabile Sleumer
+scientificname: Rhododendron comparabile
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332224-1
 verified: null
 layout: default
-title: Rhododendron comparabile Sleumer Sleumer
+title: Rhododendron comparabile Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

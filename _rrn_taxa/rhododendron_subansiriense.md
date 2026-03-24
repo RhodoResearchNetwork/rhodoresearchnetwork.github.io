@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron subansiriense D.F.Chamb.
+scientificname: Rhododendron subansiriense
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron subansiriense D.F.Chamb.
+title: Rhododendron subansiriense
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

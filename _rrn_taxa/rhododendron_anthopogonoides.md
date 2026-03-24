@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron anthopogonoides Maxim.
+scientificname: Rhododendron anthopogonoides
 scientificnameauthorship: Maxim.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:331935-1
 verified: null
 layout: default
-title: Rhododendron anthopogonoides Maxim. Maxim.
+title: Rhododendron anthopogonoides Maxim.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

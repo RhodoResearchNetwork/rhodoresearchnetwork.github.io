@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron formosum Wall.
+scientificname: Rhododendron formosum
 scientificnameauthorship: Wall.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332443-1
 verified: null
 layout: default
-title: Rhododendron formosum Wall. Wall.
+title: Rhododendron formosum Wall.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

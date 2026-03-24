@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron lanigerum Tagg
+scientificname: Rhododendron lanigerum
 scientificnameauthorship: Tagg
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332720-1
 verified: null
 layout: default
-title: Rhododendron lanigerum Tagg Tagg
+title: Rhododendron lanigerum Tagg
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

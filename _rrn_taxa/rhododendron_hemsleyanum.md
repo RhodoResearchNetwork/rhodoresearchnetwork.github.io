@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron hemsleyanum E.H.Wilson
+scientificname: Rhododendron hemsleyanum
 scientificnameauthorship: E.H.Wilson
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332563-1
 verified: null
 layout: default
-title: Rhododendron hemsleyanum E.H.Wilson E.H.Wilson
+title: Rhododendron hemsleyanum E.H.Wilson
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

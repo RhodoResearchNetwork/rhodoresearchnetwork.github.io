@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron rarum Schltr.
+scientificname: Rhododendron rarum
 scientificnameauthorship: Schltr.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333205-1
 verified: null
 layout: default
-title: Rhododendron rarum Schltr. Schltr.
+title: Rhododendron rarum Schltr.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

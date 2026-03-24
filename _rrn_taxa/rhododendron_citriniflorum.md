@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron citriniflorum Balf.f. & Forrest
+scientificname: Rhododendron citriniflorum
 scientificnameauthorship: Balf.f. & Forrest
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332202-1
 verified: null
 layout: default
-title: Rhododendron citriniflorum Balf.f. & Forrest Balf.f. & Forrest
+title: Rhododendron citriniflorum Balf.f. & Forrest
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron tuba Sleumer
+scientificname: Rhododendron tuba
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333520-1
 verified: null
 layout: default
-title: Rhododendron tuba Sleumer Sleumer
+title: Rhododendron tuba Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

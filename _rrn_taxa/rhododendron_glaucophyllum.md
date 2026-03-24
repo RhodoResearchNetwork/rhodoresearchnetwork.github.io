@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron glaucophyllum Rehder
+scientificname: Rhododendron glaucophyllum
 scientificnameauthorship: Rehder
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332498-1
 verified: null
 layout: default
-title: Rhododendron glaucophyllum Rehder Rehder
+title: Rhododendron glaucophyllum Rehder
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

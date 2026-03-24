@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron stelligerum Sleumer
+scientificname: Rhododendron stelligerum
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333402-1
 verified: null
 layout: default
-title: Rhododendron stelligerum Sleumer Sleumer
+title: Rhododendron stelligerum Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

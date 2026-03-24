@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron lindaueanum Koord.
+scientificname: Rhododendron lindaueanum
 scientificnameauthorship: Koord.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332770-1
 verified: null
 layout: default
-title: Rhododendron lindaueanum Koord. Koord.
+title: Rhododendron lindaueanum Koord.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

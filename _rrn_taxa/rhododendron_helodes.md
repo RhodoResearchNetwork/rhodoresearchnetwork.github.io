@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron helodes Sleumer
+scientificname: Rhododendron helodes
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332558-1
 verified: null
 layout: default
-title: Rhododendron helodes Sleumer Sleumer
+title: Rhododendron helodes Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

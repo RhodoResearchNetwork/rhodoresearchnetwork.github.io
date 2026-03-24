@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron dignabile Cowan
+scientificname: Rhododendron dignabile
 scientificnameauthorship: Cowan
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332336-1
 verified: null
 layout: default
-title: Rhododendron dignabile Cowan Cowan
+title: Rhododendron dignabile Cowan
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

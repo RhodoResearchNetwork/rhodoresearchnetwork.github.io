@@ -1,26 +1,28 @@
 ---
 layout: default
-title: Rhododendron sikkimense D.K.Pradhan
+title: D.K.Pradhan
 nav: false
-genus: "Rhododendron"
-subgenus: ""
-section: ""
-subsection: ""
-scientific_name: "Rhododendron sikkimense"
-scientificnameauthorship: "D.K.Pradhan"
-source: 
-identifier: 
-author: 
-created: 
-rights holder: 
-license: ""
-tags: ["taxonomy", "Rhododendron"]
-namepublishedin: "J. Mountain Res. 18(1): 2023 (2023)"
-doi: ""
-wfo_id : "wfo-1200114016"
-wfo_parent id: 
-wfo_accepted_id: "" #if synonym probably needs to be archived.                      
-ipni_id: "urn:lsid:ipni.org:names:77365698-1"
+genus: Rhododendron
+subgenus: ''
+section: ''
+subsection: ''
+scientific_name: Rhododendron sikkimense
+scientificnameauthorship: D.K.Pradhan
+source: null
+identifier: null
+author: null
+created: null
+rights holder: null
+license: ''
+tags:
+- taxonomy
+- Rhododendron
+namepublishedin: 'J. Mountain Res. 18(1): 2023 (2023)'
+doi: ''
+wfo_id: wfo-1200114016
+wfo_parent id: null
+wfo_accepted_id: ''
+ipni_id: urn:lsid:ipni.org:names:77365698-1
 verified: A.Elliott
 ---
 

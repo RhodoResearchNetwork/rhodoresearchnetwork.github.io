@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron vinkii Sleumer
+scientificname: Rhododendron vinkii
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333571-1
 verified: null
 layout: default
-title: Rhododendron vinkii Sleumer Sleumer
+title: Rhododendron vinkii Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

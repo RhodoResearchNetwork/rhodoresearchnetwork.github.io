@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron yongii Argent
+scientificname: Rhododendron yongii
 scientificnameauthorship: Argent
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:900804-1
 verified: null
 layout: default
-title: Rhododendron yongii Argent Argent
+title: Rhododendron yongii Argent
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

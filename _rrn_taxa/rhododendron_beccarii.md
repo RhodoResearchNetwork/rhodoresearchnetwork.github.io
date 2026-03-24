@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron beccarii Sleumer
+scientificname: Rhododendron beccarii
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332012-1
 verified: null
 layout: default
-title: Rhododendron beccarii Sleumer Sleumer
+title: Rhododendron beccarii Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

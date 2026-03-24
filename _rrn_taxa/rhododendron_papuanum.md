@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron papuanum Becc.
+scientificname: Rhododendron papuanum
 scientificnameauthorship: Becc.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333041-1
 verified: null
 layout: default
-title: Rhododendron papuanum Becc. Becc.
+title: Rhododendron papuanum Becc.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron capitatum Maxim.
+scientificname: Rhododendron capitatum
 scientificnameauthorship: Maxim.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332109-1
 verified: null
 layout: default
-title: Rhododendron capitatum Maxim. Maxim.
+title: Rhododendron capitatum Maxim.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

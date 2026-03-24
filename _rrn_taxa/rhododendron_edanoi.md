@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron edanoi Merr. & Quisumb.
+scientificname: Rhododendron edanoi
 scientificnameauthorship: Merr. & Quisumb.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332358-1
 verified: null
 layout: default
-title: Rhododendron edanoi Merr. & Quisumb. Merr. & Quisumb.
+title: Rhododendron edanoi Merr. & Quisumb.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

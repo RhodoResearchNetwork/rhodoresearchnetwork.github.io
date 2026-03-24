@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron apiense Argent
+scientificname: Rhododendron apiense
 scientificnameauthorship: Argent
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:70029621-1
 verified: null
 layout: default
-title: Rhododendron apiense Argent Argent
+title: Rhododendron apiense Argent
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

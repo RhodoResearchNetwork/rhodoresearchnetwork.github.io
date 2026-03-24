@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron thymifolium Maxim.
+scientificname: Rhododendron thymifolium
 scientificnameauthorship: Maxim.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333480-1
 verified: null
 layout: default
-title: Rhododendron thymifolium Maxim. Maxim.
+title: Rhododendron thymifolium Maxim.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

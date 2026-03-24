@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron grande Wight
+scientificname: Rhododendron grande
 scientificnameauthorship: Wight
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332518-1
 verified: null
 layout: default
-title: Rhododendron grande Wight Wight
+title: Rhododendron grande Wight
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

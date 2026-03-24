@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron arenicola Sleumer
+scientificname: Rhododendron arenicola
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:331948-1
 verified: null
 layout: default
-title: Rhododendron arenicola Sleumer Sleumer
+title: Rhododendron arenicola Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

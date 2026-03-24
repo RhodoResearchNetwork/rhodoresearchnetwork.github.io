@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron hyacinthosmum Sleumer
+scientificname: Rhododendron hyacinthosmum
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332600-1
 verified: null
 layout: default
-title: Rhododendron hyacinthosmum Sleumer Sleumer
+title: Rhododendron hyacinthosmum Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron flumineum Fang & M.Y. He
+scientificname: Rhododendron flumineum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron flumineum Fang & M.Y. He
+title: Rhododendron flumineum
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

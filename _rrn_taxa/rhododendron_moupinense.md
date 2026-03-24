@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron moupinense Franch.
+scientificname: Rhododendron moupinense
 scientificnameauthorship: Franch.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332918-1
 verified: null
 layout: default
-title: Rhododendron moupinense Franch. Franch.
+title: Rhododendron moupinense Franch.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron decandrum (Makino) Makino
+scientificname: Rhododendron decandrum
 scientificnameauthorship: (Makino) Makino
 genus: Rhododendron
 subfamily: ''
@@ -262166,7 +262166,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332304-1
 verified: null
 layout: default
-title: Rhododendron decandrum (Makino) Makino (Makino) Makino
+title: Rhododendron decandrum (Makino) Makino
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

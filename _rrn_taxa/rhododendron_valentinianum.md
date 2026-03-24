@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron valentinianum [Forrest ex] Hutch.
+scientificname: Rhododendron valentinianum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron valentinianum [Forrest ex] Hutch.
+title: Rhododendron valentinianum
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

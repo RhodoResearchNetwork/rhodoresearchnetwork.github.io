@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron macgregoriae F.Muell.
+scientificname: Rhododendron macgregoriae
 scientificnameauthorship: F.Muell.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332823-1
 verified: null
 layout: default
-title: Rhododendron macgregoriae F.Muell. F.Muell.
+title: Rhododendron macgregoriae F.Muell.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

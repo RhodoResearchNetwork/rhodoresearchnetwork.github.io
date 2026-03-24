@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron ciliatum Hooker
+scientificname: Rhododendron ciliatum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron ciliatum Hooker
+title: Rhododendron ciliatum
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

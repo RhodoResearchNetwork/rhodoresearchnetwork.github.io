@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron citrinum (Hassk.) Hassk.
+scientificname: Rhododendron citrinum
 scientificnameauthorship: (Hassk.) Hassk.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332204-1
 verified: null
 layout: default
-title: Rhododendron citrinum (Hassk.) Hassk. (Hassk.) Hassk.
+title: Rhododendron citrinum (Hassk.) Hassk.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

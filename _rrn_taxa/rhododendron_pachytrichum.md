@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron pachytrichum Franch.
+scientificname: Rhododendron pachytrichum
 scientificnameauthorship: Franch.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333031-1
 verified: null
 layout: default
-title: Rhododendron pachytrichum Franch. Franch.
+title: Rhododendron pachytrichum Franch.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

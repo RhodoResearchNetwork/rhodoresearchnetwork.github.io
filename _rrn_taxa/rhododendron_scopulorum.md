@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron scopulorum Hutch.
+scientificname: Rhododendron scopulorum
 scientificnameauthorship: Hutch.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333314-1
 verified: null
 layout: default
-title: Rhododendron scopulorum Hutch. Hutch.
+title: Rhododendron scopulorum Hutch.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron longiperulatum Hayata
+scientificname: Rhododendron longiperulatum
 scientificnameauthorship: Hayata
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332792-1
 verified: null
 layout: default
-title: Rhododendron longiperulatum Hayata Hayata
+title: Rhododendron longiperulatum Hayata
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron triumphans Yersin & A.Chev.
+scientificname: Rhododendron triumphans
 scientificnameauthorship: Yersin & A.Chev.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333509-1
 verified: null
 layout: default
-title: Rhododendron triumphans Yersin & A.Chev. Yersin & A.Chev.
+title: Rhododendron triumphans Yersin & A.Chev.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

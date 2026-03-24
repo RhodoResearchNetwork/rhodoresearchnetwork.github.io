@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron solitarium Sleumer
+scientificname: Rhododendron solitarium
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333373-1
 verified: null
 layout: default
-title: Rhododendron solitarium Sleumer Sleumer
+title: Rhododendron solitarium Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

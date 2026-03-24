@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron iiroratum Franch.
+scientificname: Rhododendron iiroratum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron iiroratum Franch.
+title: Rhododendron iiroratum
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron alticola Sleumer
+scientificname: Rhododendron alticola
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:331911-1
 verified: null
 layout: default
-title: Rhododendron alticola Sleumer Sleumer
+title: Rhododendron alticola Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

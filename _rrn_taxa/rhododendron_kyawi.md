@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron kyawi Lace & W.W.Sm.
+scientificname: Rhododendron kyawi
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron kyawi Lace & W.W.Sm.
+title: Rhododendron kyawi
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

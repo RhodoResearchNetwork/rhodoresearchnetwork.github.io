@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron albrechtii Maxim.
+scientificname: Rhododendron albrechtii
 scientificnameauthorship: Maxim.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:331902-1
 verified: null
 layout: default
-title: Rhododendron albrechtii Maxim. Maxim.
+title: Rhododendron albrechtii Maxim.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

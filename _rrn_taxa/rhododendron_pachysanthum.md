@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron pachysanthum Hayata
+scientificname: Rhododendron pachysanthum
 scientificnameauthorship: Hayata
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333029-1
 verified: null
 layout: default
-title: Rhododendron pachysanthum Hayata Hayata
+title: Rhododendron pachysanthum Hayata
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

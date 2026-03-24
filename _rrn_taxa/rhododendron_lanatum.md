@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron lanatum Hooker f.
+scientificname: Rhododendron lanatum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron lanatum Hooker f.
+title: Rhododendron lanatum
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

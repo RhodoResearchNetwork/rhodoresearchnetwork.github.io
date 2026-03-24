@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron fortune Lindley
+scientificname: Rhododendron fortune
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron fortune Lindley
+title: Rhododendron fortune
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

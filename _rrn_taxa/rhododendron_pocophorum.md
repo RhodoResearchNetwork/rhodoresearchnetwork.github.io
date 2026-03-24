@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron pocophorum [Balfour f. ex] Tagg
+scientificname: Rhododendron pocophorum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron pocophorum [Balfour f. ex] Tagg
+title: Rhododendron pocophorum
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron macrophyllum [D.Don ex] G.Don
+scientificname: Rhododendron macrophyllum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron macrophyllum [D.Don ex] G.Don
+title: Rhododendron macrophyllum
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

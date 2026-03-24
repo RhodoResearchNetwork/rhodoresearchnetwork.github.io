@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron primuliflorum Bureau & Franch.
+scientificname: Rhododendron primuliflorum
 scientificnameauthorship: Bureau & Franch.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333134-1
 verified: null
 layout: default
-title: Rhododendron primuliflorum Bureau & Franch. Bureau & Franch.
+title: Rhododendron primuliflorum Bureau & Franch.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

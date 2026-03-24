@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron maxwellii Gibbs
+scientificname: Rhododendron maxwellii
 scientificnameauthorship: Gibbs
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332862-1
 verified: null
 layout: default
-title: Rhododendron maxwellii Gibbs Gibbs
+title: Rhododendron maxwellii Gibbs
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

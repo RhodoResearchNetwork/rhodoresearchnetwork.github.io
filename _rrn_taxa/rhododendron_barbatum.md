@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron barbatum [Wall. ex] G.Don
+scientificname: Rhododendron barbatum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron barbatum [Wall. ex] G.Don
+title: Rhododendron barbatum
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

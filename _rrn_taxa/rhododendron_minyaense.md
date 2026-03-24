@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron minyaense Philipson & Philipson
+scientificname: Rhododendron minyaense
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron minyaense Philipson & Philipson
+title: Rhododendron minyaense
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

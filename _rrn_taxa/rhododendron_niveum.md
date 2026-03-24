@@ -1,6 +1,5 @@
 ---
-scientificname: 'Rhododendron niveum Hooker f. in Rhododendrons Sikkim Himalaya t.4
-  (1851). Type: Sikkim'
+scientificname: Rhododendron niveum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -23,8 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: 'Rhododendron niveum Hooker f. in Rhododendrons Sikkim Himalaya t.4 (1851).
-  Type: Sikkim'
+title: Rhododendron niveum
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron eurysiphon Tagg & Forrest
+scientificname: Rhododendron eurysiphon
 scientificnameauthorship: Tagg & Forrest
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332396-1
 verified: null
 layout: default
-title: Rhododendron eurysiphon Tagg & Forrest Tagg & Forrest
+title: Rhododendron eurysiphon Tagg & Forrest
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

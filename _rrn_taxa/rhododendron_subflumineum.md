@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron subflumineum P.C.Tam
+scientificname: Rhododendron subflumineum
 scientificnameauthorship: P.C.Tam
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:900798-1
 verified: null
 layout: default
-title: Rhododendron subflumineum P.C.Tam P.C.Tam
+title: Rhododendron subflumineum P.C.Tam
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

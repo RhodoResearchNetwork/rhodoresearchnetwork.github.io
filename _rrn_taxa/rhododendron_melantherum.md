@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron melantherum Schltr.
+scientificname: Rhododendron melantherum
 scientificnameauthorship: Schltr.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332870-1
 verified: null
 layout: default
-title: Rhododendron melantherum Schltr. Schltr.
+title: Rhododendron melantherum Schltr.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

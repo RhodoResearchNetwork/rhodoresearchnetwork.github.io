@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron boninense Nakai
+scientificname: Rhododendron boninense
 scientificnameauthorship: Nakai
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:77221846-1
 verified: null
 layout: default
-title: Rhododendron boninense Nakai Nakai
+title: Rhododendron boninense Nakai
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

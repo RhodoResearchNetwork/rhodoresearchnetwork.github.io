@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron lowndesii Davidian
+scientificname: Rhododendron lowndesii
 scientificnameauthorship: Davidian
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332802-1
 verified: null
 layout: default
-title: Rhododendron lowndesii Davidian Davidian
+title: Rhododendron lowndesii Davidian
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

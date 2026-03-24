@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron beesianum Diels
+scientificname: Rhododendron beesianum
 scientificnameauthorship: Diels
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332013-1
 verified: null
 layout: default
-title: Rhododendron beesianum Diels Diels
+title: Rhododendron beesianum Diels
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron hellwigii Warb.
+scientificname: Rhododendron hellwigii
 scientificnameauthorship: Warb.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332557-1
 verified: null
 layout: default
-title: Rhododendron hellwigii Warb. Warb.
+title: Rhododendron hellwigii Warb.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

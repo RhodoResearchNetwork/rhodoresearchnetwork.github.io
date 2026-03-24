@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron culminicola F.Muell.
+scientificname: Rhododendron culminicola
 scientificnameauthorship: F.Muell.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332272-1
 verified: null
 layout: default
-title: Rhododendron culminicola F.Muell. F.Muell.
+title: Rhododendron culminicola F.Muell.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

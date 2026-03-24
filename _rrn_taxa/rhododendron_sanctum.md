@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron sanctum Nakai
+scientificname: Rhododendron sanctum
 scientificnameauthorship: Nakai
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333286-1
 verified: null
 layout: default
-title: Rhododendron sanctum Nakai Nakai
+title: Rhododendron sanctum Nakai
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

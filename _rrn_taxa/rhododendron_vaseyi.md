@@ -1,5 +1,5 @@
 ---
-scientificname: 'Rhododendron vaseyi A. Gray, Proc. Amer. Acad. 15: 48 (1879).'
+scientificname: Rhododendron vaseyi
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -24,7 +24,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: 'Rhododendron vaseyi A. Gray, Proc. Amer. Acad. 15: 48 (1879).'
+title: Rhododendron vaseyi
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

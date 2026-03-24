@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron parvulum Sleumer
+scientificname: Rhododendron parvulum
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333052-1
 verified: null
 layout: default
-title: Rhododendron parvulum Sleumer Sleumer
+title: Rhododendron parvulum Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

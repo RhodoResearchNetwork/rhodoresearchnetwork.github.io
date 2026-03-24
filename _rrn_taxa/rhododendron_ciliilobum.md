@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron ciliilobum Sleumer
+scientificname: Rhododendron ciliilobum
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332191-1
 verified: null
 layout: default
-title: Rhododendron ciliilobum Sleumer Sleumer
+title: Rhododendron ciliilobum Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

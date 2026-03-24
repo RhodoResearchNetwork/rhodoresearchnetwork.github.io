@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron truncicola Sleumer
+scientificname: Rhododendron truncicola
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333511-1
 verified: null
 layout: default
-title: Rhododendron truncicola Sleumer Sleumer
+title: Rhododendron truncicola Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

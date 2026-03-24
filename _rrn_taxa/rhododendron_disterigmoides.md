@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron disterigmoides Sleumer
+scientificname: Rhododendron disterigmoides
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332342-1
 verified: null
 layout: default
-title: Rhododendron disterigmoides Sleumer Sleumer
+title: Rhododendron disterigmoides Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

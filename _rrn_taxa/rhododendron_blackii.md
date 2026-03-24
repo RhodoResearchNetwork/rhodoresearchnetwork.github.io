@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron blackii Sleumer
+scientificname: Rhododendron blackii
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332023-1
 verified: null
 layout: default
-title: Rhododendron blackii Sleumer Sleumer
+title: Rhododendron blackii Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

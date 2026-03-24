@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron ungernii Trautvetter
+scientificname: Rhododendron ungernii
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron ungernii Trautvetter
+title: Rhododendron ungernii
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

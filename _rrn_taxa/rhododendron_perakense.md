@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron perakense King & Gamble
+scientificname: Rhododendron perakense
 scientificnameauthorship: King & Gamble
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333063-1
 verified: null
 layout: default
-title: Rhododendron perakense King & Gamble King & Gamble
+title: Rhododendron perakense King & Gamble
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

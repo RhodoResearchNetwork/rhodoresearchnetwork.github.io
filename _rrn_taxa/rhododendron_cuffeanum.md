@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron cuffeanum [Craib ex] Hutch.
+scientificname: Rhododendron cuffeanum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron cuffeanum [Craib ex] Hutch.
+title: Rhododendron cuffeanum
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron schistocalyx Balf.f. & Forrest
+scientificname: Rhododendron schistocalyx
 scientificnameauthorship: Balf.f. & Forrest
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333303-1
 verified: null
 layout: default
-title: Rhododendron schistocalyx Balf.f. & Forrest Balf.f. & Forrest
+title: Rhododendron schistocalyx Balf.f. & Forrest
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

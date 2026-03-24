@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron fleuryi Dop
+scientificname: Rhododendron fleuryi
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron fleuryi Dop
+title: Rhododendron fleuryi
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron pruniflorum Hutch.
+scientificname: Rhododendron pruniflorum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron pruniflorum Hutch.
+title: Rhododendron pruniflorum
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

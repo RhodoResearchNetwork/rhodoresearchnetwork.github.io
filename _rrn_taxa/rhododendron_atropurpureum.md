@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron atropurpureum Sleumer
+scientificname: Rhododendron atropurpureum
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:331977-1
 verified: null
 layout: default
-title: Rhododendron atropurpureum Sleumer Sleumer
+title: Rhododendron atropurpureum Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

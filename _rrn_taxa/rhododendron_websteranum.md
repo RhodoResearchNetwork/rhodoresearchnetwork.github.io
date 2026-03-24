@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron websterianum Rehder & E.H.Wilson
+scientificname: Rhododendron websterianum
 scientificnameauthorship: Rehder & E.H.Wilson
 genus: Rhododendron
 subfamily: ''
@@ -2070,7 +2070,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333594-1
 verified: null
 layout: default
-title: Rhododendron websterianum Rehder & E.H.Wilson Rehder & E.H.Wilson
+title: Rhododendron websterianum Rehder & E.H.Wilson
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

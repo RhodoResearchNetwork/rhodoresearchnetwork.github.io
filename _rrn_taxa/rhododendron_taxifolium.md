@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron taxifolium Merr.
+scientificname: Rhododendron taxifolium
 scientificnameauthorship: Merr.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333461-1
 verified: null
 layout: default
-title: Rhododendron taxifolium Merr. Merr.
+title: Rhododendron taxifolium Merr.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron psilanthum Sleumer
+scientificname: Rhododendron psilanthum
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333165-1
 verified: null
 layout: default
-title: Rhododendron psilanthum Sleumer Sleumer
+title: Rhododendron psilanthum Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

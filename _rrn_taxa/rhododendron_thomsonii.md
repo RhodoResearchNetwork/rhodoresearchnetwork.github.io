@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron thomsonii Hooker f.
+scientificname: Rhododendron thomsonii
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron thomsonii Hooker f.
+title: Rhododendron thomsonii
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron cumberlandense E. L. Braun
+scientificname: Rhododendron cumberlandense
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron cumberlandense E. L. Braun
+title: Rhododendron cumberlandense
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

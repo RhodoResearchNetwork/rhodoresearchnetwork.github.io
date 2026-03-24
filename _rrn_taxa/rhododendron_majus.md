@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron majus (J.J.Sm.) Sleumer
+scientificname: Rhododendron majus
 scientificnameauthorship: (J.J.Sm.) Sleumer
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron majus (J.J.Sm.) Sleumer (J.J.Sm.) Sleumer
+title: Rhododendron majus (J.J.Sm.) Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

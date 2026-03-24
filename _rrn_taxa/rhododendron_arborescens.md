@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron arborescens (Pursh) Torr.
+scientificname: Rhododendron arborescens
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron arborescens (Pursh) Torr.
+title: Rhododendron arborescens
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

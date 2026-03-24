@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron arboreum Smith
+scientificname: Rhododendron arboreum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron arboreum Smith
+title: Rhododendron arboreum
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron sikangense Fang
+scientificname: Rhododendron sikangense
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron sikangense Fang
+title: Rhododendron sikangense
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

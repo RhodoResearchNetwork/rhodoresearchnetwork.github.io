@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron gaultheriifolium J.J.Sm.
+scientificname: Rhododendron gaultheriifolium
 scientificnameauthorship: J.J.Sm.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332474-1
 verified: null
 layout: default
-title: Rhododendron gaultheriifolium J.J.Sm. J.J.Sm.
+title: Rhododendron gaultheriifolium J.J.Sm.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

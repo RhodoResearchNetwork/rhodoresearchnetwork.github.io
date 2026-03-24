@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron borneense (J.J.Sm.) Argent, A.Lamb & Phillipps
+scientificname: Rhododendron borneense
 scientificnameauthorship: (J.J.Sm.) Argent, A.Lamb & Phillipps
 genus: Rhododendron
 subfamily: ''
@@ -22,8 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:914534-1
 verified: null
 layout: default
-title: Rhododendron borneense (J.J.Sm.) Argent, A.Lamb & Phillipps (J.J.Sm.) Argent,
-  A.Lamb & Phillipps
+title: Rhododendron borneense (J.J.Sm.) Argent, A.Lamb & Phillipps
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

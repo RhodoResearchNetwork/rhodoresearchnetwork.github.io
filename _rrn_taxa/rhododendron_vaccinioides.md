@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron vaccinioides Hook.f.
+scientificname: Rhododendron vaccinioides
 scientificnameauthorship: Hook.f.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333535-1
 verified: null
 layout: default
-title: Rhododendron vaccinioides Hook.f. Hook.f.
+title: Rhododendron vaccinioides Hook.f.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

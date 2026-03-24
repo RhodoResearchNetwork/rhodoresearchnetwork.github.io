@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron lampongum Miq.
+scientificname: Rhododendron lampongum
 scientificnameauthorship: Miq.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332712-1
 verified: null
 layout: default
-title: Rhododendron lampongum Miq. Miq.
+title: Rhododendron lampongum Miq.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

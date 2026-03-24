@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron concinnum Hemsl.
+scientificname: Rhododendron concinnum
 scientificnameauthorship: Hemsl.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332230-1
 verified: null
 layout: default
-title: Rhododendron concinnum Hemsl. Hemsl.
+title: Rhododendron concinnum Hemsl.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

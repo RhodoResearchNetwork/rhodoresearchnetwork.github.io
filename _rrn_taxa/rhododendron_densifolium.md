@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron densifolium K.M.Feng
+scientificname: Rhododendron densifolium
 scientificnameauthorship: K.M.Feng
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:902907-1
 verified: null
 layout: default
-title: Rhododendron densifolium K.M.Feng K.M.Feng
+title: Rhododendron densifolium K.M.Feng
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron spathulatum Ridl.
+scientificname: Rhododendron spathulatum
 scientificnameauthorship: Ridl.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333380-1
 verified: null
 layout: default
-title: Rhododendron spathulatum Ridl. Ridl.
+title: Rhododendron spathulatum Ridl.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

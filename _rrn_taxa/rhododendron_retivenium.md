@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron retivenium Sleumer
+scientificname: Rhododendron retivenium
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333216-1
 verified: null
 layout: default
-title: Rhododendron retivenium Sleumer Sleumer
+title: Rhododendron retivenium Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

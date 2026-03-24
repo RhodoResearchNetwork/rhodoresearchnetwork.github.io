@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron oliganthum Sleumer
+scientificname: Rhododendron oliganthum
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333000-1
 verified: null
 layout: default
-title: Rhododendron oliganthum Sleumer Sleumer
+title: Rhododendron oliganthum Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

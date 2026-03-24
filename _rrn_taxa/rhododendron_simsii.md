@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron simsii Planchon
+scientificname: Rhododendron simsii
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -24,7 +24,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron simsii Planchon
+title: Rhododendron simsii
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

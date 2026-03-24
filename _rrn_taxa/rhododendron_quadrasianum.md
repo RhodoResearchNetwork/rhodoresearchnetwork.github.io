@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron quadrasianum S.Vidal
+scientificname: Rhododendron quadrasianum
 scientificnameauthorship: S.Vidal
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333192-1
 verified: null
 layout: default
-title: Rhododendron quadrasianum S.Vidal S.Vidal
+title: Rhododendron quadrasianum S.Vidal
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

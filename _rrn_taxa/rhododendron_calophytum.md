@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron calophytum Franch.
+scientificname: Rhododendron calophytum
 scientificnameauthorship: Franch.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332089-1
 verified: null
 layout: default
-title: Rhododendron calophytum Franch. Franch.
+title: Rhododendron calophytum Franch.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

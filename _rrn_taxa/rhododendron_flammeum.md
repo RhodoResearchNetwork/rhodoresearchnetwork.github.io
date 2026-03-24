@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron flammeum (Michx.) Sargent
+scientificname: Rhododendron flammeum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron flammeum (Michx.) Sargent
+title: Rhododendron flammeum
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

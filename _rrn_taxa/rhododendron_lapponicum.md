@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron lapponicum (L.) Wahlenberg
+scientificname: Rhododendron lapponicum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron lapponicum (L.) Wahlenberg
+title: Rhododendron lapponicum
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

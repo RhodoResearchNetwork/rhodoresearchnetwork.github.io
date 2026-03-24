@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron kwangtungense Merr. & Chun
+scientificname: Rhododendron kwangtungense
 scientificnameauthorship: Merr. & Chun
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332702-1
 verified: null
 layout: default
-title: Rhododendron kwangtungense Merr. & Chun Merr. & Chun
+title: Rhododendron kwangtungense Merr. & Chun
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

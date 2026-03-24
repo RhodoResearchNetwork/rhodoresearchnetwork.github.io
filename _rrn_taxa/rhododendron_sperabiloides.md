@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron sperabiloides Tagg & Forrest
+scientificname: Rhododendron sperabiloides
 scientificnameauthorship: Tagg & Forrest
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333385-1
 verified: null
 layout: default
-title: Rhododendron sperabiloides Tagg & Forrest Tagg & Forrest
+title: Rhododendron sperabiloides Tagg & Forrest
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

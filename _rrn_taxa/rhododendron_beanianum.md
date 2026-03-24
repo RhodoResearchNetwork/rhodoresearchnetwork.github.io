@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron beanianum Cowan
+scientificname: Rhododendron beanianum
 scientificnameauthorship: Cowan
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332011-1
 verified: null
 layout: default
-title: Rhododendron beanianum Cowan Cowan
+title: Rhododendron beanianum Cowan
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

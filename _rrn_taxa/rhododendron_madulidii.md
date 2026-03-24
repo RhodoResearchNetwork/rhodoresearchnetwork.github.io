@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron madulidii Argent
+scientificname: Rhododendron madulidii
 scientificnameauthorship: Argent
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:1004737-1
 verified: null
 layout: default
-title: Rhododendron madulidii Argent Argent
+title: Rhododendron madulidii Argent
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

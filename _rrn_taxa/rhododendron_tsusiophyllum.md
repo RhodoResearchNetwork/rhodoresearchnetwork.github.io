@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron tsusiophyllum Sugimoto
+scientificname: Rhododendron tsusiophyllum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron tsusiophyllum Sugimoto
+title: Rhododendron tsusiophyllum
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron stenophyllum Hook.f. ex Stapf
+scientificname: Rhododendron stenophyllum
 scientificnameauthorship: Hook.f. ex Stapf
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333405-1
 verified: null
 layout: default
-title: Rhododendron stenophyllum Hook.f. ex Stapf Hook.f. ex Stapf
+title: Rhododendron stenophyllum Hook.f. ex Stapf
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

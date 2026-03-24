@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron elegantulum Tagg & Forrest
+scientificname: Rhododendron elegantulum
 scientificnameauthorship: Tagg & Forrest
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332364-1
 verified: null
 layout: default
-title: Rhododendron elegantulum Tagg & Forrest Tagg & Forrest
+title: Rhododendron elegantulum Tagg & Forrest
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

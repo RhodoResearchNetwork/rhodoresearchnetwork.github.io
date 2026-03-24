@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron correoides J.J.Sm.
+scientificname: Rhododendron correoides
 scientificnameauthorship: J.J.Sm.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332244-1
 verified: null
 layout: default
-title: Rhododendron correoides J.J.Sm. J.J.Sm.
+title: Rhododendron correoides J.J.Sm.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

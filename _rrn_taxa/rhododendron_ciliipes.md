@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron ciliipes Hutch.
+scientificname: Rhododendron ciliipes
 scientificnameauthorship: Hutch.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332192-1
 verified: null
 layout: default
-title: Rhododendron ciliipes Hutch. Hutch.
+title: Rhododendron ciliipes Hutch.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

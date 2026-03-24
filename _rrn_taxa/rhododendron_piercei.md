@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron piercei Davidian
+scientificname: Rhododendron piercei
 scientificnameauthorship: Davidian
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333085-1
 verified: null
 layout: default
-title: Rhododendron piercei Davidian Davidian
+title: Rhododendron piercei Davidian
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

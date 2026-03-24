@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron chihsinianum Chun & Fang
+scientificname: Rhododendron chihsinianum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron chihsinianum Chun & Fang
+title: Rhododendron chihsinianum
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

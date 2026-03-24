@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron hanceanum Hemsl.
+scientificname: Rhododendron hanceanum
 scientificnameauthorship: Hemsl.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332541-1
 verified: null
 layout: default
-title: Rhododendron hanceanum Hemsl. Hemsl.
+title: Rhododendron hanceanum Hemsl.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

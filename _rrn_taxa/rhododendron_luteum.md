@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron luteum Sweet
+scientificname: Rhododendron luteum
 scientificnameauthorship: Sweet
 genus: Rhododendron
 subfamily: ''
@@ -262166,7 +262166,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332817-1
 verified: null
 layout: default
-title: Rhododendron luteum Sweet Sweet
+title: Rhododendron luteum Sweet
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

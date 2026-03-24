@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron parishii C. B. Clarke in Hooker f.
+scientificname: Rhododendron parishii
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron parishii C. B. Clarke in Hooker f.
+title: Rhododendron parishii
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

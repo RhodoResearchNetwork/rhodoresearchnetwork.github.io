@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron searleanum Sleumer
+scientificname: Rhododendron searleanum
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333318-1
 verified: null
 layout: default
-title: Rhododendron searleanum Sleumer Sleumer
+title: Rhododendron searleanum Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

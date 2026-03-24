@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron purdomii Rehder & E.H.Wilson in Sargent (ed.)
+scientificname: Rhododendron purdomii
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron purdomii Rehder & E.H.Wilson in Sargent (ed.)
+title: Rhododendron purdomii
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

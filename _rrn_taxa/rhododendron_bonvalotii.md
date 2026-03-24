@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron bonvalotii Bureau & Franch.
+scientificname: Rhododendron bonvalotii
 scientificnameauthorship: Bureau & Franch.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332033-1
 verified: null
 layout: default
-title: Rhododendron bonvalotii Bureau & Franch. Bureau & Franch.
+title: Rhododendron bonvalotii Bureau & Franch.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

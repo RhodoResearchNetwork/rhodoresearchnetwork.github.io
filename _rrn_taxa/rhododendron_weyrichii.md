@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron weyrichii Maxim.
+scientificname: Rhododendron weyrichii
 scientificnameauthorship: Maxim.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333598-1
 verified: null
 layout: default
-title: Rhododendron weyrichii Maxim. Maxim.
+title: Rhododendron weyrichii Maxim.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

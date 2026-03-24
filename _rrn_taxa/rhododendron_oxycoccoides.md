@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron oxycoccoides Sleumer
+scientificname: Rhododendron oxycoccoides
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333025-1
 verified: null
 layout: default
-title: Rhododendron oxycoccoides Sleumer Sleumer
+title: Rhododendron oxycoccoides Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

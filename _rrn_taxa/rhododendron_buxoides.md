@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron buxoides Sleumer
+scientificname: Rhododendron buxoides
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332072-1
 verified: null
 layout: default
-title: Rhododendron buxoides Sleumer Sleumer
+title: Rhododendron buxoides Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

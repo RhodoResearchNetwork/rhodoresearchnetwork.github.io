@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron argyrophyllum Franch.
+scientificname: Rhododendron argyrophyllum
 scientificnameauthorship: Franch.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:331953-1
 verified: null
 layout: default
-title: Rhododendron argyrophyllum Franch. Franch.
+title: Rhododendron argyrophyllum Franch.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

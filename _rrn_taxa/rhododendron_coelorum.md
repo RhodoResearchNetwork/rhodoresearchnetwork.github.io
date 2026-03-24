@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron coelorum Wernham
+scientificname: Rhododendron coelorum
 scientificnameauthorship: Wernham
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332215-1
 verified: null
 layout: default
-title: Rhododendron coelorum Wernham Wernham
+title: Rhododendron coelorum Wernham
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

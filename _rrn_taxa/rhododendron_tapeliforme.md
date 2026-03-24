@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron tapeliforme Balf.f. & Kingdon-Ward
+scientificname: Rhododendron tapeliforme
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron tapeliforme Balf.f. & Kingdon-Ward
+title: Rhododendron tapeliforme
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

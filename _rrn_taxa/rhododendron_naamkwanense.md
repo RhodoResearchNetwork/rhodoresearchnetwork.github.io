@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron naamkwanense Merr.
+scientificname: Rhododendron naamkwanense
 scientificnameauthorship: Merr.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332932-1
 verified: null
 layout: default
-title: Rhododendron naamkwanense Merr. Merr.
+title: Rhododendron naamkwanense Merr.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

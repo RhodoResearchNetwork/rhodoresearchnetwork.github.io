@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron habbemae Koord.
+scientificname: Rhododendron habbemae
 scientificnameauthorship: Koord.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332529-1
 verified: null
 layout: default
-title: Rhododendron habbemae Koord. Koord.
+title: Rhododendron habbemae Koord.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

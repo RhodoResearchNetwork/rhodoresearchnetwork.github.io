@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron huidongense T. L. Ming
+scientificname: Rhododendron huidongense
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron huidongense T. L. Ming
+title: Rhododendron huidongense
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron lineare Merr.
+scientificname: Rhododendron lineare
 scientificnameauthorship: Merr.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332774-1
 verified: null
 layout: default
-title: Rhododendron lineare Merr. Merr.
+title: Rhododendron lineare Merr.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

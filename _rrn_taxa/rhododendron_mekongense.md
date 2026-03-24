@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron mekongense Franch.
+scientificname: Rhododendron mekongense
 scientificnameauthorship: Franch.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332869-1
 verified: null
 layout: default
-title: Rhododendron mekongense Franch. Franch.
+title: Rhododendron mekongense Franch.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

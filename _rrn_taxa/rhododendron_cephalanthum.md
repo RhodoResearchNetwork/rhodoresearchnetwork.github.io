@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron cephalanthum Franch.
+scientificname: Rhododendron cephalanthum
 scientificnameauthorship: Franch.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332132-1
 verified: null
 layout: default
-title: Rhododendron cephalanthum Franch. Franch.
+title: Rhododendron cephalanthum Franch.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

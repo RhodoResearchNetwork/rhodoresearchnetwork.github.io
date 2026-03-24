@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron faucium D.F.Chamb.
+scientificname: Rhododendron faucium
 scientificnameauthorship: D.F.Chamb.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:323664-2
 verified: null
 layout: default
-title: Rhododendron faucium D.F.Chamb. D.F.Chamb.
+title: Rhododendron faucium D.F.Chamb.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

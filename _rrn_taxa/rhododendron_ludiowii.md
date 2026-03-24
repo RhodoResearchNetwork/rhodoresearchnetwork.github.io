@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron ludiowii Cowan
+scientificname: Rhododendron ludiowii
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron ludiowii Cowan
+title: Rhododendron ludiowii
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

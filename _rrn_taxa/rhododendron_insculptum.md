@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron insculptum Hutch. & Kingdon-Ward
+scientificname: Rhododendron insculptum
 scientificnameauthorship: Hutch. & Kingdon-Ward
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332630-1
 verified: null
 layout: default
-title: Rhododendron insculptum Hutch. & Kingdon-Ward Hutch. & Kingdon-Ward
+title: Rhododendron insculptum Hutch. & Kingdon-Ward
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

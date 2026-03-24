@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron jasminiflorum Hook.
+scientificname: Rhododendron jasminiflorum
 scientificnameauthorship: Hook.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332654-1
 verified: null
 layout: default
-title: Rhododendron jasminiflorum Hook. Hook.
+title: Rhododendron jasminiflorum Hook.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron loranthiflorum Sleumer
+scientificname: Rhododendron loranthiflorum
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332798-1
 verified: null
 layout: default
-title: Rhododendron loranthiflorum Sleumer Sleumer
+title: Rhododendron loranthiflorum Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

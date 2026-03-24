@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron datiandingense Z.J.Feng
+scientificname: Rhododendron datiandingense
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron datiandingense Z.J.Feng
+title: Rhododendron datiandingense
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

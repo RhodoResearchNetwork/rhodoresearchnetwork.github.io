@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron longiflorum Lindl.
+scientificname: Rhododendron longiflorum
 scientificnameauthorship: Lindl.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332790-1
 verified: null
 layout: default
-title: Rhododendron longiflorum Lindl. Lindl.
+title: Rhododendron longiflorum Lindl.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

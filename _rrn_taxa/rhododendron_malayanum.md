@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron malayanum Jack
+scientificname: Rhododendron malayanum
 scientificnameauthorship: Jack
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332845-1
 verified: null
 layout: default
-title: Rhododendron malayanum Jack Jack
+title: Rhododendron malayanum Jack
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron lambianum Argent
+scientificname: Rhododendron lambianum
 scientificnameauthorship: Argent
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:70029625-1
 verified: null
 layout: default
-title: Rhododendron lambianum Argent Argent
+title: Rhododendron lambianum Argent
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

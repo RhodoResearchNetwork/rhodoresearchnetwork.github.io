@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron flavantherum Hutch. & Kingdon-Ward
+scientificname: Rhododendron flavantherum
 scientificnameauthorship: Hutch. & Kingdon-Ward
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332428-1
 verified: null
 layout: default
-title: Rhododendron flavantherum Hutch. & Kingdon-Ward Hutch. & Kingdon-Ward
+title: Rhododendron flavantherum Hutch. & Kingdon-Ward
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

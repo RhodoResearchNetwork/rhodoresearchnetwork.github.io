@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron pauciflorum King & Gamble
+scientificname: Rhododendron pauciflorum
 scientificnameauthorship: King & Gamble
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333054-1
 verified: null
 layout: default
-title: Rhododendron pauciflorum King & Gamble King & Gamble
+title: Rhododendron pauciflorum King & Gamble
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

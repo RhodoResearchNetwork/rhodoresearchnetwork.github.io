@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron meijeri Argent, A.Lamb & Phillipps
+scientificname: Rhododendron meijeri
 scientificnameauthorship: Argent, A.Lamb & Phillipps
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:905110-1
 verified: null
 layout: default
-title: Rhododendron meijeri Argent, A.Lamb & Phillipps Argent, A.Lamb & Phillipps
+title: Rhododendron meijeri Argent, A.Lamb & Phillipps
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

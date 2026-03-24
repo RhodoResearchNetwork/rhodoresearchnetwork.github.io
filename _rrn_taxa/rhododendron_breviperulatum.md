@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron breviperulatum Hayata
+scientificname: Rhododendron breviperulatum
 scientificnameauthorship: Hayata
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332048-1
 verified: null
 layout: default
-title: Rhododendron breviperulatum Hayata Hayata
+title: Rhododendron breviperulatum Hayata
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

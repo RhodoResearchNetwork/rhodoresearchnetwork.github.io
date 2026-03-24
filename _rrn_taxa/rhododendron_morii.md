@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron morii Hayata
+scientificname: Rhododendron morii
 scientificnameauthorship: Hayata
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332911-1
 verified: null
 layout: default
-title: Rhododendron morii Hayata Hayata
+title: Rhododendron morii Hayata
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

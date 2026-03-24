@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron scabridibracteum Sleumer
+scientificname: Rhododendron scabridibracteum
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333298-1
 verified: null
 layout: default
-title: Rhododendron scabridibracteum Sleumer Sleumer
+title: Rhododendron scabridibracteum Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

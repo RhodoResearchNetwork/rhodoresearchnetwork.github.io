@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron indieum (L.) Sweet
+scientificname: Rhododendron indieum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron indieum (L.) Sweet
+title: Rhododendron indieum
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

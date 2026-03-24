@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron hirsutum L.
+scientificname: Rhododendron hirsutum
 scientificnameauthorship: L.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:326360-2
 verified: null
 layout: default
-title: Rhododendron hirsutum L. L.
+title: Rhododendron hirsutum L.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

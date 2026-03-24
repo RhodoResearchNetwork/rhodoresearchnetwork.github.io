@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron scabrum G.Don
+scientificname: Rhododendron scabrum
 scientificnameauthorship: G.Don
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333300-1
 verified: null
 layout: default
-title: Rhododendron scabrum G.Don G.Don
+title: Rhododendron scabrum G.Don
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

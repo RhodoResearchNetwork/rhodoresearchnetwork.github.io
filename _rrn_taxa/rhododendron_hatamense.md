@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron hatamense Becc.
+scientificname: Rhododendron hatamense
 scientificnameauthorship: Becc.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332551-1
 verified: null
 layout: default
-title: Rhododendron hatamense Becc. Becc.
+title: Rhododendron hatamense Becc.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron nudipes Nakai
+scientificname: Rhododendron nudipes
 scientificnameauthorship: Nakai
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332978-1
 verified: null
 layout: default
-title: Rhododendron nudipes Nakai Nakai
+title: Rhododendron nudipes Nakai
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

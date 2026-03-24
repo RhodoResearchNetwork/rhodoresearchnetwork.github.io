@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron excelsum Chevalier
+scientificname: Rhododendron excelsum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron excelsum Chevalier
+title: Rhododendron excelsum
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

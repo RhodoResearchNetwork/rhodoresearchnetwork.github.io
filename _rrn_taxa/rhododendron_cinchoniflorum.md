@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron cinchoniflorum Sleumer
+scientificname: Rhododendron cinchoniflorum
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332195-1
 verified: null
 layout: default
-title: Rhododendron cinchoniflorum Sleumer Sleumer
+title: Rhododendron cinchoniflorum Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron rubiginosum Franch.
+scientificname: Rhododendron rubiginosum
 scientificnameauthorship: Franch.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333256-1
 verified: null
 layout: default
-title: Rhododendron rubiginosum Franch. Franch.
+title: Rhododendron rubiginosum Franch.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

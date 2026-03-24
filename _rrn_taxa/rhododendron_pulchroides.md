@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron pulchroides Chung & Fang
+scientificname: Rhododendron pulchroides
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron pulchroides Chung & Fang
+title: Rhododendron pulchroides
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron micromalayanum Sleumer
+scientificname: Rhododendron micromalayanum
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332882-1
 verified: null
 layout: default
-title: Rhododendron micromalayanum Sleumer Sleumer
+title: Rhododendron micromalayanum Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

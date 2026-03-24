@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron intricatum Franch.
+scientificname: Rhododendron intricatum
 scientificnameauthorship: Franch.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332638-1
 verified: null
 layout: default
-title: Rhododendron intricatum Franch. Franch.
+title: Rhododendron intricatum Franch.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

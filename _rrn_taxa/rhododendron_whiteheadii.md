@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron whiteheadii Rendle
+scientificname: Rhododendron whiteheadii
 scientificnameauthorship: Rendle
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333599-1
 verified: null
 layout: default
-title: Rhododendron whiteheadii Rendle Rendle
+title: Rhododendron whiteheadii Rendle
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

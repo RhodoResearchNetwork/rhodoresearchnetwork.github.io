@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron hameliiflorum Wernham
+scientificname: Rhododendron hameliiflorum
 scientificnameauthorship: Wernham
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332539-1
 verified: null
 layout: default
-title: Rhododendron hameliiflorum Wernham Wernham
+title: Rhododendron hameliiflorum Wernham
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

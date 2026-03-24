@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron pemakoense Kingdon-Ward
+scientificname: Rhododendron pemakoense
 scientificnameauthorship: Kingdon-Ward
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333057-1
 verified: null
 layout: default
-title: Rhododendron pemakoense Kingdon-Ward Kingdon-Ward
+title: Rhododendron pemakoense Kingdon-Ward
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

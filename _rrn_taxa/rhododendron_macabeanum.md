@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron macabeanum [Watt ex] Balfour f.
+scientificname: Rhododendron macabeanum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -23,7 +23,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron macabeanum [Watt ex] Balfour f.
+title: Rhododendron macabeanum
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

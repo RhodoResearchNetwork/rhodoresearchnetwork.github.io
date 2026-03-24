@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron mogeanum Argent
+scientificname: Rhododendron mogeanum
 scientificnameauthorship: Argent
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:70029626-1
 verified: null
 layout: default
-title: Rhododendron mogeanum Argent Argent
+title: Rhododendron mogeanum Argent
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

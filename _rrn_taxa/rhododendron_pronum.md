@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron pronum Tagg & Forrest
+scientificname: Rhododendron pronum
 scientificnameauthorship: Tagg & Forrest
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333143-1
 verified: null
 layout: default
-title: Rhododendron pronum Tagg & Forrest Tagg & Forrest
+title: Rhododendron pronum Tagg & Forrest
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

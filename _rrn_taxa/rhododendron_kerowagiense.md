@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron kerowagiense Argent
+scientificname: Rhododendron kerowagiense
 scientificnameauthorship: Argent
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:70029624-1
 verified: null
 layout: default
-title: Rhododendron kerowagiense Argent Argent
+title: Rhododendron kerowagiense Argent
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

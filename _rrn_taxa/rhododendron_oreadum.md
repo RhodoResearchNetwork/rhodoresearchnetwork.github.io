@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron oreadum Wernham
+scientificname: Rhododendron oreadum
 scientificnameauthorship: Wernham
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333008-1
 verified: null
 layout: default
-title: Rhododendron oreadum Wernham Wernham
+title: Rhododendron oreadum Wernham
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

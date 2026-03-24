@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron lukiangense Franch.
+scientificname: Rhododendron lukiangense
 scientificnameauthorship: Franch.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332808-1
 verified: null
 layout: default
-title: Rhododendron lukiangense Franch. Franch.
+title: Rhododendron lukiangense Franch.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

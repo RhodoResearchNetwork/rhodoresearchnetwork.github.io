@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron myrsinifolium [Ching ex] Fang & He
+scientificname: Rhododendron myrsinifolium
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron myrsinifolium [Ching ex] Fang & He
+title: Rhododendron myrsinifolium
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

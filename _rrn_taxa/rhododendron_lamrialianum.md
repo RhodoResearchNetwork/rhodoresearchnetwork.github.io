@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron lamrialianum Argent & T.J.Barkman
+scientificname: Rhododendron lamrialianum
 scientificnameauthorship: Argent & T.J.Barkman
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:1018107-1
 verified: null
 layout: default
-title: Rhododendron lamrialianum Argent & T.J.Barkman Argent & T.J.Barkman
+title: Rhododendron lamrialianum Argent & T.J.Barkman
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron russatum Balf.f. & Forrest
+scientificname: Rhododendron russatum
 scientificnameauthorship: Balf.f. & Forrest
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333273-1
 verified: null
 layout: default
-title: Rhododendron russatum Balf.f. & Forrest Balf.f. & Forrest
+title: Rhododendron russatum Balf.f. & Forrest
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

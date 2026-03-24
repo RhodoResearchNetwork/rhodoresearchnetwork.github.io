@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron parmulatum Cowan
+scientificname: Rhododendron parmulatum
 scientificnameauthorship: Cowan
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333045-1
 verified: null
 layout: default
-title: Rhododendron parmulatum Cowan Cowan
+title: Rhododendron parmulatum Cowan
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

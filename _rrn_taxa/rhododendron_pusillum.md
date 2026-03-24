@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron pusillum J.J.Sm.
+scientificname: Rhododendron pusillum
 scientificnameauthorship: J.J.Sm.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333188-1
 verified: null
 layout: default
-title: Rhododendron pusillum J.J.Sm. J.J.Sm.
+title: Rhododendron pusillum J.J.Sm.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

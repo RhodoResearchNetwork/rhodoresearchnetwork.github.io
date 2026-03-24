@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron pseudochrysanthum Hayata
+scientificname: Rhododendron pseudochrysanthum
 scientificnameauthorship: Hayata
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333157-1
 verified: null
 layout: default
-title: Rhododendron pseudochrysanthum Hayata Hayata
+title: Rhododendron pseudochrysanthum Hayata
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

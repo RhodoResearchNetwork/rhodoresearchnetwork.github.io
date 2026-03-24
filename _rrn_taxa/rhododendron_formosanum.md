@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron formosanum Hemsl.
+scientificname: Rhododendron formosanum
 scientificnameauthorship: Hemsl.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332442-1
 verified: null
 layout: default
-title: Rhododendron formosanum Hemsl. Hemsl.
+title: Rhododendron formosanum Hemsl.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

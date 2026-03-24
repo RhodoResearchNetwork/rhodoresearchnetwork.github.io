@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron brevinerve Chun & Fang
+scientificname: Rhododendron brevinerve
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron brevinerve Chun & Fang
+title: Rhododendron brevinerve
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

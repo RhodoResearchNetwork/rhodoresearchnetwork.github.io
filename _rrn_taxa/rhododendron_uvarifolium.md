@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron uvarifolium Diels
+scientificname: Rhododendron uvarifolium
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron uvarifolium Diels
+title: Rhododendron uvarifolium
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

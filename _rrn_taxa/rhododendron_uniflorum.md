@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron uniflorum Kingdon-Ward
+scientificname: Rhododendron uniflorum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron uniflorum Kingdon-Ward
+title: Rhododendron uniflorum
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

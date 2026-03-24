@@ -21,26 +21,26 @@ for filename in os.listdir(folder):
     front = yaml.safe_load(parts[1])
     body = parts[2]
 
-    changed = False
+    sci = front.get("scientificname", "").strip()
+    auth = front.get("scientificnameauthorship", "")
 
-    # Ensure layout
-    if "layout" not in front:
-        front["layout"] = "default"
-        changed = True
+    # Build title
+    if auth:
+        new_title = f"{sci} {auth}".strip()
+    else:
+        new_title = sci
 
-    # Ensure title
-    if "title" not in front:
-        sci = front.get("scientificname", "").strip()
-        auth = front.get("scientificnameauthorship", "").strip()
-        title = f"{sci} {auth}".strip()
-        front["title"] = title
-        changed = True
+    old_title = front.get("title", "")
 
-    if changed:
-        print(f"Fixing {filename}")
-        new_front = yaml.dump(front, sort_keys=False).strip()
-        new_text = f"---\n{new_front}\n---{body}"
-        with open(path, "w", encoding="utf-8") as f:
-            f.write(new_text)
+    if old_title != new_title:
+        print(f"Fixing {filename}: '{old_title}' → '{new_title}'")
+        front["title"] = new_title
     else:
         print(f"{filename} already OK")
+
+    # Write back
+    new_front = yaml.dump(front, sort_keys=False).strip()
+    new_text = f"---\n{new_front}\n---{body}"
+
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(new_text)

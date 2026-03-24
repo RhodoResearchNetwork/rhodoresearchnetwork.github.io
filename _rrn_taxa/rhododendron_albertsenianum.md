@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron albertsenianum Forrest
+scientificname: Rhododendron albertsenianum
 scientificnameauthorship: Forrest
 genus: Rhododendron
 subfamily: ''

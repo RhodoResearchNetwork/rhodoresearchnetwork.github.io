@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron prainianum Koord.
+scientificname: Rhododendron prainianum
 scientificnameauthorship: Koord.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333130-1
 verified: null
 layout: default
-title: Rhododendron prainianum Koord. Koord.
+title: Rhododendron prainianum Koord.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron sumatranum Merr.
+scientificname: Rhododendron sumatranum
 scientificnameauthorship: Merr.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333428-1
 verified: null
 layout: default
-title: Rhododendron sumatranum Merr. Merr.
+title: Rhododendron sumatranum Merr.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

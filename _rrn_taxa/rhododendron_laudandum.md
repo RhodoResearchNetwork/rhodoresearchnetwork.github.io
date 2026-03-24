@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron laudandum Cowan
+scientificname: Rhododendron laudandum
 scientificnameauthorship: Cowan
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332731-1
 verified: null
 layout: default
-title: Rhododendron laudandum Cowan Cowan
+title: Rhododendron laudandum Cowan
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

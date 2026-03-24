@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron baenitzianum Lauterb.
+scientificname: Rhododendron baenitzianum
 scientificnameauthorship: Lauterb.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:331993-1
 verified: null
 layout: default
-title: Rhododendron baenitzianum Lauterb. Lauterb.
+title: Rhododendron baenitzianum Lauterb.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

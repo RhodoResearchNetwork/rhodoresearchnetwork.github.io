@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron ambiguum Hemsl.
+scientificname: Rhododendron ambiguum
 scientificnameauthorship: Hemsl.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:331920-1
 verified: null
 layout: default
-title: Rhododendron ambiguum Hemsl. Hemsl.
+title: Rhododendron ambiguum Hemsl.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

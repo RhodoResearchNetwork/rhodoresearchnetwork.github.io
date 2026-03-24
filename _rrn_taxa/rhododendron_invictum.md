@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron invictum Balfour f. & Farrer
+scientificname: Rhododendron invictum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron invictum Balfour f. & Farrer
+title: Rhododendron invictum
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron archboldianum Sleumer
+scientificname: Rhododendron archboldianum
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:331947-1
 verified: null
 layout: default
-title: Rhododendron archboldianum Sleumer Sleumer
+title: Rhododendron archboldianum Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

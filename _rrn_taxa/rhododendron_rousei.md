@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron rousei Argent & Madulid
+scientificname: Rhododendron rousei
 scientificnameauthorship: Argent & Madulid
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:1001817-1
 verified: null
 layout: default
-title: Rhododendron rousei Argent & Madulid Argent & Madulid
+title: Rhododendron rousei Argent & Madulid
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

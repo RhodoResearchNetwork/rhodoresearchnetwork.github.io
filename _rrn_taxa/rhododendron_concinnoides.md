@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron concinnoides Hutch. & Kingdon-Ward
+scientificname: Rhododendron concinnoides
 scientificnameauthorship: Hutch. & Kingdon-Ward
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332229-1
 verified: null
 layout: default
-title: Rhododendron concinnoides Hutch. & Kingdon-Ward Hutch. & Kingdon-Ward
+title: Rhododendron concinnoides Hutch. & Kingdon-Ward
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

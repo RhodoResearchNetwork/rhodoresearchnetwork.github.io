@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron kochii Stein
+scientificname: Rhododendron kochii
 scientificnameauthorship: Stein
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332689-1
 verified: null
 layout: default
-title: Rhododendron kochii Stein Stein
+title: Rhododendron kochii Stein
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

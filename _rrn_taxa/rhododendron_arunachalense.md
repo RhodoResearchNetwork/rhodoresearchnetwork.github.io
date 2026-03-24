@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron arunachalense D.F.Chamb. & S.J.Rae
+scientificname: Rhododendron arunachalense
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron arunachalense D.F.Chamb. & S.J.Rae
+title: Rhododendron arunachalense
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron neriiflonim Franch.
+scientificname: Rhododendron neriiflonim
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron neriiflonim Franch.
+title: Rhododendron neriiflonim
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

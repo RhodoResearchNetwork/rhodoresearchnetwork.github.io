@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron diaprepes Balfour f. &W.W.Sm.
+scientificname: Rhododendron diaprepes
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron diaprepes Balfour f. &W.W.Sm.
+title: Rhododendron diaprepes
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

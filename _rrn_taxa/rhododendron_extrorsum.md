@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron extrorsum J.J.Sm.
+scientificname: Rhododendron extrorsum
 scientificnameauthorship: J.J.Sm.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332404-1
 verified: null
 layout: default
-title: Rhododendron extrorsum J.J.Sm. J.J.Sm.
+title: Rhododendron extrorsum J.J.Sm.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

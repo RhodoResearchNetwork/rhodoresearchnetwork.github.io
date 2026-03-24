@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron virgatum Hooker
+scientificname: Rhododendron virgatum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron virgatum Hooker
+title: Rhododendron virgatum
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

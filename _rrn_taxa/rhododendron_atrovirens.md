@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron atrovirens Franch.
+scientificname: Rhododendron atrovirens
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron atrovirens Franch.
+title: Rhododendron atrovirens
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

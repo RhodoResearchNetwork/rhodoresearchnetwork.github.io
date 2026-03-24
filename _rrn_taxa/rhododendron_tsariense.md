@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron tsariense Cowan
+scientificname: Rhododendron tsariense
 scientificnameauthorship: Cowan
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333515-1
 verified: null
 layout: default
-title: Rhododendron tsariense Cowan Cowan
+title: Rhododendron tsariense Cowan
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

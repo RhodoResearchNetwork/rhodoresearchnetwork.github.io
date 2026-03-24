@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron caespitosum Sleumer
+scientificname: Rhododendron caespitosum
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332076-1
 verified: null
 layout: default
-title: Rhododendron caespitosum Sleumer Sleumer
+title: Rhododendron caespitosum Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

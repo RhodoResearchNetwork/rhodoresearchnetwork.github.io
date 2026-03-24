@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron basilicum Balfour f. & W.W.Sm.
+scientificname: Rhododendron basilicum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron basilicum Balfour f. & W.W.Sm.
+title: Rhododendron basilicum
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

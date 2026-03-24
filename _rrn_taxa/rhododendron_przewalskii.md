@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron przewalskii Maximovicz
+scientificname: Rhododendron przewalskii
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -23,7 +23,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron przewalskii Maximovicz
+title: Rhododendron przewalskii
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

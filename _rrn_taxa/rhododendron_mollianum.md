@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron mollianum Koord.
+scientificname: Rhododendron mollianum
 scientificnameauthorship: Koord.
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332903-1
 verified: null
 layout: default
-title: Rhododendron mollianum Koord. Koord.
+title: Rhododendron mollianum Koord.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

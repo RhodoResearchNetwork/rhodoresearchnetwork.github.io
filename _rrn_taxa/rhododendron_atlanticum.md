@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron atlanticum (Ashe) Rehder
+scientificname: Rhododendron atlanticum
 scientificnameauthorship: (Ashe) Rehder
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:331975-1
 verified: null
 layout: default
-title: Rhododendron atlanticum (Ashe) Rehder (Ashe) Rehder
+title: Rhododendron atlanticum (Ashe) Rehder
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

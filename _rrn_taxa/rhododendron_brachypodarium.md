@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron brachypodarium Sleumer
+scientificname: Rhododendron brachypodarium
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subfamily: ''
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332041-1
 verified: null
 layout: default
-title: Rhododendron brachypodarium Sleumer Sleumer
+title: Rhododendron brachypodarium Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
