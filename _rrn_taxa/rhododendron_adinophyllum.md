@@ -1,5 +1,7 @@
 ---
-scientificname: Rhododendron adinophyllum Merr.
+layout: default
+title: Rhododendron adinophyllum Merr.
+scientificname: Rhododendron adinophyllum
 scientificnameauthorship: Merr.
 genus: Rhododendron
 subfamily: ''

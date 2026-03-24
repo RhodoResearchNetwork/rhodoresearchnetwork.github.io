@@ -1,6 +1,8 @@
 ---
-scientificname: "Rhododendron adenosum Davidian"
-scientificnameauthorship: ""
+layout: default
+title: Rhododendron adenosum Davidian
+scientificname: Rhododendron adenosum
+scientificnameauthorship: Davidian
 genus: "Rhododendron"
 subfamily: ""
 section: ""
@@ -14,10 +16,10 @@ license: ""
 tags: ["taxonomy", "Rhododendron"]
 namepublishedin: "Quart. Bull. Amer. Rhododendron Soc. 21:81 (1978)"
 doi: ""
-wfo_id : ""
+wfo_id : wfo-0001229415
 wfo_parent_id: ""
 wfo_accepted_id: "" #if synonym probably needs to be archived.                      
-ipni_id: ""
+ipni_id: urn:lsid:ipni.org:names:331877-1
 verified:
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}

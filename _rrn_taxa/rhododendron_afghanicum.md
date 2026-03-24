@@ -1,5 +1,7 @@
 ---
-scientificname: Rhododendron afghanicum Aitchison & Hemsl.
+layout: default
+title: Rhododendron afghanicum Aitch. & Hemsl.
+scientificname: Rhododendron afghanicum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -16,10 +18,10 @@ tags:
 - Rhododendron
 namepublishedin: Journ. Linn. Soc. 18:75 (1880)
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0001281035
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:331886-1
 verified: null
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}

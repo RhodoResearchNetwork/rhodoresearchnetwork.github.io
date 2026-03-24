@@ -1,5 +1,7 @@
 ---
-scientificname: Rhododendron aequabile J.J.Sm.
+layout: default
+title: Rhododendron aequabile J.J.Sm.
+scientificname: Rhododendron aequabile
 scientificnameauthorship: J.J.Sm.
 genus: Rhododendron
 subfamily: ''

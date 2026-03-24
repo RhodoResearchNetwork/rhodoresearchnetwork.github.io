@@ -1,5 +1,5 @@
 ---
-layout: debug
+layout: default
 title: "Debug"
 permalink: /debug/
 ---

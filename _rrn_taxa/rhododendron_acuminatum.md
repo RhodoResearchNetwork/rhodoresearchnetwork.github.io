@@ -1,5 +1,7 @@
 ---
-scientificname: Rhododendron acuminatum Hook.f.
+layout: default
+title: Rhododendron acuminatum Hook.f.
+scientificname: Rhododendron acuminatum
 scientificnameauthorship: Hook.f.
 genus: Rhododendron
 subfamily: ''

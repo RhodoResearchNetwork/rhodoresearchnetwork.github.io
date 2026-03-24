@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Rhododendron sikkimense
+layout: default
+title: Rhododendron sikkimense D.K.Pradhan
 nav: false
 genus: "Rhododendron"
 subgenus: ""
@@ -17,7 +17,7 @@ license: ""
 tags: ["taxonomy", "Rhododendron"]
 namepublishedin: "J. Mountain Res. 18(1): 2023 (2023)"
 doi: ""
-wfo_id : "wfo-0000405461"
+wfo_id : "wfo-1200114016"
 wfo_parent id: 
 wfo_accepted_id: "" #if synonym probably needs to be archived.                      
 ipni_id: "urn:lsid:ipni.org:names:77365698-1"
@@ -52,6 +52,6 @@ Endemic to the Sikkim.
 ## Remarks  
 Pradhan (2023) validated the publication, but cited it as a nom. nov., rather than a tax. nov. and with the aa correctable typographic error in the epithet ending -ensis rather than, -ense. He also cited the Edinburgh specimen as a lectotype rather than a holotype, this is correctable under Art. 40.1 of the Mardid code.
 
-This record will recieve new IPNI and WFO IDs, the author string and publication details will be updated to reflect the data in those records.
+This record recieved updated IPNI and WFO IDs for the validated name, the author string and publication details updated to reflect the data in those records.
 
 ---

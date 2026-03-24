@@ -1,5 +1,7 @@
 ---
-scientificname: Rhododendron adenopodum Franch.
+layout: default
+title: Rhododendron adenopodum Franch.
+scientificname: Rhododendron adenopodum
 scientificnameauthorship: Franch.
 genus: Rhododendron
 subfamily: ''

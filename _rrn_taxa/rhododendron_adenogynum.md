@@ -1,5 +1,7 @@
 ---
-scientificname: Rhododendron adenogynum Diels
+layout: defaults
+title: Rhododendron adenogynum Diels
+scientificname: Rhododendron adenogynum
 scientificnameauthorship: Diels
 genus: Rhododendron
 subfamily: ''
