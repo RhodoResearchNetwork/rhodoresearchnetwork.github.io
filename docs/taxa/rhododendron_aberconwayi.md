@@ -1,7 +1,8 @@
 ---
 layout: default
+title: Rhododendron aberconwayi
 scientificname: Rhododendron aberconwayi Cowan
-scientificnameauthorship: Cowan
+scientificauthorship: Cowan
 genus: Rhododendron
 subfamily: ''
 section: ''
@@ -10,18 +11,18 @@ source: Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1982'
-rights holder: Royal Botanic Garden Edinburgh
+rights_holder: "Royal Botanic Garden Edinburgh"
 license: ''
 tags:
-- taxonomy
-- Rhododendron
+  - taxonomy
+  - Rhododendron
 namepublishedin: 'Rhododendron Yearbook 3: 42, f. 17 (1949).'
 doi: ''
 wfo_id: wfo-0001047937
 wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:331863-1
-verified: null
+verified:
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
  {{ page.namepublishedin }}
