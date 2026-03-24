@@ -3,7 +3,7 @@ import re
 
 folder = "_rrn_taxa"
 
-doi_target = "https://doi.org/10.24823/nrbge.1980.3250"
+doi_target = "https://doi.org/10.1017/S0960428600001633"
 
 def normalize(s):
     s = s.lower()
@@ -23,14 +23,14 @@ for filename in os.listdir(folder):
     norm = normalize(text)
 
     # Check if the file contains the reference at all
-    if not ("cullen" and "1980" in norm):
-        print(f"No Chamberlain reference found in {filename}")
+    if not ("kron" and "1993" in norm):
+        print(f"No Kron reference found in {filename}")
         continue
 
     # Find the reference line
     ref_index = None
     for i, line in enumerate(lines):
-        if ("Cullen" in line and "(1980" in line):
+        if ("Kron" in line and "(1993" in line):
             ref_index = i
             break
 
@@ -60,7 +60,7 @@ for filename in os.listdir(folder):
 
     # If DOI was missing, append nothing — replacement already includes it
 
-    print(f"Updated Chamberlain  1982 reference in {filename}")
+    print(f"Updated Kron  1993 reference in {filename}")
 
     with open(path, "w", encoding="utf-8") as f:
         f.writelines(new_lines)

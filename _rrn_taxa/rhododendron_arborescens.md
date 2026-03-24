@@ -57,4 +57,4 @@ Azalea viscosa Marshall, Arbust. Amer. 15 (1785) non L. Type: n.v. Azalea arbore
 
 ## References
 
-Kron, K.A. (1993) A Revision of Rhododendron Section Pentanthera. Edinburgh Journal of Botany 50(3):287
+[Kron, K.A. (1993) A Revision of Rhododendron Section Pentanthera. Edinburgh Journal of Botany 50(3):287](https://doi.org/10.1017/S0960428600001633)

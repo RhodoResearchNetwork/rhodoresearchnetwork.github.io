@@ -57,4 +57,4 @@ Azalea austrina Small, FL S.E. US ed. 2. 1356, 1375 (1913). Type: Wooded hillsid
 
 ## References
 
-Kron, K.A. (1993) A Revision of Rhododendron Section Pentanthera. Edinburgh Journal of Botany 50(3):293
+[Kron, K.A. (1993) A Revision of Rhododendron Section Pentanthera. Edinburgh Journal of Botany 50(3):293](https://doi.org/10.1017/S0960428600001633)
