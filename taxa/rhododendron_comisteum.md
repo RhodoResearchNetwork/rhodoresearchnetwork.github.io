@@ -24,7 +24,7 @@ wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  {{ page.namepublishedin }}
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}

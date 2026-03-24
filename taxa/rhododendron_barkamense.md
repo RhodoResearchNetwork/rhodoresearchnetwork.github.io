@@ -30,7 +30,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:900758-1
 verified: null
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  {{ page.namepublishedin }}
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}

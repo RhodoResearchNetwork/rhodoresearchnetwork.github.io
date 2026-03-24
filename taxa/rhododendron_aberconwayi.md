@@ -2,7 +2,7 @@
 layout: default
 title: Rhododendron aberconwayi Cowan
 scientificname: Rhododendron aberconwayi
-scientificauthorship: Cowan
+scientificnameauthorship: Cowan
 genus: Rhododendron
 subfamily: ''
 section: ''
@@ -24,7 +24,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:331863-1
 verified:
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  {{ page.namepublishedin }}
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}

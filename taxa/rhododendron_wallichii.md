@@ -20,7 +20,7 @@ wfo_accepted_id: "" #if synonym probably needs to be archived.
 ipni_id: ""
 verified:
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  {{ page.namepublishedin }}
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
