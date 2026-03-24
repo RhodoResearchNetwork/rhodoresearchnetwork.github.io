@@ -14,7 +14,7 @@ license: ''
 tags:
 - taxonomy
 - Rhododendron
-namepublishedin: 'Chamberlain, D.F. & Rae, S.J. (1990) A Revision of Rhododendron
+[namepublishedin: 'Chamberlain, D.F. & Rae, S.J. (1990) A Revision of Rhododendron](https://doi.org/10.1017/S096042860000319X)
 
 
 

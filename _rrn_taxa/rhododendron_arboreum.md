@@ -57,4 +57,4 @@ Usually a tree (l-)5-50m, with a well-defined trunk. Leaves narrowly to broadly 
 
 ## References
 
-Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):328
+[Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):328](https://doi.org/10.24823/nrbge.1982.3252)

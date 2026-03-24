@@ -14,7 +14,7 @@ license: ''
 tags:
 - taxonomy
 - Rhododendron
-namepublishedin: 'Cullen, J. (1980) A Revision of Rhododendron 1: Subgenus Rhododendron
+[namepublishedin: 'Cullen, J. (1980) A Revision of Rhododendron 1: Subgenus Rhododendron](https://doi.org/10.24823/nrbge.1980.3250)
 
 
 

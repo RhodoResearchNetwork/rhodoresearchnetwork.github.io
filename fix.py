@@ -1,7 +1,14 @@
 import os
-import yaml
+import re
 
 folder = "_rrn_taxa"
+
+doi_target = "https://doi.org/10.24823/nrbge.1980.3250"
+
+def normalize(s):
+    s = s.lower()
+    s = re.sub(r"\s+", " ", s)
+    return s
 
 for filename in os.listdir(folder):
     if not filename.endswith(".md"):
@@ -10,37 +17,50 @@ for filename in os.listdir(folder):
     path = os.path.join(folder, filename)
 
     with open(path, "r", encoding="utf-8") as f:
-        text = f.read()
+        lines = f.readlines()
 
-    if not text.startswith("---"):
-        print(f"Skipping {filename}: no front matter")
+    text = "".join(lines)
+    norm = normalize(text)
+
+    # Check if the file contains the reference at all
+    if not ("cullen" and "1980" in norm):
+        print(f"No Chamberlain reference found in {filename}")
         continue
 
-    # Split front matter and body
-    parts = text.split("---", 2)
-    front = yaml.safe_load(parts[1])
-    body = parts[2]
+    # Find the reference line
+    ref_index = None
+    for i, line in enumerate(lines):
+        if ("Cullen" in line and "(1980" in line):
+            ref_index = i
+            break
 
-    sci = front.get("scientificname", "").strip()
-    auth = front.get("scientificnameauthorship", "")
+    if ref_index is None:
+        print(f"Reference detected but reference line not found in {filename}")
+        continue
 
-    # Build title
-    if auth:
-        new_title = f"{sci} {auth}".strip()
-    else:
-        new_title = sci
+    # Find DOI line (if present)
+    doi_index = None
+    for i, line in enumerate(lines):
+        if doi_target in line:
+            doi_index = i
+            break
 
-    old_title = front.get("title", "")
+    ref_text = lines[ref_index].strip()
+    replacement = f"[{ref_text}]({doi_target})\n"
 
-    if old_title != new_title:
-        print(f"Fixing {filename}: '{old_title}' → '{new_title}'")
-        front["title"] = new_title
-    else:
-        print(f"{filename} already OK")
+    new_lines = []
 
-    # Write back
-    new_front = yaml.dump(front, sort_keys=False).strip()
-    new_text = f"---\n{new_front}\n---{body}"
+    for i, line in enumerate(lines):
+        if i == ref_index:
+            new_lines.append(replacement)
+        elif i == doi_index:
+            continue  # remove DOI line if present
+        else:
+            new_lines.append(line)
+
+    # If DOI was missing, append nothing — replacement already includes it
+
+    print(f"Updated Chamberlain  1982 reference in {filename}")
 
     with open(path, "w", encoding="utf-8") as f:
-        f.write(new_text)
+        f.writelines(new_lines)

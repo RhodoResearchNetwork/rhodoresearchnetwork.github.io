@@ -14,7 +14,7 @@ license: ''
 tags:
 - taxonomy
 - Rhododendron
-namepublishedin: 'Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus
+[namepublishedin: 'Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus](https://doi.org/10.24823/nrbge.1982.3252)
 
 
 

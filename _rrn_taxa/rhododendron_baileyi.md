@@ -57,4 +57,4 @@ R. thyodocum Balfour f. & Cooper, Notes R.B.G. Edinb. 11:148 (1919). Type: Bhuta
 
 ## References
 
-Cullen, J. (1980) A Revision of Rhododendron 1: Subgenus Rhododendron sections Rhododendron & Pogonanthum. Notes from the Royal Botanic Garden Edinburgh 39(1):151
+[Cullen, J. (1980) A Revision of Rhododendron 1: Subgenus Rhododendron sections Rhododendron & Pogonanthum. Notes from the Royal Botanic Garden Edinburgh 39(1):151](https://doi.org/10.24823/nrbge.1980.3250)
