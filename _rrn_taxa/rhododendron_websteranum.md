@@ -14,7 +14,7 @@ license: ''
 tags:
 - taxonomy
 - Rhododendron
-namepublishedin: Pl. Wilson. 1: 511 (1913)
+namepublishedin: 'Pl. Wilson. 1: 511 (1913)'
 doi: ''
 wfo_id: wfo-0001248029
 wfo_parent_id: ''
