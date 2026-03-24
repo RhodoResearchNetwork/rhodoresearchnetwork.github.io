@@ -1,3 +1,8 @@
+---
+layout: default
+title: Rhododendron Classification
+---
+
 # Rhododendron Classification
 
 This section provides an overview of the Rhododendron classification used by the R‑RN project.
