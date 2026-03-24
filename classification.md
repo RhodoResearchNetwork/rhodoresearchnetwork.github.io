@@ -4,6 +4,8 @@ title: Rhododendron Classification
 ---
 
 <p>Collections loaded: {{ site.collections | map: "label" }}</p>
+<p>Site source: {{ site.source }}</p>
+<p>Files in /taxa/: {{ site.static_files | where: "path", "/taxa" | size }}</p>
 
 # Rhododendron Classification
 
