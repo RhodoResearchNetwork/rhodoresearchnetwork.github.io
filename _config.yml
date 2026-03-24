@@ -27,3 +27,4 @@ feed:
 #  - projects.md
 #  - checklist.md
 #  - publication.md
+dummy: force-rebuild
