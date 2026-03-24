@@ -14,7 +14,7 @@ license: ''
 tags:
 - taxonomy
 - Rhododendron
-namepublishedin: Notes Roy. Bot. Gard. Edinburgh 29: 478 (1982)
+namepublishedin: 'Notes Roy. Bot. Gard. Edinburgh 29: 478 (1982)'
 doi: ''
 wfo_id: wfo-0001229550
 wfo_parent_id: ''
