@@ -28,4 +28,4 @@ feed:
   collections:
     - rrn_taxa
 
-force_rebuild: true
+#force_rebuild: true
