@@ -1,6 +1,6 @@
 ---
 layout: default
-title: D.K.Pradhan
+title: Rhododendron sikkimense D.K.Pradhan
 nav: false
 genus: Rhododendron
 subgenus: ''
