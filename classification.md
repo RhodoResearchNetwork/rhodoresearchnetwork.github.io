@@ -16,22 +16,11 @@ This section provides an overview and data related to the Rhododendron classific
 {% assign rrn_taxa = site.rrn_taxa | default: empty %}
 {% if rrn_taxa != empty %}
   {% assign sorted = rrn_taxa | sort: "title" %}
+  <ul>
   {% for t in sorted %}
-    {{ t.title }}
+    <li><a href="{{ t.url }}">{{ t.title }}</a></li>
   {% endfor %}
+  </ul>
 {% else %}
   <p>No taxa found.</p>
 {% endif %}
-
-<h3>Collections loaded:</h3>
-{{ site.collections | map: "label" | join: ", " }}
-
-<h3>rrn_taxa count:</h3>
-{{ site.rrn_taxa | size }}
-
-<h3>rrn_taxa items:</h3>
-<ul>
-{% for item in site.rrn_taxa %}
-  <li>{{ item.path }}</li>
-{% endfor %}
-</ul>
