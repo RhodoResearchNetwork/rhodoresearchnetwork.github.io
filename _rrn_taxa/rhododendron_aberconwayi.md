@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Rhododendron aberconwayi Cowan
+description: 碟花杜鹃
 scientificname: Rhododendron aberconwayi
 scientificnameauthorship: Cowan
 genus: Rhododendron
