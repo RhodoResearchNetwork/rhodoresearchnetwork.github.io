@@ -1,6 +1,6 @@
 ---
 scientificname: Rhododendron amagianum
-scientificnameauthorship: ''
+scientificnameauthorship: (Makino) Makino ex H.Hara
 genus: Rhododendron
 subfamily: ''
 section: ''
@@ -17,13 +17,14 @@ tags:
 namepublishedin: 'J. Jap. Bot. 7:21 (1930). Type: Japan, Prov. Idzu, Mt Amagi, Makino,
   n.v.'
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0000400596
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:331915-1
 verified: null
 layout: default
-title: Rhododendron amagianum
+title: Rhododendron amagianum (Makino) Makino ex H.Hara
+description: アマギツツジ, Amagi-tsutsuji, Mt. Amagi azalea
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
@@ -36,7 +37,8 @@ title: Rhododendron amagianum
 
 Verified by: {{ page.verified }}
 
-
+#Vernacular Names
+アマギツツジ, Amagi-tsutsuji, Mt. Amagi azalea, 
 
 ## Description
 Tree, to 5m; young shoots densely covered with white soft hairs, later glabrescent. Leaves broadly ovate-rhombic, 4-9 x 3-9cm, apex acuminate, upper surface with long scattered brown hairs, lower surface with adpressed brown pubescent hairs, especially on midrib; petioles 5-10mm, densely adpressed-brown-pubescent. Inflorescence 1-3-flowered; pedicels 6-13mm, densely pubescent. Corolla open-campanu-late, 25-40mm, reddish-orange, upper lobe with darker flecks, lobes 25mm, oblong. Stamens 10, glabrous. Ovary densely brown-pubescent; style with white pubescent hairs at base. Capsule ovoid, 15-20mm, densely pubescent.
