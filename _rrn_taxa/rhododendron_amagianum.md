@@ -14,7 +14,7 @@ license: ''
 tags:
 - taxonomy
 - Rhododendron
-namepublishedin: Enum. Spermatophytarum Japon. 1: 27 (1948)
+namepublishedin: 'Enum. Spermatophytarum Japon. 1: 27 (1948)'
 doi: ''
 wfo_id: wfo-0000400596
 wfo_parent_id: ''
