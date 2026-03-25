@@ -14,8 +14,7 @@ license: ''
 tags:
 - taxonomy
 - Rhododendron
-namepublishedin: 'J. Jap. Bot. 7:21 (1930). Type: Japan, Prov. Idzu, Mt Amagi, Makino,
-  n.v.'
+namepublishedin: Enum. Spermatophytarum Japon. 1: 27 (1948)
 doi: ''
 wfo_id: wfo-0000400596
 wfo_parent_id: ''
@@ -53,7 +52,8 @@ Japan (Hondo, Idzu Peninsula)
 
 
 ## Nomenclatural History
-R. weyrichii Maxim, var. amagianum (Makino) Hatusima, Sci. Rep. Yokosuka City Mus. 15: 23 (1969)
+_Rhododendron amagianum_ Makino, J. Jap. Bot. vii. 21 (1931) appeared in synonymy of _Azalea_ _amagiana_ Makino, same publication.
+_Rhododednron_ _weyrichii_ var. _amagianum_ (Makino) Hatusima, Sci. Rep. Yokosuka City Mus. 15: 23 (1969)
                        
 ## Notes
 
