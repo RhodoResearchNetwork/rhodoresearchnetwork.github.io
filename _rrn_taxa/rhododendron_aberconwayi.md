@@ -60,4 +60,8 @@ Mountain summits
 
 ## References
 
+[Cowan, J. M. (1948). A New Rhododendron. Rhododendron Yearbook, 3, 42–44.](https://www.rhodogroup-rhs.org/media/docs/yearbooks/1946-53/The%20Rhododendron%20Year%20Book%201948.pdf)
+
 [Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):293](https://doi.org/10.24823/nrbge.1982.3252)
+
+Fang, M., Fang, R., He, M., Hu, L., Yang, H., & Chamberlain, D. F. (2005). Rhododendron. In: Wu, Z. Y., Raven, P. H. & Hong, D. Y. (Eds.), Flora of China, Vol. 14 (Ericaceae). Science Press, Beijing & Missouri Botanical Garden Press, St. Louis. pp. 260–373
