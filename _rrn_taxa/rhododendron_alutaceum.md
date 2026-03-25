@@ -63,4 +63,5 @@ Pine forests, cane brakes, open stony places
 
 ## References
 
-[Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):348](https://doi.org/10.24823/nrbge.1982.3252)
+[Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):348](https://doi.org/10.24823/nrbge.1982.3252)  
+Fang, M., Fang, R., He, M., Hu, L., Yang, H., & Chamberlain, D. F. (2005). Rhododendron. In: Wu, Z.Y., Raven, P.H., Hong, D.Y. (Eds.), Flora of China, Vol. 14 (Ericaceae). Science Press, Beijing; Missouri Botanical Garden Press, St. Louis.
