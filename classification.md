@@ -6,7 +6,7 @@ title: Rhododendron Classification
 # Rhododendron Classification
 
 This section provides an overview and data related species in the Rhododendron classification used by the R‑RN project.
-The source for the inital 822 species pages was the [Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh](https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml). Names have been check agaisnt the WFO and IPNI to updated nomenclature. Additional species pages and infraspcific taxa will be added.
+The source for the inital 822 species pages was the [Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh](https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml). Names have been check against the WFO and IPNI to updated nomenclature. Additional species pages and infraspcific taxa will be added.
 
 ## Species List
 
