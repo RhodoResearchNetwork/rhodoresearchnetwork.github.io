@@ -14,8 +14,8 @@ license: ''
 tags:
 - taxonomy
 - Rhododendron
-namepublishedin: 'Notes Roy. Bot. Gard. Edinburgh 10: 89 (1917)'
-doi: 'https://doi.org/10.24823/nrbge.1917.2270'
+namepublishedin: 'Notes R.B.G. Edinb. 10: 89(1919)'
+doi: ''
 wfo_id: 'wfo-0001048677'
 wfo_parent_id: ''
 wfo_accepted_id: ''
@@ -27,7 +27,7 @@ title: Rhododendron callimorphum Balf.f. & W.W.Sm.
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
 
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+{{ page.subgenus }} {{ page.section }} {{ page.subsection }}
 
 **WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
 
