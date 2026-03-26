@@ -26,21 +26,30 @@ The source for the inital 822 species pages was the [Edinburgh Rhododendron Mono
 
 {% for t in sorted %}
 
-  {% if t.subgenus != current_subgenus %}
-    <h2>{{ t.subgenus }}</h2>
+  {%- comment -%}
+  SUBGENUS — only print if it exists AND changes
+  {%- endcomment -%}
+  {% if t.subgenus and t.subgenus != current_subgenus %}
+    <h2>subg. {{ t.subgenus }}</h2>
     {% assign current_subgenus = t.subgenus %}
     {% assign current_section = "" %}
     {% assign current_subsection = "" %}
   {% endif %}
 
-  {% if t.section != current_section %}
-    <h3>{{ t.section }}</h3>
+  {%- comment -%}
+  SECTION — only print if it exists AND changes
+  {%- endcomment -%}
+  {% if t.section and t.section != current_section %}
+    <h3>sect. {{ t.section }}</h3>
     {% assign current_section = t.section %}
     {% assign current_subsection = "" %}
   {% endif %}
 
-  {% if t.subsection != current_subsection %}
-    <h4>{{ t.subsection }}</h4>
+  {%- comment -%}
+  SUBSECTION — only print if it exists AND changes
+  {%- endcomment -%}
+  {% if t.subsection and t.subsection != current_subsection %}
+    <h4>subsect. {{ t.subsection }}</h4>
     {% assign current_subsection = t.subsection %}
   {% endif %}
 
