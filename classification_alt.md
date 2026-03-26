@@ -10,6 +10,16 @@ The source for the inital 822 species pages was the [Edinburgh Rhododendron Mono
 
 ## Species List
 
+{% assign rrn_taxa = site.rrn_taxa | default: empty %}
+{% if rrn_taxa != empty %}
+  {% assign sorted = rrn_taxa 
+      | sort: "title"
+      | sort: "subsection"
+      | sort: "section"
+      | sort: "subgenus"
+  %}
+{% endif %}
+
 {% assign current_subgenus = "" %}
 {% assign current_section = "" %}
 {% assign current_subsection = "" %}
@@ -37,4 +47,3 @@ The source for the inital 822 species pages was the [Edinburgh Rhododendron Mono
   <p><a href="{{ t.url }}">{{ t.title }}</a></p>
 
 {% endfor %}
-
