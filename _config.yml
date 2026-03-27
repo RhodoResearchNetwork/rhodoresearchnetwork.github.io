@@ -23,6 +23,16 @@ collections:
 include:
   - rrn_taxa
 
+nav:
+  - title: Home
+    url: /
+  - title: Classification
+    url: /classification/
+  - title: Code of Conduct
+    url: /coc/
+  - title: Projects
+    url: /projects/
+
 feed:
   path: feed.xml
   collections:
