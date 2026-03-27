@@ -1,7 +1,14 @@
-<nav>
-  <ul>
-    {% for item in site.nav %}
-      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-    {% endfor %}
-  </ul>
-</nav>
+---
+layout: null
+---
+
+<!DOCTYPE html>
+<html>
+  <head>
+    {% include head.html %}
+  </head>
+  <body>
+    {% include nav.html %}
+    {{ content }}
+  </body>
+</html>
