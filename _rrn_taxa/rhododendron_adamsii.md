@@ -14,7 +14,7 @@ license: ''
 tags:
 - taxonomy
 - Rhododendron
-namepublishedin: Monogr. Azaleas : 190 (1921)
+namepublishedin: 'Monogr. Azaleas : 190 (1921)'
 doi: 'https://doi.org/10.5962/bhl.title.25818'
 wfo_id: wfo-0000400491
 wfo_parent_id: ''
