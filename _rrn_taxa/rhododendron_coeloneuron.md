@@ -24,6 +24,7 @@ verified: null
 layout: default
 title: Rhododendron coeloneurum Diels
 ---
+
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
 

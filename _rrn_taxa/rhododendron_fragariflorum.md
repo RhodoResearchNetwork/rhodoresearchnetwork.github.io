@@ -1,10 +1,10 @@
 ---
-scientificname: Rhododendron fragariiflorum
-scientificnameauthorship: 'Kingdon-Ward'
+scientificname: Rhododendron fragariflorum
+scientificnameauthorship: ''
 genus: Rhododendron
-subgenus: 'Rhododendron'
-section: 'Rhododendron'
-subsection: 'Fragariflora'
+subgenus: ''
+section: ''
+subsection: ''
 source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Cullen, J.
@@ -14,15 +14,15 @@ license: ''
 tags:
 - taxonomy
 - Rhododendron
-namepublishedin: Gard. Chron. 86:504 (1929)
+namepublishedin: Gard. Chron. 86:504 (1929) and Notes R.B.G. Edinb. 16:179 (1931)
 doi: ''
-wfo_id: 'wfo-0001048278'
+wfo_id: ''
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: 'urn:lsid:ipni.org:names:332450-1'
+ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron fragariflorum Kingdon-Ward
+title: Rhododendron fragariflorum
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
@@ -44,13 +44,13 @@ Tussock-forming shrublet up to 40 cm. Young growth lepidote and puberulent. Leav
 Bhutan, China (SE Xizang)
 
 ## Altitude
-3650-4500m
+
 
 ## Habitat
 Open hillsides and in swampy pasture
 
 ## Nomenclatural History
-and Notes R.B.G. Edinb. 16:179 (1931)
+
                        
 ## Notes
 
