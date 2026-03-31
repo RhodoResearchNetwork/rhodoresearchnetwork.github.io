@@ -1,26 +1,26 @@
 ---
 layout: default
-title: "Rhododendron × alstroemerioides Lem."
+title: "Rhododendron × altaclerense Lindl."
 description: 
-scientificname: "Rhododendron × alstroemerioides"
-scientificnameauthorship: "Lem."
+scientificname: "Rhododendron × altaclerense"
+scientificnameauthorship: "Lindl."
 genus: "Rhododendron"
 subgenus: 
 section: 
 subsection: 
 source: 'WFO December 2025'
-identifier: "wfo-0000400500"
+identifier: "wfo-0000400501"
 author: WFO
 created: "2026-03-31"
 rights_holder:
 license:
 tags: []
-namepublishedin: "Jard. FIeur. 4: t. 384 (1854)"
+namepublishedin: "Edwards's Bot. Reg. 17: t. 1414 (1831)"
 doi: ""
-wfo_id: "wfo-0000400500"
+wfo_id: "wfo-0000400501"
 wfo_parent_id: "wfo-4000033027"
-wfo_accepted_id: "wfo-0000400500"
-ipni_id: "urn:lsid:ipni.org:names:331908-1"
+wfo_accepted_id: "wfo-0000400501"
+ipni_id: "urn:lsid:ipni.org:names:331909-1"
 verified:
 ---
 
@@ -54,5 +54,5 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
-
+Cultivated hybrid between R. arboreum × R. catawbiense × R. ponticum.
 ## References

@@ -1,26 +1,26 @@
 ---
 layout: default
-title: "Rhododendron × balsaminiflorum T.Moore"
+title: "Rhododendron × alstroemerioides Lem."
 description: 
-scientificname: "Rhododendron × balsaminiflorum"
-scientificnameauthorship: "T.Moore"
+scientificname: "Rhododendron × alstroemerioides"
+scientificnameauthorship: "Lem."
 genus: "Rhododendron"
 subgenus: 
 section: 
 subsection: 
 source: 'WFO December 2025'
-identifier: "wfo-0000400372"
+identifier: "wfo-0000400500"
 author: WFO
 created: "2026-03-31"
 rights_holder:
 license:
 tags: []
-namepublishedin: "Florist & Pomol. 1883: 81 (1883)"
+namepublishedin: "Jard. FIeur. 4: t. 384 (1854)"
 doi: ""
-wfo_id: "wfo-0000400372"
+wfo_id: "wfo-0000400500"
 wfo_parent_id: "wfo-4000033027"
-wfo_accepted_id: "wfo-0000400372"
-ipni_id: "urn:lsid:ipni.org:names:332001-1"
+wfo_accepted_id: "wfo-0000400500"
+ipni_id: "urn:lsid:ipni.org:names:331908-1"
 verified:
 ---
 
@@ -54,5 +54,5 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
-
+Cultivated hybrids between R. calendulaceum × R. caucasicum × R. periclymenoides.
 ## References

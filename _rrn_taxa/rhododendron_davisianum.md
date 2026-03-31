@@ -39,7 +39,7 @@ Verified by: {{ page.verified }}
 
 
 ## Description
-
+Türkiye
 
 ## Distribution
 
@@ -54,5 +54,6 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
+Wild Hybrid between R. caucasicum × R. smirnowii
 
 ## References

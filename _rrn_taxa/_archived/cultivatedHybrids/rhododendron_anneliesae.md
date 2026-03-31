@@ -1,26 +1,26 @@
 ---
 layout: default
-title: "Rhododendron × altaclerense Lindl."
+title: "Rhododendron × anneliesae Rehder"
 description: 
-scientificname: "Rhododendron × altaclerense"
-scientificnameauthorship: "Lindl."
+scientificname: "Rhododendron × anneliesae"
+scientificnameauthorship: "Rehder"
 genus: "Rhododendron"
 subgenus: 
 section: 
 subsection: 
 source: 'WFO December 2025'
-identifier: "wfo-0000400501"
+identifier: "wfo-0000400589"
 author: WFO
 created: "2026-03-31"
 rights_holder:
 license:
 tags: []
-namepublishedin: "Edwards's Bot. Reg. 17: t. 1414 (1831)"
+namepublishedin: "Monogr. Azaleas : 181 (1921)"
 doi: ""
-wfo_id: "wfo-0000400501"
+wfo_id: "wfo-0000400589"
 wfo_parent_id: "wfo-4000033027"
-wfo_accepted_id: "wfo-0000400501"
-ipni_id: "urn:lsid:ipni.org:names:331909-1"
+wfo_accepted_id: "wfo-0000400589"
+ipni_id: "urn:lsid:ipni.org:names:292731-2"
 verified:
 ---
 
@@ -54,5 +54,6 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
+Cultivated hybrid between R. arborescens × R. calendulaceum.
 
 ## References

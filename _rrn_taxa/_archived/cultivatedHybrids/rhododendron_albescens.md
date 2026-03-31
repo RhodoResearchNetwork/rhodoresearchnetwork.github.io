@@ -1,26 +1,26 @@
 ---
 layout: default
-title: "Rhododendron × arbutifolium Rehder"
+title: "Rhododendron × albescens W.Bull"
 description: 
-scientificname: "Rhododendron × arbutifolium"
-scientificnameauthorship: "Rehder"
+scientificname: "Rhododendron × albescens"
+scientificnameauthorship: "W.Bull"
 genus: "Rhododendron"
 subgenus: 
 section: 
 subsection: 
 source: 'WFO December 2025'
-identifier: "wfo-0000400410"
+identifier: "wfo-0000400509"
 author: WFO
 created: "2026-03-31"
 rights_holder:
 license:
 tags: []
-namepublishedin: "Man. Cult. Trees : 689 (1927)"
+namepublishedin: "Nursery Cat. (William Bull) 1887: 11 (1887)"
 doi: ""
-wfo_id: "wfo-0000400410"
+wfo_id: "wfo-0000400509"
 wfo_parent_id: "wfo-4000033027"
-wfo_accepted_id: "wfo-0000400410"
-ipni_id: "urn:lsid:ipni.org:names:331946-1"
+wfo_accepted_id: "wfo-0000400509"
+ipni_id: "urn:lsid:ipni.org:names:331898-1"
 verified:
 ---
 
@@ -54,5 +54,5 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
-
+Cultiated hybrid between R. edgeworthii × R. formosum × R. veitchianum.
 ## References

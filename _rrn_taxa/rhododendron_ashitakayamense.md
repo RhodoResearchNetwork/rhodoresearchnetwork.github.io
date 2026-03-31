@@ -42,7 +42,7 @@ Verified by: {{ page.verified }}
 
 
 ## Distribution
-
+Japan, Izu Peninsula and Mt. Ashitaka.
 
 ## Altitude
 
@@ -54,5 +54,8 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
+Rhododendron × ashitakayamense (Sugim.) is a natural hybrid found in Japan. Parentage is not known for sure but considered a cross between Rhododendron komiyamae (Komiyama-tsutsuji) and Rhododendron amamiense (or sometimes linked to Rhododendron sataense). 
+
+A R. komiyamae x R. sataense would be a subsect. Tsutsui hybrid. R.komiyamae x R. amamiense would be a subsect. Tsutsui x Choniastrum hybrid.
 
 ## References

@@ -1,26 +1,26 @@
 ---
 layout: default
-title: "Rhododendron × albescens W.Bull"
+title: "Rhododendron × cartonianum DC."
 description: 
-scientificname: "Rhododendron × albescens"
-scientificnameauthorship: "W.Bull"
+scientificname: "Rhododendron × cartonianum"
+scientificnameauthorship: "DC."
 genus: "Rhododendron"
 subgenus: 
 section: 
 subsection: 
 source: 'WFO December 2025'
-identifier: "wfo-0000400509"
+identifier: "wfo-0000403305"
 author: WFO
 created: "2026-03-31"
 rights_holder:
 license:
 tags: []
-namepublishedin: "Nursery Cat. (William Bull) 1887: 11 (1887)"
+namepublishedin: "Prodr. 7: 727 (1839)"
 doi: ""
-wfo_id: "wfo-0000400509"
+wfo_id: "wfo-0000403305"
 wfo_parent_id: "wfo-4000033027"
-wfo_accepted_id: "wfo-0000400509"
-ipni_id: "urn:lsid:ipni.org:names:331898-1"
+wfo_accepted_id: "wfo-0000403305"
+ipni_id: "urn:lsid:ipni.org:names:332118-1"
 verified:
 ---
 
@@ -54,5 +54,5 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
-
+Historic cultivated hybrid between R. catawbiense × R. periclymenoides.
 ## References

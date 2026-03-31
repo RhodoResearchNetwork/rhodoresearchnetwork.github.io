@@ -5,9 +5,9 @@ description:
 scientificname: "Rhododendron × amoenum"
 scientificnameauthorship: "Planch."
 genus: "Rhododendron"
-subgenus: 
-section: 
-subsection: 
+subgenus: 'Azaleastrum' 
+section: 'Tsutsusi' 
+subsection: 'Tsutsusi'
 source: 'WFO December 2025'
 identifier: "wfo-0000400595"
 author: WFO
@@ -42,7 +42,7 @@ Verified by: {{ page.verified }}
 
 
 ## Distribution
-
+Japan
 
 ## Altitude
 
@@ -54,5 +54,5 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
-
+Wild hybrid between R. kaempferi × R. kiusianum.
 ## References
