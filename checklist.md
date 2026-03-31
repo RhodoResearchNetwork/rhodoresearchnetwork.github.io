@@ -490,7 +490,7 @@ Ordered by subgeneric classification to add.
 | [_Rhododendron myrsinites_](/taxa/rhododendron-myrsinites) | wfo-0000400258 | urn:lsid:ipni.org:names:332928-1 | ✔️ |
 | [_Rhododendron myrtifolium_](/taxa/rhododendron-myrtifolium) | wfo-0000400253 | urn:lsid:ipni.org:names:332929-1 | ✔️ |
 | [_Rhododendron naamkwanense_](/taxa/rhododendron-naamkwanense) | wfo-0001047943 | urn:lsid:ipni.org:names:332932-1 | ✔️ |
-| [_Rhododendron nakaharai_](/taxa/rhododendron-nakaharai) |  |  | ⚠️ |
+| [_Rhododendron nakaharae_](/taxa/rhododendron-nakaharae) |  |  | ⚠️ |
 | [_Rhododendron nakotiltum_](/taxa/rhododendron-nakotiltum) | wfo-0001048796 | urn:lsid:ipni.org:names:332936-1 | ✔️ |
 | [_Rhododendron nanophyton_](/taxa/rhododendron-nanophyton) | wfo-0000400274 | urn:lsid:ipni.org:names:332938-1 | ✔️ |
 | [_Rhododendron natalicium_](/taxa/rhododendron-natalicium) | wfo-0000400273 | urn:lsid:ipni.org:names:332942-1 | ✔️ |
