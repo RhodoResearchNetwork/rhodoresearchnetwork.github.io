@@ -54,5 +54,5 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
-Culitvate hybrid -  R. molle × R. viscosum.
+
 ## References
