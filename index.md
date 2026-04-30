@@ -13,4 +13,5 @@ Details of these project's and their GitHub repostitories can be found on the [p
 - Zotero Library - [R-RN Zotero](https://www.zotero.org/groups/4735534/rhodo-research.net)
 - Zenodo archive - [R-RN Zenodo archive](https://zenodo.org/communities/rhododendron/records)
 
-- [Classification overview](/classification)
+- [Draft Checklist A-Z](/checklist_A-Z_draft)
+- [Draft Checklist Full Classification](/checklist_fullClassification_draft)
